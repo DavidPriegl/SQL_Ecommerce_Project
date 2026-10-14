@@ -1,0 +1,641 @@
+customer_id,first_name,last_name,email,phone,country,city,registration_date,birth_date,loyalty_tier
+490,László,Molnár,lászló.molnár54@example.com,(30) 633-4748,Polska,Warsaw,10/01/2022,0000-00-00,Silver
+398,Anna,Varga,anna.varga93@example.com,,Österreich,Graz,12-06-2022,1999-04-22,NULL
+348,Lukas  ,Brown,lukas.brown71@example.com,06301450300,austria,Vienna,11/09/2022,1987-04-07,
+330,Zsófia,Schmidt,zsófia.schmidt14@example.com,,HU,Győr,01-06-2024,2031-05-17,N/A
+325,JOHN,  Horváth ,john.horváth23@example.com,N/A,HU,Szeged,22/09/2022,1968-09-23,Platinum
+162,Réka  ,  Horváth ,réka.horváth10@example.com,,Slovakia,Bratislava,2021-05-08,09/01/1999,N/A
+225,Jan,Tóth,jan.tóth3@example.com,N/A,HU,Tát,2024-07-17,10-19-1962,SILVER
+514,Dávid,johnson,dávid.johnson6@example.com,N/A,Magyarország,Szeged,2021-12-31,1998-06-15,
+240,Lukas,németh,lukas.németh78@example.com,N/A,Germny,Munich,2023.07.21,1996-03-28,
+234,péter,Brown,péter.brown76@example.com,,Austria,Vienna,2024-03-25,1968-10-06,
+62,Tamás,Dvorak,tamás.dvorak49@example.com,,austria,Graz,2023-12-23,1986-06-16,gold
+438,Péter,Novak,péter.novak35@example.com,(30) 505-4581,SK,Komárno,2024-07-30,1963-04-14,NULL
+493,  Lukas ,Horváth,lukas.horváth46@example.com,N/A,Polska,Warsaw,2023-05-16,2004-06-14,Silver
+5,lukas,kovács,lukas.kovács5@example.com,,Germny,Hamburg,2023-04-02,1984-01-08,gold
+496,László,Müller,lászló.müller69@example.com,+36 30 3346703,Germany,Berlin,2021-08-11,07/05/1999,N/A
+137,OLIVIA,Horváth,olivia.horváth40@example.com,+36 30 8590804,Austria,Vienna,2022.02.28,2003-04-29,Silver
+271,Mia,Fischer,mia.fischer82@example.com,06306483324,Magyarország,Esztergom,2023-02-23,1964-11-08,Bronze
+172,Judit,  Smith ,judit.smith21@example.com,,germany,Hamburg,2023-06-14,16/09/2003,
+519,Zsófia,Varga,zsófia.varga19@example.com,,HU,Tát,2021-06-11,1981-12-25,Gold
+84,Sophia,Horváth,sophia.horváth92@example.com,N/A,HU,Budapest,07-27-2023,1963-04-26,NULL
+634,LUKAS,  Kiss ,lukas.kiss11@example.com,,Polska,Krakow,2023-08-12,1971-10-28,gold
+153,Bence,Molnár,BENCE.MOLNÁR50@EXAMPLE.COM,N/A,SK,Bratislava,2023-10-21,1966-05-15,NULL
+199,Gábor,Johnson,gábor.johnson38@example.com,+36 30 9064202,Slovensko,Komárno,2024-01-28,2004.07.12,Silver
+616,ESZTER,Szabó,eszter.szabó9@example.com,,Austria,Vienna,06 Jan 2024,1976-08-02,Silver
+424,LIAM,fischer,liam.fischer1@example.com,N/A,Germany,Berlin,2024-07-31,1995-07-14,Gold
+98,Márta,Kovács,márta.kovács72@example.com,,Polska,Warsaw,2024-02-08,1985-11-21,N/A
+231,Ferenc,kowalski,ferenc.kowalski77@example.com,N/A,SK,Bratislava,07-29-2024,1961.09.02,gold
+175,DÁVID,novak,dávid.novak84@example.com,(30) 120-6221,poland,Warsaw,07/04/2022,1974-08-04,Silver
+184,Péter,Szabó,péter.szabó18@example.com,,Germany,Hamburg,06-27-2023,1988-10-14,gold
+476,Judit,Kowalski,judit.kowalski36@example.com,06307320122,hungary,Szeged,21/03/2024,28/11/2002,Platinum
+45,NOAH,Kovács,noah.kovács35@example.com,(30) 826-3594,germany,Berlin,2022-08-13,1999.04.22,SILVER
+388,István,Fischer,istván.fischer43@example.com,(30) 983-1797,Hungry,Esztergom,2024-09-05,2000-08-25,N/A
+101,Tamás,Novak,tamás.novak68@example.com,,germany,Munich,2024-06-23,1994-02-09,N/A
+473,john,NOVAK,john.novak89@example.com,06308331010,Hungary,Debrecen,04/04/2022,20/10/1965,
+479,John,nagy,john.nagy93@example.com,,Österreich,Graz,28 Jul 2021,1973-03-29,Gold
+552,NOAH,JOHNSON,noah.johnson11@example.com,(30) 969-2989,Slovakia,Bratislava,2022-10-04,20/04/2004,Silver
+432,Gábor,Kiss,gábor.kiss44@example.com,06306026983,Hungary,Tát,2023-09-02,2001-12-06,Silver
+151,Judit,Horváth,judit.horváth97@example.com,06308383643,Slovakia,Bratislava,2024.08.06,1972-10-25,NULL
+264,BENCE,Kiss,bence.kiss63@example.com,N/A,HUNGARY,Tát,2021.03.07,11/11/1994,Silver
+63,Dávid,Smith,dávid.smith41@example.com,+36 30 2530497,Slovensko,Komárno,06/02/2023,10/09/1973,N/A
+635,EMMA,Smith,emma.smith98@example.com,,Austria,Vienna,08-07-2024,2004-01-05,Gold
+511,Anna,Szabó,anna.szabó98@example.com,+36 30 3393028,HUNGARY,Budapest,2021-03-31,1971-11-10,SILVER
+591,Emma,Farkas,emma.farkas70@example.com,,HUNGARY,Szeged,2021-02-23,1990.03.01,Bronze
+316,John,Johnson,john.johnson79@example.com,N/A,Slovakia,Komárno,2022-07-13,1990-01-19,Platinum
+558,Réka,Schmidt,RÉKA.SCHMIDT34@EXAMPLE.COM,(30) 541-9321,Austria,Graz,02/02/2024,1967-07-17,Bronze
+568,Eva,Johnson  ,eva.johnson87@example.com,06306067099,Germny,Berlin,16/05/2023,22 Oct 1995,NULL
+250,Tamás,Brown,tamás.brown11@example.com,(30) 377-8289,hungary,Budapest,2022-04-13,1988-02-15,SILVER
+88,  Tamás ,kovács,tamás.kovács20@example.com,(30) 475-7521,PL,Krakow,2023-01-30,1993-05-17,
+116,Emma,Kovács,,06303351084,DE,Berlin,2023-06-18,1981-01-08,N/A
+168,Sophia  ,  Dvorak ,sophia.dvorak49@example.com,06306395626,HU,Budapest,01-06-2023,2003-01-13,Bronze
+607,DÁVID,Müller,dávid.müller6example.com,N/A,SK,Bratislava,2024-09-03,1988-03-10,SILVER
+233,Ferenc,NOVAK,,N/A,poland,Warsaw,25 Dec 2023,02-26-2005,NULL
+463,Nóra,Molnár,,(30) 797-3414,germany,Berlin,2023-01-11,14/07/1962,Platinum
+131,Ferenc,Horváth,ferenc.horváth39@example.com,(30) 901-2260,austria,Vienna,2021-10-26,1965-09-04,
+333,Sándor  ,Molnár,sándor.molnár53@example.com,06301243334,Hungry,Győr,2023.09.29,1979-06-02,Platinum
+583,Tamás,  Molnár ,tamás.molnár79@example.com,+36 30 8901711,Poland,Warsaw,2023-03-29,1965-01-30,N/A
+6,Tamás,Müller,tamás.müller52@example.com,,poland,Krakow,,2005-09-17,Silver
+548,Judit,Fischer,judit.fischer46@example.com,06307001957,Poland,Warsaw,2021-08-23,02-21-1976,N/A
+219,ISTVÁN,Dvorak,istván.dvorak74@example.com,+36 30 8264954,Hungary,Szeged,2022-06-14,1996-07-27,SILVER
+187,  Gábor ,Molnár,gábor.molnár87@example.com,N/A,DE,Hamburg,27 Aug 2024,1996-09-26,Bronze
+440,HANNA,  Németh ,hanna.németh46@example.com,+36 30 5637641,hungary,Szeged,2022-08-27,2005-01-05,N/A
+557,NOAH,Brown,noah.brown9@example.com,+36 30 2712355,DE,Berlin,2021-12-03,22 Jul 1987,Platinum
+306,Eva,Farkas,eva.farkas92@example.com,(30) 967-3089,Slovakia,Bratislava,07/12/2022,1968-01-04,Bronze
+354,SOPHIA,Szabó,sophia.szabó3@example.com,(30) 580-2948,Hungary,Budapest,2023.06.03,2031-05-17,Bronze
+355,Gábor,WEBER,gábor.weber24@example.com,N/A,Germny,Berlin,2021-03-01,1968-02-22,Platinum
+359,  Márta ,Weber,márta.weber95@example.com,,Hungry,Esztergom,2021-12-12,1965-10-21,gold
+406,Jan,Brown  ,jan.brown39@example.c,06309732032,DE,Hamburg,2024-01-06,1990-01-03,Silver
+222,zsófia,Németh,zsófia.németh15@example.com,(30) 397-2103,DE,Munich,2024-03-07,1964.11.17,Silver
+142,Péter,  Horváth ,péter.horváth50@example.com,N/A,Germany,Munich,2023-11-02,2004-05-28,Bronze
+239,  László ,Molnár,lászló.molnár21@example.c,+36 30 4360650,Hungry,Debrecen,2022-07-20,1995-11-01,SILVER
+244,SÁNDOR,Kovács,sándor.kovács48@example.com,N/A,SK,Bratislava,2023-10-06,1984-08-24,Gold
+481,Csilla,Szabó,csilla.szabó83@example.com,N/A,Slovensko,Komárno,2023-11-10,1980-03-06,Gold
+157,  István ,kowalski,istván.kowalski34@example.com,(30) 979-3734,Hungry,Szeged,26/03/2024,1966-11-30,Gold
+55,István,Varga,istván.varga62@example.com,,Austria,Graz,2022-08-28,05-22-1990,SILVER
+453,Nóra,kowalski,nóra.kowalski42@example.com,06308178640,Magyarország,Szeged,2024-07-07,02/01/1977,Silver
+433,Anna,MOLNÁR,anna.molnár60@example.com,06307306753,Germany,Hamburg,2022-05-05,17/02/2003,Bronze
+621,HANNA,Horváth,hanna.horváth97@example.com,+36 30 9689889,Hungry,Esztergom,2021-08-07,1998-02-21,gold
+351,RÉKA,Tóth,réka.tóth25@example.com,(30) 946-5932,PL,Warsaw,2022-01-11,1968-06-23,N/A
+564,Réka,Nagy,réka.nagy53@example.com,06307030065,Germny,Munich,NULL,2031-05-17,NULL
+601,FERENC,Molnár,ferenc.molnár55@example.com,,poland,Krakow,02-11-2024,2000-07-11,
+291,  Mia ,Németh,mia.németh68@example.com,,Österreich,Vienna,06/03/2022,03/10/1978,N/A
+474,Eva,Kiss,eva.kiss74@example.com,,hungary,Esztergom,04/10/2022,1900-01-01,N/A
+442,  Olivia ,Kiss,olivia.kiss30@example.com,,Slovensko,Bratislava,2024-02-06,19/01/2002,NULL
+159,Csilla  ,Weber,csilla.weber16@example.com,(30) 170-8620,Austria,Graz,2021-04-18,1976-02-02,
+611,EVA,Fischer,eva.fischer17@example.com,(30) 966-9622,Deutschland,Hamburg,2021-12-30,1989-01-11,Silver
+592,Sándor,Schmidt,sándor.schmidt74@example.com,(30) 115-5598,SK,Komárno,2023-11-29,1983-05-02,Silver
+309,Liam,Fischer,liam.fischer80@example.com,N/A,Slovakia,Komárno,2023-11-10,1998-01-18,Bronze
+459,OLIVIA,Schmidt,olivia.schmidt22@example.com,(30) 750-4299,austria,Graz,2022-05-17,1998-01-15,gold
+375,Bence,Molnár,bence.molnár71@example.com,,Österreich,Graz,2024-08-01,1992.07.21,Bronze
+1,  John ,Szabó,john.szabó95@example.com,+36 30 2458591,Hungry,Győr,03/04/2022,08/07/1972,Platinum
+467,Olivér,fischer,olivér.fischer82@example.com,,Hungary,Debrecen,08-24-2022,1967-09-09,gold
+314,Zsófia,horváth,zsófia.horváth97@example.com,+36 30 3806547,Slovakia,Komárno,2023-02-24,07/05/1981,
+362,ISTVÁN,dvorak,istván.dvorak70@example.com,,Österreich,Vienna,2021-03-06,1998.08.12,gold
+391,John,  Horváth ,john.horváth68@example.com,(30) 252-3093,Slovakia,Bratislava,2023.12.11,1967-07-14,Platinum
+554,  Eva ,Horváth,EVA.HORVÁTH59@EXAMPLE.COM,N/A,poland,Krakow,2022-10-16,04-11-1973,SILVER
+129,Judit,molnár,judit.molnár11@example.com,,Hungary,Győr,2023-02-18,03/11/1973,N/A
+317,EMMA,Nagy,emma.nagy2@example.com,+36 30 5752935,hungary,Esztergom,12/12/2023,27/04/1969,Silver
+319,noah,Tóth,noah.tóth8@example.com,06308391619,AT,Graz,2022-11-13,1965-05-22,NULL
+254,Anna,Kowalski,anna.kowalski45@example.com,(30) 109-8052,germany,Munich,2024.01.01,29/09/1960,Platinum
+282,Noah,Novak,noah.novak65@example.com,06303307080,DE,Munich,2023-08-19,1993-07-19,Bronze
+269,Réka,Dvorak,réka.dvorak74@example.com,(30) 338-5198,PL,Warsaw,19/03/2021,2001-04-20,Silver
+198,Emma,Nagy,emma.nagy54@example.com,(30) 623-2928,AT,Graz,09-18-2024,21/03/1984,Silver
+569,Gábor,Németh,gábor.németh54@example.com,+36 30 8736886,Germny,Hamburg,09/09/2022,1987-05-13,Gold
+573,Olivia,Nagy,olivia.nagy80@example.com,06309721175,SK,Komárno,2021-08-23,1966-01-09,Silver
+550,Nóra,  Müller ,nóra.müller41@example.com,06303000834,Austria,Graz,2021-04-12,2004-04-24,N/A
+165,Sándor,  Molnár ,SÁNDOR.MOLNÁR60@EXAMPLE.COM,(30) 302-7563,Hungary,Budapest,NULL,1970-11-23,Silver
+383,Réka,Fischer,réka.fischer39@example.com,N/A,Slovakia,Bratislava,2024-10-06,1993-04-10,gold
+533,László  ,Müller,lászló.müller61@example.com,+36 30 7528651,Slovensko,Komárno,2021-11-26,1999-03-09,Gold
+17,Emma,Németh,emma.németh63@example.com,(30) 441-3143,poland,Warsaw,2021-04-15,12/04/1968,Gold
+117,Eszter,Kowalski,eszter.kowalski53@example.com,N/A,DE,Munich,2021-05-05,17/09/1975,N/A
+301,  Lukas ,  Kiss ,lukas.kiss11@example.com,,Polska,Krakow,2023-08-12,1971-10-28,gold
+34,Hanna,Schmidt,hanna.schmidt79@example.com,(30) 463-5232,Polska,Warsaw,2022-11-20,1962-07-29,
+23,Márta,Varga,márta.varga73@example.com,06308801207,PL,Warsaw,2024-01-28,1960-01-14,SILVER
+377,Lukas,Szabó,lukas.szabó90@example.com,+36 30 6482263,germany,Berlin,2021-05-16,1991-07-26,Gold
+404,Olivér,HORVÁTH,olivér.horváth92@example.com,+36 30 3756910,HUNGARY,Szeged,05-23-2021,1967-08-10,Gold
+94,Tamás,Kovács,,(30) 609-9938,HUNGARY,Tát,2024-08-06,29/09/1983,
+14,Csilla  ,  Varga ,csilla.varga77example.com,,HUNGARY,Szeged,2022-04-27,1996-03-22,SILVER
+469,László,Brown,lászló.brown79example.com,N/A,Slovakia,Komárno,2022-12-31,1900-01-01,
+366,Tamás,Brown,tamás.brown74@example.c,06309435056,austria,Vienna,09-28-2023,22/12/1968,
+486,István,Brown,istván.brown52@example.com,06302183767,Germny,Hamburg,2022-06-05,27 Feb 1998,N/A
+369,  Lukas ,Schmidt,lukas.schmidt82@example.com,,Österreich,Graz,2024-06-12,29 Nov 1998,Gold
+236,Sándor,Novak,sándor.novak48@example.com,06303316405,Germany,Berlin,2023-09-18,N/A,gold
+638,LUKAS,kiss,lukas.kiss88@example.com,N/A,DE,Hamburg,2021-06-17,2000-01-30,Platinum
+639,SOPHIA,Müller,sophia.müller65@example.com,,austria,Graz,06 Jan 2021,17/05/1985,N/A
+72,JOHN,Smith,john.smith57example.com,,DE,Berlin,25/06/2023,03-02-1987,gold
+475,tamás,Molnár,,06309385800,HUNGARY,Budapest,2023-08-02,1988-05-05,
+300,judit,Fischer,judit.fischer70@example.com,,austria,Graz,2021-09-24,1962-08-08,NULL
+613,JUDIT,Brown,judit.brown13@example.com,,Slovakia,Komárno,2023-04-22,1980.11.29,Silver
+95,Csilla,Kovács  ,csilla.kovács57@example.com,(30) 508-3142,Deutschland,Berlin,2023-08-10,1978-04-21,SILVER
+79,ISTVÁN,Kovács,istván.kovács48@example.com,06305576678,SK,Komárno,30 Jul 2021,2006.04.14,NULL
+498,Eva,  Brown ,eva.brown15@example.com,,Deutschland,Berlin,02-13-2021,1971-04-25,Bronze
+261,  Hanna ,Smith,hanna.smith83@example.com,,PL,Warsaw,2023-06-18,1977-04-24,SILVER
+71,Lukas,Horváth,lukas.horváth14@example.com,,Germny,Munich,2022.02.09,26/07/1975,gold
+549,Anna,Smith,anna.smith60@example.com,N/A,Germany,Hamburg,2022.10.21,1980-11-14,
+410,NÓRA,varga,NÓRA.VARGA65@EXAMPLE.COM,,Germny,Munich,2023.07.27,10 Aug 1971,gold
+545,  Sándor ,nagy,sándor.nagy66@example.com,06303324735,Poland,Krakow,19/03/2022,1992-09-25,
+454,Márta,Kiss,márta.kiss29example.com,+36 30 7897060,Slovensko,Bratislava,2022-07-25,1993-02-06,SILVER
+90,Katalin,  Johnson ,katalin.johnson71@example.com,+36 30 3920762,Magyarország,Budapest,2022-09-07,17/02/1974,Platinum
+457,Katalin,Kovács,katalin.kovács54@example.com,+36 30 6750028,PL,Krakow,2022-08-14,1962-02-15,Platinum
+567,László,Nagy,LÁSZLÓ.NAGY33@EXAMPLE.COM,06302442898,HU,Győr,2022-08-04,13/01/2005,Platinum
+258,csilla,Dvorak,csilla.dvorak24@example.com,06307455837,Slovakia,Bratislava,2022-05-28,03-26-1994,Bronze
+16,lászló,  Farkas ,lászló.farkas57@example.com,+36 30 2737893,germany,Hamburg,2022-09-12,13/09/1960,SILVER
+598,Márta,Weber,márta.weber85@example.com,,Hungry,Budapest,20/02/2023,14 Jan 1967,SILVER
+411,DÁVID,fischer,DÁVID.FISCHER15@EXAMPLE.COM,(30) 483-5968,Slovensko,Komárno,2024-03-16,1985-12-24,gold
+338,Noah,Molnár,noah.molnár46@example.com,N/A,Österreich,Graz,29/10/2023,1997-12-10,Silver
+403,Ferenc,Tóth,ferenc.tóth48@example.com,06308075324,austria,Graz,30 Apr 2023,09/05/1992,NULL
+25,hanna,Horváth,hanna.horváth97@example.com,+36 30 9689889,Hungry,Esztergom,2021-08-07,1998-02-21,gold
+304,Emma,Tóth,EMMA.TÓTH63@EXAMPLE.COM,+36 30 8469488,poland,Krakow,2024-05-05,2001-07-12,Silver
+267,Emma,  Varga ,emma.varga77@example.com,(30) 882-8054,Polska,Krakow,23 Dec 2022,1988-04-09,Platinum
+256,CSILLA,Varga,CSILLA.VARGA38@EXAMPLE.COM,+36 30 4150584,DE,Munich,2023-07-22,2000-08-14,SILVER
+241,  Lukas ,Weber,lukas.weber89@example.com,,AT,Vienna,02-12-2023,05-22-2003,Silver
+537,Liam,Fischer,liam.fischer12@example.com,+36 30 7900127,HUNGARY,Debrecen,2021.08.01,16/01/1968,gold
+312,EVA,Fischer,eva.fischer94@example.com,(30) 928-1447,Österreich,Graz,2022-06-18,05/07/1965,gold
+555,OLIVIA,NOVAK,olivia.novak12@example.com,+36 30 5066398,germany,Munich,08-30-2022,1967-06-06,gold
+504,Noah,Kiss,noah.kiss93@example.com,,Poland,Warsaw,2021-09-19,1977-03-13,Silver
+502,István,  Fischer ,istván.fischer56@example.com,(30) 439-6907,HU,Győr,2023-10-04,1992-08-13,SILVER
+82,Jan,Novak,,06306919270,Poland,Krakow,2023.11.22,14/09/1981,Silver
+221,Eszter,Farkas,eszter.farkas2@example.com,(30) 412-4441,AT,Vienna,2024-02-11,1900-01-01,Platinum
+586,  Nóra ,Dvorak,nóra.dvorak15@example.com,N/A,Germny,Hamburg,2024-06-14,1992-12-27,Bronze
+197,John,Kovács,john.kovács82@example.com,,SK,Bratislava,2024-01-01,1964-05-11,gold
+176,Sándor,Tóth,sándor.tóth77@example.com,(30) 154-2659,Österreich,Graz,2023-09-16,1962-10-12,Platinum
+495,Ferenc,  Brown ,FERENC.BROWN2@EXAMPLE.COM,+36 30 3578837,austria,Graz,2023-10-05,1977-09-21,Gold
+85,Gábor,Farkas,gábor.farkas7@example.com,06308377556,Österreich,Vienna,11/11/2022,1984-07-05,gold
+595,John,Kovács,john.kovács15@example.com,(30) 162-5244,DE,Hamburg,13/01/2022,2005.06.17,Bronze
+464,Csilla,Brown,csilla.brown91@example.com,N/A,SK,Komárno,06-14-2021,2006.07.09,SILVER
+425,Tamás,Molnár,tamás.molnár94@example.com,(30) 537-1849,Poland,Krakow,2022-01-28,N/A,NULL
+593,BENCE,FISCHER,bence.fischer47@example.com,,Austria,Graz,2022-05-29,1961-02-08,gold
+428,Dávid,Schmidt,dávid.schmidt16@example.c,+36 30 2090992,Poland,Warsaw,2021-05-05,1962-12-28,
+133,márta,Smith,márta.smith95@example.com,N/A,Austria,Graz,03 Oct 2023,1981-09-30,SILVER
+478,  Sándor ,brown,sándor.brown17@example.com,,hungary,Szeged,2024-04-03,11-08-1964,gold
+596,Zsófia,molnár,zsófia.molnár14example.com,+36 30 6465833,Österreich,Graz,2023-06-28,1970-02-25,NULL
+347,tamás,Fischer,tamás.fischer19@example.com,(30) 106-7708,Hungry,Győr,2023-08-31,1990-02-02,NULL
+518,LUKAS,dvorak,lukas.dvorak32@example.com,,Slovensko,Bratislava,2022-04-05,04/01/1965,N/A
+75,Emma  ,Brown,emma.brown33@example.com,06306869018,Österreich,Vienna,06/09/2024,1973-06-28,Silver
+523,Noah,FARKAS,noah.farkas71@example.com,(30) 146-1787,DE,Munich,08 Mar 2021,1981-07-24,Silver
+602,GÁBOR,Kiss,gábor.kiss44@example.com,06306026983,Hungary,Tát,2023-09-02,2001-12-06,Silver
+395,Gábor,Novak,gábor.novak84@example.com,+36 30 3485807,Deutschland,Munich,2024-07-06,1977-02-15,Gold
+273,Péter,Brown,péter.brown26@example.com,+36 30 8215305,Polska,Krakow,2023-12-10,1982-02-02,NULL
+96,Hanna,Horváth,hanna.horváth7@example.com,06306493461,Magyarország,Debrecen,2023-02-26,1997-07-06,Gold
+415,Gábor,Molnár  ,gábor.molnár57@example.c,,Polska,Warsaw,2023-12-29,1988-09-29,Bronze
+539,Jan,Müller,jan.müller1@example.com,(30) 939-6201,germany,Hamburg,NULL,1962-12-06,Gold
+585,László,Müller,lászló.müller39@example.com,+36 30 4291258,SK,Bratislava,2022-04-12,2031-05-17,SILVER
+70,Mia,Szabó,mia.szabó56@example.com,+36 30 6696087,germany,Munich,2023-12-10,1967-01-21,SILVER
+399,  Mia ,Varga,mia.varga27@example.com,,Poland,Krakow,2021.06.26,2003-04-28,
+185,Csilla,Farkas,CSILLA.FARKAS52@EXAMPLE.COM,,Polska,Krakow,12-10-2023,1962-08-06,Bronze
+189,Dávid,Novak,dávid.novak44@example.com,06304160157,Hungry,Tát,04/08/2024,1989.03.03,Bronze
+112,Emma,Kiss  ,emma.kiss63@example.c,N/A,Poland,Krakow,2023-11-12,12-19-1999,gold
+412,Jan,Farkas,jan.farkas28@example.com,N/A,austria,Vienna,09-29-2023,1960-03-09,gold
+530,  Sándor ,Schmidt,sándor.schmidt11@example.com,N/A,Hungary,Debrecen,2021-08-10,08-12-1995,gold
+3,Sophia,Kovács,SOPHIA.KOVÁCS69@EXAMPLE.COM,+36 30 7067228,Slovakia,Bratislava,2023-02-15,1967-01-26,Platinum
+625,JUDIT,Brown,judit.brown80@example.com,N/A,Slovensko,Bratislava,22/09/2021,1999-07-20,gold
+367,Sándor,Kiss,,(30) 706-6518,austria,Vienna,2024-03-20,01-25-1996,Silver
+637,BENCE,Fischer,bence.fischer75@example.com,06302465941,Germany,Hamburg,2022-07-24,1977-07-23,gold
+208,István,Fischer,ISTVÁN.FISCHER25@EXAMPLE.COM,+36 30 6669584,Germny,Hamburg,2023-03-16,1979-05-05,Silver
+36,péter,Dvorak,péter.dvorak45@example.com,06305217853,PL,Warsaw,2024-02-02,1989-09-04,N/A
+125,Csilla,Johnson,csilla.johnson59@example.com,,Slovensko,Bratislava,2022-04-08,29/11/1986,SILVER
+485,  Réka ,Kiss,réka.kiss85@example.com,N/A,Magyarország,Budapest,2022-05-01,1963-04-18,N/A
+536,László,Dvorak,lászló.dvorak67@example.com,N/A,Slovensko,Komárno,19/11/2022,1970.03.04,NULL
+328,Ferenc,Fischer,ferenc.fischer77@example.com,06308026061,Hungry,Debrecen,2023.10.21,24/11/1967,Silver
+560,Sándor,Szabó,sándor.szabó29@example.com,06309307601,Österreich,Vienna,2023-04-09,1995-02-28,N/A
+217,OLIVIA,FARKAS,olivia.farkas67@example.com,(30) 767-4154,Hungry,Esztergom,2023-02-07,02-20-2006,SILVER
+588,Sándor  ,Kiss,sándor.kiss91@example.com,N/A,Slovakia,Bratislava,2023-01-02,1979-10-06,
+30,Katalin,brown,katalin.brown97@example.com,+36 30 1873851,Austria,Vienna,2023-05-14,08-19-1982,Bronze
+400,László,Varga,,(30) 598-5224,Germny,Munich,2021.05.11,1990-04-19,N/A
+51,Eszter,Molnár,eszter.molnár53@example.com,06305040453,Poland,Krakow,2022.01.04,1975-04-02,gold
+262,Katalin,Schmidt,katalin.schmidt77@example.com,,AT,Vienna,10/02/2024,1974-05-21,Bronze
+417,  Jan ,Smith  ,jan.smith49@example.com,,austria,Vienna,2021-09-05,1964-08-26,Silver
+436,Jan,Horváth  ,jan.horváth25@example.com,N/A,Germany,Hamburg,02-06-2023,1988-07-10,
+405,Jan,Kowalski,jan.kowalski54@example.com,N/A,AT,Graz,26/10/2024,21/04/1987,Gold
+42,  Liam ,Farkas,liam.farkas35@example.com,+36 30 8248238,Slovensko,Bratislava,N/A,2031-05-17,Silver
+4,Olivér,Johnson,olivér.johnson48@example.com,06303871230,Germny,Berlin,04/10/2024,14/12/1983,gold
+237,  Sophia ,Smith,sophia.smith79@example.com,+36 30 2528212,Poland,Krakow,17 Apr 2021,1974-06-03,Silver
+500,Hanna,Szabó,,N/A,germany,Munich,2022-01-29,1973-02-11,
+97,csilla,  Brown ,csilla.brown59@example.com,+36 30 8895137,Polska,Krakow,2022-03-17,1991-08-29,NULL
+488,Dávid,Brown,dávid.brown49@example.com,N/A,Germany,Berlin,2021-09-10,1975-10-07,
+180,Péter,Farkas,péter.farkas51@example.com,06303017994,hungary,Budapest,2021-03-13,2005-01-16,Gold
+577,Ferenc,Horváth,ferenc.horváth84@example.com,,AT,Graz,2022-11-26,22/03/2001,NULL
+561,Réka,FISCHER,réka.fischer95@example.com,+36 30 4143117,SK,Bratislava,2022-05-04,1975-04-10,gold
+21,István,Kovács,istván.kovács77@example.com,,HUNGARY,Szeged,05 Oct 2022,24/02/1999,Bronze
+632,JAN,Weber,jan.weber7@example.com,+36 30 9690736,Austria,Graz,2023-03-16,1900-01-01,Bronze
+494,John  ,Weber,john.weber28@example.com,+36 30 8768806,Slovakia,Komárno,2024.08.09,2031-05-17,gold
+298,  Emma ,  Fischer ,emma.fischer43@example.com,06301377156,Hungry,Debrecen,04-05-2021,1969-04-01,N/A
+617,EMMA,Dvorak,emma.dvorak51@example.com,,Slovensko,Komárno,2021-10-27,1986-01-21,Platinum
+132,Eszter,Farkas,eszter.farkas51@example.com,(30) 935-3230,Magyarország,Debrecen,2024-06-24,01-30-1994,N/A
+124,anna,Kowalski,anna.kowalski69@example.com,06302795437,Österreich,Graz,02-05-2021,01-20-2005,Platinum
+182,  Réka ,Müller,réka.müller54@example.com,(30) 988-9775,Hungry,Esztergom,2024-03-06,1968.12.27,NULL
+276,Anna,Brown,anna.brown85@example.com,+36 30 5551347,Polska,Warsaw,2022-06-08,1975-04-13,NULL
+458,Ferenc,Schmidt,ferenc.schmidt9@example.com,N/A,hungary,Esztergom,2021-05-24,1977-04-07,SILVER
+61,Eva  ,kowalski,eva.kowalski59@example.com,+36 30 2811298,AT,Graz,05/03/2021,0000-00-00,Silver
+636,BENCE,Fischer,bence.fischer75@example.com,06302465941,Germany,Hamburg,2022-07-24,1977-07-23,gold
+342,  Judit ,Varga,judit.varga91@example.com,(30) 551-5266,DE,Munich,2024-09-26,1973-10-08,Gold
+320,John,  Szabó ,john.szabó92@example.com,+36 30 8480659,Slovensko,Komárno,2021.03.13,1966-07-17,Bronze
+334,Jan,NAGY,,06302644153,Slovensko,Komárno,22 Aug 2023,2005-03-27,Silver
+451,Emma,Nagy  ,emma.nagy20@example.com,N/A,Austria,Vienna,2021-12-31,09/06/1979,Silver
+381,Zsófia,Kiss,zsófia.kiss94@example.com,06305392266,Austria,Vienna,2023-05-07,1976-03-07,N/A
+144,bence,schmidt,bence.schmidt45@example.com,N/A,AT,Vienna,06-28-2021,1999.05.23,NULL
+332,László,Németh,LÁSZLÓ.NÉMETH43@EXAMPLE.COM,(30) 528-3804,Germny,Berlin,2024-03-10,1965-05-08,Platinum
+54,eszter,Szabó,eszter.szabó40@example.com,06306481437,HU,Esztergom,2021-03-10,24/09/1992,Platinum
+246,Péter,Fischer,péter.fischer47@example.com,06307720828,Austria,Graz,05-19-2023,1978-11-20,Gold
+69,olivia,Kovács,olivia.kovács3@example.com,+36 30 8007741,SK,Komárno,2021-06-09,1988-02-01,N/A
+513,hanna,Nagy,hanna.nagy55@example.com,+36 30 7454929,DE,Berlin,25/12/2022,1985-09-25,Platinum
+224,Nóra,Németh,nóra.németh18@example.com,06309170024,AT,Vienna,2022-11-11,2003-01-22,Silver
+105,ZSÓFIA,Weber,zsófia.weber32example.com,+36 30 7934046,germany,Munich,24/12/2023,30/03/1980,Gold
+472,Dávid,Novak,dávid.novak31@example.com,(30) 434-7283,Poland,Warsaw,2021.12.16,1968-01-09,Platinum
+341,  Réka ,Dvorak,réka.dvorak59@example.com,06307239485,Slovensko,Bratislava,28/09/2021,1987-07-01,N/A
+177,DÁVID,kovács,dávid.kovács74@example.com,06305941719,SK,Bratislava,2023-10-03,1900-01-01,Silver
+358,Emma,Schmidt,emma.schmidt71@example.com,,Germany,Berlin,2023-05-27,1976.12.08,Silver
+10,  Sándor ,molnár,,(30) 626-4899,poland,Warsaw,07-16-2024,1965-04-13,gold
+39,Eszter,Weber,eszter.weber11@example.com,,Österreich,Vienna,31/08/2021,03/05/1997,
+214,Emma,Tóth,emma.tóth23@example.com,+36 30 5433204,Germany,Berlin,2021.09.02,1993-11-03,N/A
+368,Csilla,Farkas,csilla.farkas39@example.com,06308603914,PL,Krakow,2024-01-11,1988-02-10,Bronze
+290,Liam,FISCHER,liam.fischer72@example.com,+36 30 6021328,poland,Warsaw,2023-07-22,24 Apr 1992,NULL
+80,  Nóra ,Kovács,nóra.kovács65@example.com,06306625238,Slovensko,Bratislava,03-02-2023,2031-05-17,Bronze
+622,EVA,Fischer,eva.fischer17@example.com,(30) 966-9622,Deutschland,Hamburg,2021-12-30,1989-01-11,Silver
+65,Sophia,müller,sophia.müller99@example.com,(30) 284-5477,PL,Krakow,2024-06-10,10/05/1962,N/A
+253,Liam,Dvorak,liam.dvorak76@example.com,06306824517,DE,Berlin,2024-07-16,1999-01-09,Silver
+31,Péter,Szabó,péter.szabó28@example.com,N/A,poland,Krakow,09 Jun 2022,1993-02-03,Bronze
+542,john,Molnár,john.molnár25@example.com,N/A,Austria,Vienna,2022-05-18,12-02-1993,Silver
+243,Emma,Kiss,emma.kiss95@example.com,+36 30 5189194,Slovensko,Bratislava,05-11-2022,1983-10-23,Silver
+207,László,Schmidt,lászló.schmidt13@example.com,+36 30 5898671,HUNGARY,Szeged,2022-03-31,1960-03-12,Gold
+73,Mia,Tóth,mia.tóth77@example.com,N/A,Polska,Warsaw,2023-08-06,1963-09-06,Gold
+268,OLIVÉR,Brown,,06301110206,HUNGARY,Debrecen,2022.08.06,1961-06-18,N/A
+426,Réka,Kovács,réka.kovács7@example.com,06302372525,germany,Berlin,2023-05-11,2000-04-08,NULL
+429,Judit,Brown,judit.brown13@example.com,,Slovakia,Komárno,2023-04-22,1980.11.29,Silver
+491,Csilla,Molnár,csilla.molnár22@example.com,06308113264,HUNGARY,Esztergom,23/06/2021,1985-08-23,gold
+87,SOPHIA,Kovács,sophia.kovács86@example.com,+36 30 1522452,HU,Debrecen,2023-01-15,01-11-2006,Gold
+318,Liam,Szabó,LIAM.SZABÓ78@EXAMPLE.COM,,HUNGARY,Debrecen,2024-09-06,1976.07.29,
+597,Nóra,Johnson,nóra.johnson38@example.com,(30) 723-4464,Slovensko,Komárno,25 Nov 2021,1993-01-15,SILVER
+74,Ferenc,Kovács,ferenc.kovács91@example.com,N/A,Germany,Munich,2023-06-19,1974-03-29,Bronze
+374,Sándor,Johnson,sándor.johnson41@example.com,(30) 586-7025,Hungary,Szeged,31/08/2023,06 Feb 1982,Bronze
+385,Péter,Horváth,péter.horváth85@example.com,06301601668,poland,Warsaw,2023-06-21,1964-10-09,gold
+584,Lukas,smith,lukas.smith31@example.com,06302352134,Magyarország,Esztergom,2024-02-29,1963-03-04,
+245,Márta,  Varga ,márta.varga16@example.com,(30) 694-2650,Slovensko,Komárno,2023-08-01,1900-01-01,N/A
+190,Emma,Horváth,emma.horváth84@example.com,N/A,Hungry,Debrecen,08-29-2022,1983.04.10,gold
+448,Emma,Varga,emma.varga13@example.com,,Polska,Warsaw,03-31-2021,1981.07.03,NULL
+470,Emma,Novak,emma.novak53@example.com,06306461406,Poland,Krakow,2021-01-07,1988-11-26,gold
+345,Bence  ,Fischer,bence.fischer75@example.com,06302465941,Germany,Hamburg,2022-07-24,1977-07-23,gold
+562,Noah,Nagy,noah.nagy46@example.com,N/A,PL,Warsaw,04-09-2024,1960-02-02,
+115,  Lukas ,MOLNÁR,lukas.molnár59@example.com,N/A,Germny,Berlin,2022-07-19,28 Nov 1976,Bronze
+232,LUKAS,Varga,lukas.varga85@example.com,06304855635,poland,Warsaw,10/12/2021,1990.09.28,Silver
+56,Olivér,Johnson  ,olivér.johnson75@example.com,+36 30 1419843,austria,Vienna,2024-07-31,1993-04-29,gold
+280,Tamás,dvorak,tamás.dvorak18@example.com,N/A,DE,Berlin,09/12/2023,1972-02-18,SILVER
+191,  Lukas ,Dvorak,lukas.dvorak38@example.c,06306630978,Deutschland,Munich,2021-09-20,16/03/1983,N/A
+202,Péter,Müller,PÉTER.MÜLLER15@EXAMPLE.COM,(30) 285-7221,germany,Munich,2021.05.01,1974-04-20,Bronze
+510,olivia,Varga,olivia.varga3@example.com,,Austria,Vienna,2021-12-30,14/05/1995,NULL
+630,FERENC,Horváth,ferenc.horváth39@example.com,(30) 901-2260,austria,Vienna,2021-10-26,1965-09-04,
+196,Emma,Horváth,emma.horváth63@example.com,06301320859,AT,Vienna,2022-01-21,16 Oct 1974,Platinum
+126,Mia,MÜLLER,mia.müller73@example.com,(30) 147-2218,Österreich,Vienna,15 Jul 2021,1963-10-26,SILVER
+421,NOAH,SCHMIDT,noah.schmidt32@example.com,+36 30 6510598,AT,Graz,2022-10-21,1990-08-25,gold
+274,anna,FARKAS,anna.farkas45@example.com,06304350161,Germny,Berlin,2023.06.25,1973-01-30,Silver
+146,Liam,  Smith ,liam.smith98@example.com,+36 30 7949543,DE,Munich,16 Mar 2023,2003-11-29,NULL
+471,Eva,Novak,eva.novak94@example.com,+36 30 9466397,Magyarország,Győr,2024.05.28,02/07/1977,
+143,Judit,varga,judit.varga73@example.com,N/A,Slovensko,Bratislava,2023-10-12,2005-10-29,Platinum
+416,Dávid,  Dvorak ,dávid.dvorak37@example.com,06301988408,Germany,Munich,2022-06-08,1968-01-15,Bronze
+559,  Nóra ,KISS,nóra.kiss25@example.com,06302831812,Austria,Graz,2024-05-01,1984-10-02,Silver
+393,Olivia,SCHMIDT,olivia.schmidt80@example.com,+36 30 5350628,Slovensko,Komárno,2022-12-01,1976-10-16,Bronze
+48,mia,Kiss,mia.kiss74@example.com,,DE,Berlin,2023.04.22,1963-12-01,Bronze
+220,Liam,tóth,LIAM.TÓTH65@EXAMPLE.COM,,austria,Graz,10 Sep 2022,1967-10-05,Gold
+468,Anna,Weber,anna.weber13@example.com,N/A,HU,Debrecen,01-15-2021,13/09/1993,NULL
+193,  Tamás ,Schmidt,tamás.schmidt41@example.com,+36 30 3966618,germany,Hamburg,01-05-2022,1967-04-02,gold
+242,Nóra,Johnson,,,Polska,Warsaw,24 Jun 2022,1982-04-09,N/A
+579,ferenc,Brown,ferenc.brown9example.com,06307280082,Slovakia,Bratislava,2022-05-28,1970-04-09,N/A
+136,  István ,Molnár,istván.molnár96@example.com,,Poland,Warsaw,04-03-2024,1979-10-30,Silver
+52,Emma,dvorak,emma.dvorak10@example.com,06308664433,Deutschland,Hamburg,2022-12-09,02/11/1986,NULL
+104,  Emma ,Dvorak,emma.dvorak51@example.com,,Slovensko,Komárno,2021-10-27,1986-01-21,Platinum
+235,Márta,Kiss,márta.kiss53@example.com,N/A,AT,Graz,2021-11-13,23/03/1998,
+535,Noah,Varga,noah.varga49@example.com,N/A,poland,Krakow,2022-03-06,,Silver
+445,Csilla,brown,csilla.brown27@example.com,,austria,Graz,12/09/2024,1966-04-12,Gold
+12,István,  Schmidt ,istván.schmidt10@example.com,06302564689,Deutschland,Berlin,2024-02-02,1968-10-13,NULL
+263,LÁSZLÓ,Fischer,lászló.fischer42@example.com,(30) 430-7714,Germany,Berlin,2024-09-10,1994-10-06,Silver
+407,ANNA,Dvorak,anna.dvorak34@example.com,(30) 742-9314,Poland,Krakow,2022-09-15,,Silver
+414,mia,Varga,mia.varga74@example.com,N/A,hungary,Budapest,2022-09-25,08/02/1971,Bronze
+160,Tamás,Farkas,tamás.farkas32@example.com,+36 30 5112546,Poland,Krakow,2024-04-26,NULL,Platinum
+311,Olivia,Tóth,olivia.tóth75@example.com,,Polska,Warsaw,2021-04-19,1900-01-01,N/A
+615,EVA,Johnson  ,eva.johnson87@example.com,06306067099,Germny,Berlin,16/05/2023,22 Oct 1995,NULL
+409,Liam,Müller,liam.müller11@example.c,,SK,Komárno,21/05/2023,1971-09-01,
+302,Liam,Smith,liam.smith59@example.com,N/A,Austria,Graz,2021-05-14,2002-08-23,Gold
+49,Olivér,Szabó,,(30) 900-5342,poland,Krakow,23/10/2021,1996.10.12,NULL
+78,Olivia,Schmidt,olivia.schmidt69@example.com,,germany,Hamburg,2023-08-19,1977-05-28,SILVER
+382,Mia,Smith,mia.smith88@example.com,06301985700,Slovensko,Bratislava,2023-02-25,22/12/1997,gold
+278,Péter,Brown,péter.brown3@example.com,(30) 931-2015,Germany,Hamburg,22 Dec 2022,19/11/1991,NULL
+627,ANNA,Varga,anna.varga93@example.com,,Österreich,Graz,12-06-2022,1999-04-22,NULL
+349,Jan,Farkas,jan.farkas23@example.com,N/A,Slovensko,Komárno,,1981-12-15,gold
+213,Márta,müller,márta.müller71example.com,N/A,AT,Graz,2022-05-30,21/03/1978,SILVER
+259,Emma,Farkas  ,emma.farkas21@example.com,+36 30 4334029,AT,Graz,2021-03-28,1970-12-16,Platinum
+38,Noah,NOVAK,noah.novak2@example.com,+36 30 1861958,HUNGARY,Szeged,2023-08-20,2002-12-12,Silver
+528,  Judit ,Brown,judit.brown80@example.com,N/A,Slovensko,Bratislava,22/09/2021,1999-07-20,gold
+44,Péter,farkas,péter.farkas98@example.com,N/A,SK,Komárno,21/07/2023,1967-11-25,gold
+139,Liam,Kiss,liam.kiss36@example.com,+36 30 7136988,DE,Hamburg,2021-05-09,02-16-1969,
+508,Zsófia,Farkas,zsófia.farkas8@example.com,N/A,Österreich,Vienna,01-22-2021,1991-11-22,Silver
+206,Sándor,Nagy,sándor.nagy78@example.com,06306718584,Hungry,Tát,29/07/2024,1987.04.30,gold
+194,Péter,Tóth,péter.tóth79@example.com,(30) 646-4267,Germny,Berlin,2023-05-30,1996-03-10,Bronze
+64,Nóra,Johnson,nóra.johnson93example.com,06303595941,Slovakia,Komárno,2022-08-13,1988-01-12,Silver
+140,  Márta ,weber,márta.weber45@example.com,(30) 788-3194,HU,Szeged,2023-07-27,06-24-1975,Silver
+18,Jan,Horváth,jan.horváth5@example.com,06301669324,poland,Warsaw,2024.04.07,1973-04-14,Silver
+446,MÁRTA,kiss,márta.kiss27@example.com,(30) 614-8519,Germany,Munich,23/09/2024,2002-08-05,Platinum
+515,ISTVÁN,Tóth,istván.tóth20@example.com,(30) 215-8003,hungary,Tát,2021-10-28,1988-09-24,Gold
+360,  Sophia ,Brown,sophia.brown61@example.com,,Austria,Vienna,09/04/2023,2003-06-21,gold
+13,Anna,Brown,anna.brown59@example.com,+36 30 1981186,AT,Vienna,13 Feb 2024,2003-08-30,Bronze
+155,Eva,Kiss,eva.kiss69@example.com,,DE,Hamburg,16/04/2024,1965-12-06,Silver
+509,hanna,smith,hanna.smith27@example.com,+36 30 8279693,AT,Vienna,2023-03-21,1973-12-18,gold
+541,MÁRTA,Németh,márta.németh21@example.com,+36 30 3567729,poland,Krakow,2022-02-22,1968-05-13,NULL
+22,Olivia,  Kiss ,olivia.kiss56example.com,,AT,Vienna,2024-09-22,15/08/1989,N/A
+402,Ferenc,FARKAS,ferenc.farkas98@example.com,,SK,Komárno,2021-07-23,03/11/1973,NULL
+435,Anna,Horváth,anna.horváth84@example.com,06307201541,SK,Bratislava,2021-08-16,11 May 1990,SILVER
+257,Olivér,Nagy,olivér.nagy12@example.com,(30) 574-1519,Germany,Munich,10-08-2023,1979-06-26,Silver
+53,Judit,Farkas,judit.farkas85@example.com,06304860745,HUNGARY,Szeged,17/01/2021,1964.05.26,Platinum
+546,John,Farkas,john.farkas96@example.com,,SK,Bratislava,06-13-2023,28 Dec 2005,Silver
+378,John,farkas,john.farkas74@example.c,,AT,Graz,11-20-2021,1982-05-24,gold
+19,Hanna,  Varga ,,,Deutschland,Munich,2022-11-12,12-08-1996,Bronze
+563,Dávid,Farkas,dávid.farkas58@example.com,(30) 947-6777,austria,Vienna,2022-12-20,01/02/1983,N/A
+128,Csilla,Smith,csilla.smith99@example.com,(30) 602-4737,poland,Warsaw,05-04-2024,04 Aug 1995,SILVER
+372,Jan,Müller,jan.müller86@example.com,+36 30 3358208,Österreich,Graz,2021.07.04,10 Aug 1995,SILVER
+420,Gábor,Weber,,,Polska,Krakow,30/12/2023,1966-04-10,Platinum
+572,lukas,Farkas,lukas.farkas62@example.com,N/A,PL,Krakow,05/05/2021,23/11/1970,gold
+587,Sophia,nagy,sophia.nagy8example.com,N/A,Germany,Berlin,2021-09-17,1999-05-06,NULL
+512,  Péter ,Weber,péter.weber21@example.com,+36 30 5487177,SK,Bratislava,2023-09-08,1973-11-11,SILVER
+83,Bence,Brown,bence.brown33@example.com,(30) 236-1726,austria,Graz,02/01/2023,1966-01-22,SILVER
+423,László,Kiss,lászló.kiss2@example.com,06302509387,Slovakia,Komárno,2021-02-10,22/03/1985,Platinum
+118,  Sándor ,Novak,sándor.novak29@example.com,06309891787,Deutschland,Munich,2021-10-23,2001.07.16,
+203,Dávid,Müller,dávid.müller6example.com,N/A,SK,Bratislava,2024-09-03,1988-03-10,SILVER
+365,Hanna,  Farkas ,hanna.farkas11@example.com,N/A,poland,Warsaw,0000-00-00,1987-05-10,SILVER
+540,Zsófia,brown,zsófia.brown74@example.com,06309678469,Hungary,Szeged,2024-07-27,NULL,Silver
+507,John,Horváth,john.horváth18@example.com,(30) 747-7047,Österreich,Vienna,2021-04-16,NULL,Silver
+390,László,Szabó,lászló.szabó66@example.com,(30) 874-7922,Austria,Graz,NULL,1994-10-25,Gold
+186,  Réka ,Brown,,(30) 452-3679,hungary,Esztergom,02-02-2023,2003-11-07,Silver
+108,John,németh,john.németh2@example.com,+36 30 7802999,germany,Munich,2022-08-28,1977-04-30,NULL
+609,EVA,Tóth,eva.tóth82@example.com,,Magyarország,Esztergom,2022-12-07,1972-10-20,Bronze
+26,Noah,  Schmidt ,noah.schmidt93@example.com,(30) 365-5050,poland,Warsaw,24/05/2023,2000.01.02,SILVER
+336,Csilla,Brown,,+36 30 4475340,Austria,Vienna,2023-05-23,15/03/1984,SILVER
+33,Dávid  ,  Müller ,dávid.müller82@example.com,N/A,Austria,Graz,2023.07.31,1973-09-22,
+284,John,Kovács,john.kovács14@example.com,06307499457,Polska,Krakow,2021-03-28,1982-01-16,
+619,GÁBOR,Tóth,gábor.tóth93@example.com,+36 30 9234615,DE,Hamburg,2024-02-12,23/07/1981,
+171,Eva,Fischer,eva.fischer17@example.com,(30) 966-9622,Deutschland,Hamburg,2021-12-30,1989-01-11,Silver
+434,  Judit ,schmidt,judit.schmidt81@example.com,(30) 368-3855,germany,Munich,2023.01.08,NULL,SILVER
+47,Sophia,Müller,sophia.müller65@example.com,,austria,Graz,06 Jan 2021,17/05/1985,N/A
+483,  Jan ,Szabó,jan.szabó77@example.com,+36 30 3161173,Germany,Berlin,2021-01-11,02-14-2000,SILVER
+380,  László ,Varga,,06302988307,PL,Krakow,2023.12.13,01-15-1999,
+370,  Mia ,Tóth,mia.tóth53@example.com,06305001087,Deutschland,Munich,2022-08-11,1974-05-29,Bronze
+11,  Sophia ,müller,sophia.müller13@example.c,(30) 162-7596,Deutschland,Berlin,2023-06-02,1991-10-14,Silver
+277,Mia,BROWN,mia.brown49@example.com,,germany,Hamburg,2021-07-23,1988-04-19,SILVER
+310,Sándor,Weber,sándor.weber5@example.com,(30) 245-9624,Austria,Vienna,2024-03-09,10/05/2003,gold
+67,EMMA,Müller,emma.müller78@example.com,N/A,Slovensko,Bratislava,2022-07-14,05-04-1979,
+169,Péter,Kowalski,péter.kowalski99@example.com,06309953825,AT,Vienna,2022-04-22,1974-04-27,NULL
+492,Márta,Nagy,márta.nagy25@example.com,N/A,PL,Warsaw,2021-01-15,15/02/1998,gold
+484,László,Dvorak,lászló.dvorak55@example.com,,Germny,Munich,09/09/2024,1960-01-03,Gold
+57,Bence,  Farkas ,bence.farkas15@example.c,,Slovensko,Komárno,2024-01-06,1972-03-03,NULL
+321,Tamás,Nagy,tamás.nagy91@example.com,,Polska,Krakow,02/10/2023,2002-11-23,Silver
+106,Jan,novak,jan.novak84@example.com,06304896008,Slovakia,Komárno,08-12-2022,1988-10-24,NULL
+275,Lukas,Farkas,lukas.farkas44@example.com,N/A,hungary,Szeged,16/08/2021,2031-05-17,
+629,ESZTER,Farkas,eszter.farkas63@example.com,N/A,SK,Komárno,03-11-2024,04/01/2004,Bronze
+294,  Gábor ,Smith,gábor.smith87@example.com,+36 30 8727886,Österreich,Vienna,2023-08-30,11/03/1963,SILVER
+114,Olivér,Brown,olivér.brown11@example.com,06307594429,SK,Komárno,2024-09-17,06/12/1971,Bronze
+418,Nóra,Molnár,nóra.molnár35@example.com,,hungary,Debrecen,2024-04-15,1969-02-08,Silver
+581,Tamás,Dvorak,tamás.dvorak44@example.com,N/A,Magyarország,Tát,08/08/2024,2004-07-06,SILVER
+158,  Hanna ,  Kowalski ,hanna.kowalski6@example.com,N/A,HUNGARY,Debrecen,2021-01-26,1981-12-09,NULL
+24,Emma,Fischer,emma.fischer12@example.com,N/A,AT,Graz,2022-04-27,1987-11-06,Silver
+547,Olivia,Novak,olivia.novak58@example.com,(30) 680-6782,Slovensko,Komárno,2022-07-11,05/08/1988,Silver
+580,PÉTER,schmidt,péter.schmidt29@example.com,+36 30 4226188,Austria,Graz,11-28-2021,12-10-1998,Platinum
+455,Dávid,Fischer,dávid.fischer81@example.com,+36 30 6334600,AT,Vienna,2024-10-20,1971-12-04,gold
+373,Hanna,Fischer,hanna.fischer99@example.com,06304657573,HU,Esztergom,2022-11-06,12-25-1994,Platinum
+466,JUDIT,müller,judit.müller23@example.com,06308560833,germany,Munich,0000-00-00,1977-10-06,Platinum
+422,Liam,Novak,liam.novak69@example.c,N/A,Slovensko,Bratislava,2024-08-22,1966-12-15,N/A
+28,Noah,  Weber ,noah.weber98@example.com,N/A,Magyarország,Budapest,2023-09-04,12 Jul 1960,Platinum
+430,tamás,kiss,,,Hungary,Budapest,2021-05-19,1977.05.15,gold
+205,Hanna,DVORAK,hanna.dvorak52@example.com,+36 30 2476728,SK,Komárno,2021-06-11,2001-03-09,gold
+527,Katalin,Varga,katalin.varga21example.com,,austria,Vienna,2024-03-26,1992-08-05,Gold
+227,Bence,Molnár  ,bence.molnár30example.com,+36 30 7060792,Slovensko,Komárno,01-27-2023,1980-12-29,Bronze
+462,Judit,Weber,judit.weber53@example.com,N/A,Hungary,Szeged,2021-09-12,10 Jul 1994,gold
+427,Csilla,Szabó,csilla.szabó62@example.com,(30) 448-1891,Hungry,Esztergom,2021-02-19,12-28-1989,SILVER
+163,Noah,WEBER,NOAH.WEBER20@EXAMPLE.COM,,HUNGARY,Debrecen,07-10-2023,2001-10-23,
+346,  Eszter ,Müller,eszter.müller50@example.com,,austria,Graz,2022-08-06,1990-12-11,gold
+134,Gábor,Schmidt,gábor.schmidt89example.com,,austria,Graz,2023-04-18,2004-10-17,Silver
+166,Jan,Schmidt,jan.schmidt12@example.com,,DE,Berlin,2022.11.11,1970-12-28,Bronze
+396,Mia,SCHMIDT,mia.schmidt32@example.com,N/A,poland,Krakow,2024-03-12,1900-01-01,SILVER
+288,Noah,NÉMETH,noah.németh59@example.com,,Hungry,Debrecen,19/10/2023,07/07/1960,Silver
+32,GÁBOR,Tóth,gábor.tóth89@example.com,,Poland,Krakow,05-13-2022,21/02/1969,N/A
+210,Zsófia,  Molnár ,zsófia.molnár51@example.com,(30) 963-9975,Österreich,Graz,2022.08.26,08-16-2000,SILVER
+401,Mia,kowalski,MIA.KOWALSKI86@EXAMPLE.COM,N/A,Poland,Warsaw,2021.04.14,04-12-1999,Bronze
+111,Lukas,kiss,lukas.kiss88@example.com,N/A,DE,Hamburg,2021-06-17,2000-01-30,Platinum
+260,Márta,molnár,márta.molnár6@example.com,+36 30 3645741,Hungry,Budapest,2023-09-01,1973-11-26,Bronze
+633,LIAM,Varga,liam.varga28@example.com,(30) 673-5222,HUNGARY,Esztergom,2023-09-03,1968-08-21,Bronze
+149,Judit,Varga,judit.varga12@example.com,06301868846,Austria,Vienna,2022-05-28,1967-05-24,NULL
+15,  István ,  Brown ,istván.brown86@example.com,+36 30 1156287,DE,Berlin,2023.07.26,1988.05.13,SILVER
+480,  John ,Brown,JOHN.BROWN5@EXAMPLE.COM,,DE,Berlin,2023-03-24,2003-11-02,NULL
+352,Judit,Johnson,judit.johnson53@example.com,N/A,Slovakia,Bratislava,2021.11.30,1969-03-10,Silver
+211,eszter,Varga,eszter.varga70@example.com,+36 30 8004117,Poland,Warsaw,2022-10-23,05-09-1970,SILVER
+308,LUKAS,Johnson,lukas.johnson20@example.com,,SK,Komárno,2024.10.04,1971-04-06,Gold
+606,JOHN,Horváth,john.horváth18@example.com,(30) 747-7047,Österreich,Vienna,2021-04-16,NULL,Silver
+413,RÉKA,Schmidt,réka.schmidt86@example.com,(30) 338-7478,SK,Komárno,29/10/2022,01-05-1968,SILVER
+477,Eva,  Varga ,eva.varga94@example.com,,Slovensko,Bratislava,12/09/2024,0000-00-00,Silver
+397,Olivia,Fischer,olivia.fischer30@example.com,,SK,Komárno,18/12/2023,1961-09-15,Silver
+66,olivia,Nagy,olivia.nagy96@example.com,+36 30 6228407,HUNGARY,Budapest,2023-02-10,1997-08-31,Gold
+361,Lukas,  Tóth ,,N/A,Slovensko,Komárno,2022-01-02,30/04/1994,gold
+204,Emma,Brown  ,emma.brown72@example.com,06308873361,DE,Munich,2024-06-09,1964-11-23,Silver
+357,Hanna,Müller,hanna.müller98@example.com,+36 30 7060776,Magyarország,Esztergom,11/09/2021,2001-10-18,N/A
+178,DÁVID,Farkas,dávid.farkas61@example.com,06307224691,SK,Bratislava,09-15-2024,1983-10-10,gold
+59,  Noah ,dvorak,noah.dvorak76@example.com,06305651899,Germany,Berlin,2022-04-23,06-23-1989,SILVER
+339,sophia,  Tóth ,sophia.tóth59@example.c,06303764318,Germany,Munich,2023-03-12,1976-01-16,gold
+164,Liam,fischer,liam.fischer28@example.com,(30) 625-1802,Magyarország,Tát,2022-11-03,1973-04-22,
+576,  Bence ,Fischer,bence.fischer6@example.com,N/A,Slovensko,Komárno,2022-12-28,1972-06-30,SILVER
+91,tamás,Johnson  ,TAMÁS.JOHNSON71@EXAMPLE.COM,N/A,Slovakia,Komárno,2021-06-26,1965-11-24,Silver
+60,Sophia,Molnár,,(30) 587-8344,PL,Warsaw,28/06/2022,1964-09-13,SILVER
+218,Csilla,KISS,csilla.kiss88@example.com,+36 30 8302077,Germany,Berlin,2021-08-01,1978-06-11,gold
+340,Emma,Dvorak,emma.dvorak61@example.com,,Deutschland,Hamburg,29/06/2023,1961-12-04,N/A
+127,Tamás,Horváth,tamás.horváth10@example.com,+36 30 6565503,Slovakia,Komárno,2024-02-29,1981-07-28,SILVER
+167,István,Németh,,,Slovensko,Bratislava,22/06/2024,18/01/1982,Gold
+229,Jan,Fischer,jan.fischer65@example.com,06304548668,HUNGARY,Győr,2023-06-20,1974-11-09,N/A
+503,Csilla,Szabó,csilla.szabó81@example.com,+36 30 4194945,DE,Hamburg,2021-09-04,1963-09-06,Silver
+148,MIA,Novak,mia.novak88@example.com,,AT,Vienna,2021.04.05,06/12/1968,gold
+392,Réka,SZABÓ,réka.szabó55@example.com,06301272943,poland,Krakow,2023-08-10,1982-09-24,Gold
+387,TAMÁS,Varga,tamás.varga10@example.com,(30) 482-2737,Slovensko,Komárno,2023-10-18,2031-05-17,Gold
+452,Márta,KISS,márta.kiss48@example.com,+36 30 1244275,germany,Hamburg,2022-02-14,2031-05-17,Platinum
+58,OLIVÉR,Molnár,olivér.molnár13@example.com,N/A,AT,Vienna,2023-01-23,1992-03-06,Bronze
+565,  István ,Johnson,istván.johnson51@example.com,N/A,austria,Vienna,2022-07-20,1987-10-01,N/A
+610,LÁSZLÓ,  Farkas ,lászló.farkas57@example.com,+36 30 2737893,germany,Hamburg,2022-09-12,13/09/1960,SILVER
+152,  Eszter ,Szabó,eszter.szabó94@example.com,+36 30 2413458,PL,Krakow,2023-05-30,03-19-1988,
+247,Sándor,Müller  ,sándor.müller26@example.com,N/A,Slovensko,Bratislava,2021-11-03,06-07-2002,N/A
+279,Hanna,Horváth  ,hanna.horváth51@example.com,,AT,Vienna,29/06/2021,1994-04-16,
+599,Emma,Kowalski,emma.kowalski57@example.com,+36 30 7072764,poland,Krakow,2022-02-04,1986.04.17,Platinum
+307,  Lukas ,johnson,lukas.johnson37@example.com,,hungary,Győr,2022-04-27,24/09/1998,SILVER
+517,LIAM,Müller,liam.müller74@example.com,06307080036,PL,Krakow,2022-03-26,1900-01-01,Silver
+529,John,Kovács,john.kovács90@example.com,06307698813,DE,Munich,2021-01-17,1973.11.12,NULL
+408,Olivia,nagy,olivia.nagy44@example.com,+36 30 3348331,SK,Komárno,2024-04-06,1980-12-23,N/A
+251,hanna,Németh,hanna.németh27@example.com,N/A,Hungary,Szeged,30 Jul 2021,1968-07-28,Silver
+249,Tamás,Dvorak,tamás.dvorak37@example.com,,DE,Munich,10/10/2024,2005-10-17,Gold
+343,Olivér,Dvorak,olivér.dvorak69@example.com,N/A,Deutschland,Munich,21 Feb 2021,17 Apr 1996,SILVER
+150,ESZTER,Weber,eszter.weber67@example.com,06303217531,Germany,Munich,2021-01-20,21/09/1960,NULL
+505,Liam,Horváth,liam.horváth6@example.com,,austria,Graz,2021-05-05,23/01/1977,SILVER
+119,  Olivia ,kiss,olivia.kiss35@example.com,(30) 313-6455,HUNGARY,Budapest,23/05/2024,1963.07.19,Bronze
+431,TAMÁS,Müller,tamás.müller84@example.com,N/A,Poland,Krakow,2022-09-30,1973-01-23,Gold
+154,Csilla,nagy,,+36 30 9406206,Austria,Graz,2021-05-04,1995-09-14,SILVER
+582,Mia,Tóth,MIA.TÓTH11@EXAMPLE.COM,(30) 123-4670,PL,Krakow,2023-11-26,1986-10-03,
+93,réka,Farkas,réka.farkas33@example.com,N/A,Hungry,Debrecen,02-03-2024,1984-08-15,Gold
+337,Olivér,Fischer,olivér.fischer47@example.com,+36 30 3322064,HUNGARY,Győr,08-20-2024,1966-01-04,gold
+516,Péter,Müller,péter.müller89@example.com,N/A,Slovakia,Komárno,2024-05-17,1989-11-30,SILVER
+248,Liam,Varga,liam.varga28@example.com,(30) 673-5222,HUNGARY,Esztergom,2023-09-03,1968-08-21,Bronze
+179,Tamás,Kovács,tamás.kovács97@example.com,,Deutschland,Hamburg,2021.07.18,09/09/1967,SILVER
+600,Sándor,Kowalski,sándor.kowalski47@example.com,N/A,HU,Debrecen,2024-05-24,1980-08-31,Gold
+121,olivia,  Novak ,olivia.novak27@example.com,(30) 367-7841,AT,Graz,2023-04-28,1964-02-07,Gold
+299,  Emma ,Szabó,emma.szabó20@example.com,N/A,Österreich,Vienna,2021-08-23,14 May 1961,N/A
+324,Bence,Smith,BENCE.SMITH52@EXAMPLE.COM,06304908850,Hungry,Budapest,2024-09-01,13 Feb 2001,gold
+524,Réka,Kiss,réka.kiss97@example.com,06309448643,Austria,Graz,2022-12-30,15/08/1971,Bronze
+315,Judit,Novak,judit.novak30@example.com,,Poland,Warsaw,2023.03.10,2002-07-30,N/A
+135,Sophia,Johnson,sophia.johnson77@example.com,N/A,poland,Warsaw,2021-06-24,10-23-1969,NULL
+353,péter,johnson,péter.johnson89@example.com,06304730545,Austria,Graz,25/06/2023,1990-09-08,
+215,zsófia,Kovács,zsófia.kovács85@example.com,+36 30 9814666,poland,Warsaw,2024-03-18,1992-02-15,SILVER
+20,Sophia,MOLNÁR,sophia.molnár4@example.com,,DE,Berlin,2023-03-28,1989-06-13,SILVER
+92,réka,Johnson,réka.johnson71@example.com,(30) 630-3507,germany,Munich,08 Jan 2022,1971-07-30,Gold
+640,LUKAS,kowalski,lukas.kowalski83@example.com,06306733317,HU,Budapest,2023-11-08,1992-06-17,Platinum
+107,  Ferenc ,Farkas,ferenc.farkas2@example.com,N/A,HU,Győr,19/05/2024,1969.08.17,gold
+313,István,Németh,istván.németh2@example.com,(30) 927-3873,Austria,Graz,NULL,1975.08.31,Platinum
+543,István,Varga,istván.varga10@example.com,+36 30 1368376,HU,Szeged,2023.01.11,1978-08-28,Platinum
+570,Olivér,Johnson,olivér.johnson60@example.com,N/A,SK,Bratislava,21/04/2023,2001-05-20,
+35,  Gábor ,Tóth,gábor.tóth93@example.com,+36 30 9234615,DE,Hamburg,2024-02-12,23/07/1981,
+223,john,Molnár  ,john.molnár37@example.com,(30) 679-6971,hungary,Szeged,01/02/2022,1988-07-05,NULL
+2,liam,Dvorak,liam.dvorak29@example.com,06306708456,SK,Komárno,24/07/2022,07-31-1960,N/A
+110,Eva,Farkas,eva.farkas82@example.com,N/A,Magyarország,Esztergom,08-28-2022,21/12/1992,N/A
+384,Réka,Müller,RÉKA.MÜLLER34@EXAMPLE.COM,(30) 540-5635,germany,Munich,01/04/2021,1971-06-22,
+371,Nóra,MÜLLER,nóra.müller26@example.com,+36 30 3952542,Hungry,Debrecen,2021.10.07,1962-08-12,Bronze
+439,Eszter,Tóth  ,eszter.tóth57@example.com,,austria,Vienna,2022-04-17,1963-09-10,N/A
+265,LUKAS,  Tóth ,lukas.tóth82example.com,+36 30 1978112,Slovensko,Bratislava,2024-02-17,04-25-1997,
+487,Lukas,Horváth,lukas.horváth56@example.com,+36 30 2845328,AT,Vienna,2024-05-21,1982-03-16,N/A
+46,Dávid,Horváth,dávid.horváth92@example.com,,Slovakia,Bratislava,2022-07-14,04-10-1997,Platinum
+449,RÉKA,  Smith ,réka.smith58@example.com,06307394729,Slovensko,Bratislava,2022-03-01,2031-05-17,NULL
+525,Emma,Schmidt,emma.schmidt81@example.c,(30) 628-9573,HU,Esztergom,2022.04.20,05-07-1979,gold
+590,LUKAS,  Kovács ,lukas.kovács36@example.com,,AT,Graz,2022-09-08,1967-07-31,gold
+68,Judit,Kiss,judit.kiss98@example.com,06303167376,DE,Berlin,2022-11-03,1970-10-06,SILVER
+574,Dávid,Farkas,dávid.farkas62@example.com,06308253691,Slovakia,Bratislava,2022-04-27,05-08-1983,Gold
+255,  Nóra ,Brown,nóra.brown21@example.com,N/A,DE,Munich,2024-08-15,12-18-1994,
+376,Lukas,Molnár,lukas.molnár27@example.com,,Österreich,Graz,2021.11.25,16/05/1999,gold
+192,Tamás,farkas,tamás.farkas16@example.com,,Slovakia,Komárno,2024-07-23,1966-05-22,Bronze
+497,Eszter,Brown,eszter.brown96@example.com,N/A,SK,Komárno,2021-03-06,20/05/1974,gold
+628,ANNA,MOLNÁR,anna.molnár60@example.com,06307306753,Germany,Hamburg,2022-05-05,17/02/2003,Bronze
+482,Eszter,Szabó,eszter.szabó9@example.com,,Austria,Vienna,06 Jan 2024,1976-08-02,Silver
+272,Csilla,Molnár,csilla.molnár38@example.com,,Slovakia,Komárno,2021-10-31,1971-11-10,SILVER
+201,Dávid,Szabó,dávid.szabó2@example.com,06302559464,HU,Tát,20/09/2024,1975-04-19,Silver
+226,noah,Weber,noah.weber18@example.com,06303782393,AT,Graz,12 Nov 2023,1968-02-15,gold
+386,Liam,Dvorak,liam.dvorak59@example.com,N/A,Slovakia,Bratislava,2021-10-31,1971-02-03,
+544,Sophia,  Varga ,,+36 30 6818065,Germany,Berlin,01/01/2022,1962-10-27,Gold
+252,Márta,Farkas,márta.farkas32@example.com,(30) 779-6846,DE,Hamburg,2023-06-27,1971-05-05,gold
+9,Péter,  Dvorak ,péter.dvorak34@example.com,,Germany,Munich,2024-05-27,17 Dec 1997,SILVER
+37,  Péter ,Németh,péter.németh98@example.com,N/A,Polska,Warsaw,03/08/2022,01-07-1969,Gold
+195,Anna,Molnár,anna.molnár89@example.com,(30) 166-1749,Germny,Munich,2022-10-02,1971-07-26,
+326,Katalin,Szabó,KATALIN.SZABÓ70@EXAMPLE.COM,06305595168,Poland,Warsaw,2022-03-13,1964-02-02,N/A
+103,Liam,Németh,liam.németh62@example.com,,Polska,Krakow,2022-05-20,1985-01-11,N/A
+444,MÁRTA,Tóth,márta.tóth50@example.com,N/A,poland,Warsaw,2021-08-11,1989-07-02,Gold
+40,  Olivia ,  Szabó ,olivia.szabó81@example.com,,DE,Hamburg,2024.09.14,1967-04-14,gold
+323,Péter,Tóth,péter.tóth95@example.com,N/A,SK,Bratislava,2021-03-15,1977-04-28,
+76,Lukas,kowalski,lukas.kowalski83@example.com,06306733317,HU,Budapest,2023-11-08,1992-06-17,Platinum
+526,Nóra,Kovács,nóra.kovács31@example.com,06302634202,Slovakia,Komárno,2024-06-04,23 Sep 1966,
+571,  Jan ,Weber,jan.weber7@example.com,+36 30 9690736,Austria,Graz,2023-03-16,1900-01-01,Bronze
+283,Emma,Kiss,emma.kiss9@example.com,N/A,Germny,Hamburg,2023-06-19,15/12/2003,NULL
+344,Noah,Weber,noah.weber73@example.com,(30) 794-2914,Deutschland,Munich,2023-06-25,21/05/1990,Bronze
+520,Katalin,  Schmidt ,KATALIN.SCHMIDT37@EXAMPLE.COM,,Hungry,Esztergom,2021-05-03,18/11/1962,SILVER
+161,Emma,Brown,emma.brown14@example.com,06305694689,austria,Vienna,2022-05-03,1997-08-30,SILVER
+335,eszter,Johnson,eszter.johnson31@example.com,06301409590,austria,Vienna,2021.07.05,1961-06-05,NULL
+77,Sándor,Kowalski,sándor.kowalski85@example.com,+36 30 4034091,Magyarország,Esztergom,2024-06-19,1971-10-04,NULL
+228,István,Weber,istván.weber73@example.com,06309668165,Polska,Krakow,08-31-2024,1993-12-16,SILVER
+81,péter,  Schmidt ,péter.schmidt1@example.com,06308101036,poland,Warsaw,2021-02-08,1982-12-17,
+363,Eszter,Farkas,eszter.farkas63@example.com,N/A,SK,Komárno,03-11-2024,04/01/2004,Bronze
+120,  Noah ,Novak,noah.novak90@example.com,(30) 577-9743,Deutschland,Munich,2022-02-23,1995.08.01,
+575,  Judit ,farkas,judit.farkas76@example.com,06308784019,Magyarország,Budapest,2024-09-29,1984-09-08,Bronze
+141,Márta  ,Müller,márta.müller18@example.com,06303799538,Poland,Krakow,17 May 2023,1976-08-30,Gold
+89,eva,Dvorak,eva.dvorak34@example.com,+36 30 9240971,Hungary,Szeged,03 Jul 2023,N/A,gold
+270,Sophia,Novak,sophia.novak63@example.com,(30) 898-1916,Germany,Berlin,26/03/2024,1968-07-21,N/A
+612,ANNA,Kowalski,anna.kowalski69@example.com,06302795437,Österreich,Graz,02-05-2021,01-20-2005,Platinum
+443,Tamás,horváth,,N/A,Österreich,Graz,NULL,1991-10-26,Bronze
+556,Gábor,  Novak ,gábor.novak44@example.com,N/A,HU,Tát,NULL,2006.02.08,Silver
+123,Csilla,KOVÁCS,CSILLA.KOVÁCS53@EXAMPLE.COM,+36 30 4669507,Hungry,Esztergom,2024-07-15,1980-10-05,gold
+113,Anna,Kiss,,,poland,Krakow,0000-00-00,1965-09-20,Gold
+303,Csilla,Farkas,csilla.farkas60@example.com,06307439371,Polska,Warsaw,2023-04-27,27/05/1981,NULL
+623,EMMA,Brown,emma.brown33@example.com,06306869018,Österreich,Vienna,06/09/2024,1973-06-28,Silver
+130,Sándor,Dvorak,SÁNDOR.DVORAK53@EXAMPLE.COM,,PL,Warsaw,03/07/2021,1991-10-02,NULL
+534,JAN,Schmidt,jan.schmidt64@example.com,N/A,germany,Munich,21/08/2021,1996-06-16,Silver
+456,  Zsófia ,Szabó,zsófia.szabó31@example.com,06304389195,austria,Graz,2022-05-14,1967-02-14,Bronze
+631,JAN,Farkas,jan.farkas28@example.com,N/A,austria,Vienna,09-29-2023,1960-03-09,gold
+289,Sándor,kiss,sándor.kiss24@example.com,+36 30 6007018,HU,Esztergom,30/08/2024,1991-04-24,NULL
+209,Péter,Nagy,,+36 30 3972963,Polska,Krakow,2023-06-06,2003.04.29,NULL
+624,ISTVÁN,Molnár,istván.molnár96@example.com,,Poland,Warsaw,04-03-2024,1979-10-30,Silver
+27,Hanna,Németh,hanna.németh41@example.com,,AT,Graz,2021-06-15,1972-05-31,N/A
+501,BENCE,Kowalski,bence.kowalski83example.com,06305143446,SK,Bratislava,2021-08-14,1984-02-26,Bronze
+7,Emma,szabó,emma.szabó97@example.com,N/A,Polska,Warsaw,2024-08-05,1990-07-08,Gold
+200,Csilla,Kowalski,csilla.kowalski93@example.com,06308789281,HUNGARY,Debrecen,2022-06-09,1980-09-26,Bronze
+551,SOPHIA,Weber,sophia.weber60@example.com,+36 30 1656328,HUNGARY,Debrecen,2023-04-05,1963.04.27,gold
+553,  Katalin ,Müller,katalin.müller22@example.c,(30) 213-1786,Deutschland,Munich,26/01/2023,10 Jun 1960,Silver
+41,csilla,Molnár  ,csilla.molnár81@example.com,+36 30 3499627,Österreich,Graz,2022-02-10,1998-02-20,Bronze
+29,emma,  Brown ,emma.brown60@example.com,06302408404,DE,Berlin,2024-06-28,1962.06.02,gold
+173,  Liam ,Weber,liam.weber99@example.com,(30) 608-3304,Slovakia,Bratislava,03-08-2021,02/05/1976,Silver
+605,LUKAS,  Kovács ,lukas.kovács36@example.com,,AT,Graz,2022-09-08,1967-07-31,gold
+566,Eszter,kowalski,eszter.kowalski80@example.com,06301261597,austria,Graz,2021-11-30,1987-03-29,
+212,  Noah ,Varga,noah.varga88@example.com,N/A,Österreich,Vienna,2021.05.08,1986-06-24,NULL
+99,réka,Brown,,N/A,Polska,Krakow,2021-10-08,11-17-1989,N/A
+145,Tamás,Johnson,tamás.johnson36@example.com,06309630451,PL,Warsaw,2021-12-11,N/A,NULL
+286,Liam,Kiss,liam.kiss12@example.com,+36 30 2915369,Slovensko,Bratislava,2024-08-21,17/09/1974,SILVER
+614,SOPHIA,Novak,sophia.novak63@example.com,(30) 898-1916,Germany,Berlin,26/03/2024,1968-07-21,N/A
+109,Hanna,Nagy,hanna.nagy50@example.com,06305388133,AT,Graz,01/07/2022,1989-07-28,Bronze
+266,Hanna,dvorak,hanna.dvorak25@example.com,,Slovakia,Komárno,2024-09-07,1982-04-26,NULL
+296,Csilla,Novak,csilla.novak48@example.com,+36 30 7278297,Germny,Berlin,2022-09-12,1979-05-23,gold
+174,Emma,Smith,emma.smith2@example.com,,SK,Komárno,2022-05-27,1966-01-30,Gold
+230,KATALIN,Szabó,katalin.szabó87@example.com,06301723841,Slovakia,Bratislava,2022-03-08,19/06/1974,SILVER
+620,OLIVIA,Kiss,olivia.kiss30@example.com,,Slovensko,Bratislava,2024-02-06,19/01/2002,NULL
+499,Hanna,fischer,hanna.fischer94@example.com,+36 30 5149917,Germny,Hamburg,26/05/2022,03-22-1985,SILVER
+281,Noah,  Smith ,noah.smith53@example.com,N/A,Slovakia,Komárno,2024-07-28,1984-07-24,Platinum
+295,Emma,Smith,emma.smith9@example.com,06303784505,Österreich,Vienna,2022-07-29,1962-10-18,Silver
+122,Emma,Smith,emma.smith98@example.com,,Austria,Vienna,08-07-2024,2004-01-05,Gold
+170,KATALIN,Johnson,katalin.johnson4@example.com,+36 30 9258194,Poland,Krakow,2022-12-22,1972-09-30,Silver
+292,Péter,Kowalski,péter.kowalski64@example.com,+36 30 1026523,SK,Bratislava,2024-06-02,16/11/1980,Platinum
+356,liam,Kiss,liam.kiss22@example.com,,austria,Graz,2024-01-06,,Silver
+102,Zsófia,Novak,ZSÓFIA.NOVAK91@EXAMPLE.COM,(30) 570-9734,HUNGARY,Szeged,01/03/2022,0000-00-00,SILVER
+322,  Márta ,Kovács,márta.kovács47@example.com,,Hungary,Szeged,28/11/2022,03-21-1967,Platinum
+589,Nóra,Fischer,nóra.fischer36example.com,+36 30 3059370,SK,Bratislava,2021-10-08,1980-09-06,Platinum
+285,Judit,Fischer,judit.fischer89@example.com,06302898704,hungary,Tát,2021-10-19,08-03-2001,NULL
+532,JOHN,Varga,john.varga19example.com,06309804312,HU,Debrecen,2023-04-10,1967-05-01,Bronze
+441,Judit,Németh,judit.németh91@example.com,,Deutschland,Berlin,2021-10-10,1983-06-05,SILVER
+216,Jan,Kiss,jan.kiss43@example.com,+36 30 6805039,Austria,Graz,2022-03-24,,N/A
+43,Tamás  ,kovács,tamás.kovács61@example.com,,germany,Munich,2023-06-25,1984-12-14,N/A
+147,Katalin  ,  Weber ,katalin.weber94@example.c,,Hungry,Esztergom,2023-07-28,1992.02.20,
+183,FERENC,Németh,ferenc.németh19@example.com,(30) 150-8785,SK,Komárno,2024-10-26,1996-01-15,N/A
+327,mia,  Fischer ,,06305760225,SK,Komárno,2023-09-25,1967-03-30,Platinum
+394,márta,Fischer,márta.fischer39@example.com,06306077736,Slovensko,Bratislava,2024.06.17,12/05/1992,Bronze
+331,katalin,Molnár,katalin.molnár31@example.com,06301911663,Magyarország,Szeged,2022-02-14,1993.09.09,gold
+293,Sándor,Kiss,sándor.kiss82@example.com,+36 30 9500841,Hungry,Budapest,07-31-2022,10-28-1982,N/A
+437,Mia,Horváth,mia.horváth75@example.com,N/A,Polska,Krakow,2022-03-05,04-21-1967,N/A
+618,SÁNDOR,Dvorak,sándor.dvorak53@example.com,,PL,Warsaw,03/07/2021,1991-10-02,NULL
+594,Mia,dvorak,mia.dvorak53example.com,(30) 284-5227,germany,Berlin,2021.06.12,1984.10.19,
+538,Gábor,Molnár,gábor.molnár71@example.com,+36 30 8783741,SK,Komárno,2022-02-05,16 Feb 2002,N/A
+531,Sándor,Horváth,sándor.horváth19@example.com,+36 30 7064842,Slovensko,Komárno,2022-10-18,0000-00-00,Platinum
+578,Katalin  ,  Weber ,katalin.weber45@example.com,,PL,Warsaw,2023.04.07,1966-01-23,gold
+50,JAN,Novak,jan.novak5@example.com,(30) 554-3725,Polska,Krakow,2022-04-26,,Bronze
+350,László,Kowalski,lászló.kowalski3@example.com,(30) 267-1866,Polska,Warsaw,2021-11-30,1965-04-01,N/A
+506,Anna,varga,anna.varga28@example.com,(30) 410-4609,Poland,Warsaw,2021-01-19,2006-01-02,
+305,emma,Kovács,emma.kovács28@example.com,N/A,HU,Debrecen,2024-04-04,01-07-1960,gold
+238,márta,Fischer,márta.fischer37@example.com,N/A,PL,Warsaw,08/05/2024,25 Feb 1965,
+100,  Réka ,Dvorak,réka.dvorak91@example.com,N/A,Slovensko,Bratislava,31/08/2023,1961-06-29,gold
+287,Márta,kovács,márta.kovács43@example.com,,germany,Berlin,2024-09-12,1973-06-19,
+603,LUKAS,dvorak,lukas.dvorak32@example.com,,Slovensko,Bratislava,2022-04-05,04/01/1965,N/A
+521,Hanna,MÜLLER,hanna.müller35@example.com,06301939470,Deutschland,Munich,2023-12-05,NULL,SILVER
+181,Emma,Müller,emma.müller81@example.com,N/A,Germany,Hamburg,03/05/2024,1983-02-19,N/A
+450,Olivia,schmidt,olivia.schmidt60example.com,06305683223,Slovakia,Komárno,2024-01-29,26/09/1981,Bronze
+329,SÁNDOR,Kowalski,sándor.kowalski60@example.com,06308959326,germany,Munich,2024-09-12,1978-09-02,Bronze
+389,Márta,Németh,márta.németh31@example.com,+36 30 7517997,DE,Hamburg,28/03/2023,1968-01-01,
+465,EVA,Tóth,eva.tóth82@example.com,,Magyarország,Esztergom,2022-12-07,1972-10-20,Bronze
+379,GÁBOR,Tóth,gábor.tóth48@example.com,(30) 573-4248,Slovensko,Komárno,2023-02-12,2031-05-17,Gold
+626,ISTVÁN,Varga,istván.varga10@example.com,+36 30 1368376,HU,Szeged,2023.01.11,1978-08-28,Platinum
+608,CSILLA,Farkas,csilla.farkas52@example.com,,Polska,Krakow,12-10-2023,1962-08-06,Bronze
+8,NOAH,Varga,noah.varga68@example.com,06306159230,Poland,Warsaw,2024-05-11,1989-01-29,Silver
+156,Olivia,varga,olivia.varga2@example.com,06305349442,Hungary,Debrecen,01-24-2021,1974-09-12,
+86,Csilla,MÜLLER,csilla.müller24@example.com,06308481225,Polska,Krakow,2022-10-20,1969-03-15,gold
+522,  John ,Brown,john.brown22example.com,+36 30 2305411,Slovakia,Bratislava,2023-01-31,1998-01-21,Platinum
+604,ESZTER,Szabó,eszter.szabó94@example.com,+36 30 2413458,PL,Krakow,2023-05-30,03-19-1988,
+188,John,Németh,john.németh49@example.com,+36 30 9734854,SK,Komárno,2023-07-30,1982-08-10,SILVER
+138,Olivia,Molnár,olivia.molnár23@example.com,,poland,Krakow,2022-11-09,02 Apr 1998,Bronze
+489,Noah,Brown,noah.brown45@example.com,06309616197,Germany,Hamburg,20/10/2024,1996-02-15,Gold
+297,Eva,Novak,eva.novak40@example.com,,Poland,Krakow,21 Oct 2021,10-24-1968,NULL
+447,Hanna,kowalski,hanna.kowalski73@example.com,,austria,Graz,2023-08-01,2001-07-05,Gold
+461,Márta,Dvorak,márta.dvorak62example.com,(30) 982-9203,poland,Krakow,2021-10-07,2002-02-05,gold
+419,Ferenc,Molnár,ferenc.molnár55@example.com,,poland,Krakow,02-11-2024,2000-07-11,
+460,Olivér,  Müller ,olivér.müller79@example.com,06306037049,poland,Krakow,2021-11-16,2003-03-30,SILVER
+364,Judit,Smith,judit.smith4@example.com,,Hungary,Szeged,2021-09-20,1992-11-14,N/A

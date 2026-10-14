@@ -1,0 +1,3036 @@
+order_id,customer_id,order_date,status,payment_method,shipping_cost,discount_pct
+11164,177,2024-06-22,delivered ,Bank Transfer,990,
+12313,27,2024-05-25,Shipped,credit card,free,20%
+12713,586,2022-05-20,Pending,PayPal,1490,0
+12690,41,20/08/2022,Shipped,Bank Transfer,-3,
+11259,9,2022-01-12,SHIPPED,Credit Card,1490,0
+11818,9623,2024-04-24,Pending,Credit Card,,5
+10925,,2024-06-17,pending,Credit Card,-3,0
+10180,475,2023-02-23,SHIPPED,,9.99,0
+10615,597,2023-09-18,delivered ,PayPal,free,0
+12592,425,2023.07.14,Cancelled,credit card,0,0
+10290,162,2023-05-25,shipped,credit card,0,0
+10339,429,2024-04-25,Delivered,Credit Card,990,0
+10094,353,2024-09-21,Pending,Bank Transfer,,0
+12506,86,2023-01-28,SHIPPED,paypal,free,0
+11877,9626,2022-12-19,canceled,Cash on Delivery,990,5 %
+12130,372,2023-02-05,Pending,Credit Card,-3,0
+11302,168,2023-08-29,Cancelled,Bank Transfer,-3,0
+12586,391,2023-10-04,pending,COD,990,0
+11634,549,26/03/2024,pending,credit card,1490,20%
+11881,319,2022-01-07,delivered ,PayPal,9.99,
+11483,85,2023-04-25,shipped,Bank Transfer,free,0
+11163,485,0000-00-00,Pending,paypal,-3,0
+11057,168,26/06/2022,delivered ,Bank Transfer,0,0
+11904,134,2024-08-05,delivered ,,-3,
+10558,209,2022-01-25,,credit card,-3,5 %
+12284,131,21/03/2023,Shipped,COD,-3,0
+11576,325,2023-12-29,canceled,Cash on Delivery,4.99,20
+11590,363,11-14-2023,Returned,paypal,4.99,0
+11532,436,2024-06-08,Returned,Cash on Delivery,1490,10
+10880,9170,2022-01-11,Returned,Cash on Delivery,9.99,0
+10367,446,2022-02-10,delivered ,,free,0
+11921,333,2022-02-23,Pending,,4.99,10%
+11260,243,2022-05-19,,paypal,0,0
+11062,94,2022-11-15,,PayPal,1490,0
+11467,309,2024.05.30,Shipped,Bank Transfer,990,0
+11564,358,2023.08.09,delivered ,,4.99,0
+10721,156,2024-06-01,,COD,4.99,0
+10691,,0000-00-00,canceled,Bank Transfer,0,0
+10572,568,2023-12-04,Pending,,free,0
+11562,51,2023-10-11,canceled,COD,free,0
+12211,61,2023-11-29,Shipped,,9.99,0
+12277,489,2023-01-30,,Cash on Delivery,-3,20
+12680,9622,2022-03-02,pending,,free,10%
+11670,125,2023-08-09,Delivered,Bank Transfer,4.99,0
+10193,174,2023.06.10,Shipped,,4.99,0
+10856,566,2023.10.29,Pending,Bank Transfer,9.99,0
+10388,265,N/A,shipped,,9.99,0
+10423,28,2023-08-09,SHIPPED,paypal,0,0
+12841,397,2024-06-18,Cancelled,paypal,-3,0
+11021,88,02-18-2023,Delivered,COD,-3,0
+11075,294,2024-01-04,Returned,Credit Card,-3,0
+10532,228,2024-09-10,shipped,Cash on Delivery,0,0
+12991,442,2022-11-07,Returned,COD,0,0
+10171,59,15/06/2023,Cancelled,Cash on Delivery,-3,10
+10592,605,10 May 2022,shipped,Cash on Delivery,4.99,0
+11196,2,17 Feb 2022,SHIPPED,COD,0,0
+12438,206,24/05/2022,canceled,PayPal,0,0
+12693,578,2024-08-16,Pending,credit card,9.99,0
+11039,513,2023-12-07,Cancelled,paypal,9.99,0
+11696,9780,2023-08-30,Cancelled,paypal,9.99,
+11651,412,2022-03-22,SHIPPED,credit card,9.99,0
+12009,338,02-03-2023,shipped,Credit Card,0,5
+10348,603,08-29-2022,Cancelled,PayPal,4.99,
+11182,483,2022-07-29,Returned,,4.99,0
+11704,419,2024-03-20,SHIPPED,Bank Transfer,1490,0
+11834,186,2022-10-14,shipped,Cash on Delivery,4.99,0
+11362,598,2024-08-27,canceled,,free,0
+12647,547,11-19-2022,Cancelled,PayPal,1490,0
+11697,282,2023-09-18,canceled,COD,,0
+10240,596,2024-04-28,Shipped,Bank Transfer,990,0
+12116,535,2022-05-02,shipped,Cash on Delivery,free,20
+10828,9982,2022-12-14,Returned,COD,-3,0
+10713,323,2024-06-20,Cancelled,Credit Card,0,0
+12402,218,2024.05.25,Shipped,PayPal,,
+10289,621,18 Jul 2024,Returned,COD,990,0
+11043,118,2023-09-09,Shipped,Credit Card,990,-10
+10883,486,2024-07-22,shipped,COD,9.99,0
+12965,165,2022-07-29,canceled,paypal,free,0
+12662,274,2023-08-10,Cancelled,Bank Transfer,9.99,10%
+12406,37,2022-01-25,Pending,Credit Card,9.99,
+12398,161,2022-01-08,Pending,credit card,0,15
+12401,36,2023-11-21,Cancelled,Bank Transfer,free,-10
+11774,486,2023-08-01,,COD,9.99,0
+11274,587,2023-10-21,canceled,Bank Transfer,-3,0
+12935,336,2023-03-29,Delivered,COD,free,0
+12831,135,2023-07-21,SHIPPED,PayPal,-3,0
+11793,17,2024-07-02,delivered ,COD,,20
+10891,549,2024-07-04,delivered ,Credit Card,0,5
+11216,221,2023-05-04,Cancelled,,,0
+11541,111,2023-03-21,Cancelled,COD,9.99,0
+10052,106,2022-08-04,canceled,PayPal,990,0
+10069,465,2024-04-19,delivered ,Credit Card,,0
+10370,405,2022-02-11,canceled,Credit Card,1490,0
+10551,6,2023-06-19,,PayPal,1490,0
+10682,402,2024-06-21,Returned,Credit Card,1490,0
+12636,476,2024-01-29,delivered ,COD,-3,0
+11723,419,2023-06-03,delivered ,Cash on Delivery,990,
+10869,152,2022-03-07,Pending,Cash on Delivery,990,20%
+10922,9619,2022.06.20,Cancelled,PayPal,-3,0
+11591,362,10-08-2023,Delivered,COD,990,0
+12958,206,09/05/2022,,PayPal,-3,0
+10350,95,2023-12-16,SHIPPED,Credit Card,990,0
+10071,206,2022-12-30,SHIPPED,credit card,990,10%
+11597,288,10/09/2023,Cancelled,paypal,1490,0
+12253,249,10/06/2022,Returned,Credit Card,0,0
+11416,453,NULL,canceled,Bank Transfer,990,0
+10629,187,2023-09-12,Pending,COD,,0
+10593,328,27/04/2024,delivered ,Credit Card,0,
+10604,458,2022-09-17,Cancelled,paypal,free,5
+11150,,01-14-2022,Cancelled,Credit Card,,0
+11283,9433,09-24-2023,Returned,Bank Transfer,1490,
+11862,239,2023-04-29,Pending,COD,1490,10
+12214,639,2023-04-25,Pending,,9.99,0
+10727,240,13 Apr 2022,shipped,Credit Card,free,0
+10256,294,2023-04-13,Cancelled,PayPal,free,0
+10086,430,2023.05.03,Returned,,free,0
+12618,229,0000-00-00,delivered ,Credit Card,0,0
+10906,182,03-21-2023,Shipped,credit card,-3,0
+10829,361,01/08/2022,canceled,Cash on Delivery,4.99,150
+11728,89,11-22-2022,delivered ,COD,-3,-10
+11295,290,2023-09-02,Returned,paypal,free,0
+12521,512,2024-04-16,Cancelled,Bank Transfer,4.99,0
+11332,102,2023-12-18,Pending,paypal,0,0
+10077,325,2022-04-03,shipped,,-3,0
+12283,596,20/12/2022,,Credit Card,9.99,0
+12696,485,2022-10-13,,Bank Transfer,1490,0
+11899,130,09-19-2024,Pending,paypal,free,0
+12580,437,06/11/2022,Cancelled,,0,0
+10031,376,2024-07-23,shipped,Cash on Delivery,1490,0
+11086,239,2022.01.04,delivered ,,9.99,5
+11434,302,15 Mar 2022,Shipped,,1490,0
+10468,418,2022-06-11,shipped,paypal,1490,0
+10060,449,05-18-2022,canceled,PayPal,0,0
+12021,617,2023-09-12,SHIPPED,Cash on Delivery,9.99,0
+12622,578,02-25-2023,Cancelled,Credit Card,1490,0
+10522,87,07-13-2023,Shipped,,-3,0
+12487,38,2024.09.12,delivered ,PayPal,,0
+10819,521,2022-08-23,Cancelled,Bank Transfer,free,0
+10327,258,2023-05-31,Pending,Cash on Delivery,free,5
+11015,277,2023-01-03,SHIPPED,credit card,-3,0
+11131,471,2022-06-13,Pending,Bank Transfer,0,0
+10750,332,2022-03-31,canceled,Bank Transfer,990,0
+10600,459,08/06/2024,Cancelled,credit card,0,0
+11956,13,12 Nov 2023,delivered ,Cash on Delivery,0,15
+12364,146,2023-01-27,delivered ,paypal,4.99,0
+12961,234,26/07/2023,Cancelled,COD,-3,0
+12888,256,26/03/2022,shipped,Bank Transfer,1490,0
+11258,406,09/01/2022,canceled,Bank Transfer,9.99,5
+11124,212,09-08-2022,pending,Cash on Delivery,9.99,10
+11769,132,NULL,Returned,COD,0,0
+12298,573,09/02/2024,canceled,COD,free,0
+12389,623,2023-05-17,shipped,credit card,,5
+11250,409,04-25-2022,pending,PayPal,,20
+11689,,2023-03-11,canceled,paypal,990,0
+11603,146,2022-01-30,Cancelled,PayPal,4.99,0
+12510,152,09-29-2022,pending,Cash on Delivery,,0
+11664,432,2022.09.05,Cancelled,Bank Transfer,0,0
+12948,334,2024-06-01,Shipped,Cash on Delivery,1490,0
+10937,492,2022-10-23,canceled,Cash on Delivery,9.99,0
+11832,85,N/A,Pending,Bank Transfer,-3,0
+11145,490,2022-01-19,pending,PayPal,-3,
+11334,391,2023-07-31,Shipped,COD,4.99,0
+10876,398,2023-07-25,delivered ,PayPal,free,10%
+10014,34,2022-03-22,Delivered,Cash on Delivery,free,0
+10051,199,2022-08-07,Returned,,4.99,0
+12643,29,2022-09-11,Shipped,Cash on Delivery,,0
+12982,413,23 Apr 2024,pending,PayPal,1490,0
+10626,52,08-23-2022,Pending,COD,0,
+12558,237,2023-02-03,Shipped,,990,10
+12850,613,01-31-2023,delivered ,,9.99,5
+12156,444,2022-03-23,Returned,PayPal,-3,0
+10894,289,15/11/2022,Delivered,Bank Transfer,0,0
+10173,230,13 Jul 2023,pending,COD,0,20
+11967,72,12-28-2023,Delivered,PayPal,-3,0
+12495,595,2023-09-25,Shipped,PayPal,0,0
+10685,31,19/11/2023,,COD,-3,0
+11233,282,2023-09-16,Shipped,,0,0
+12867,284,10/04/2023,canceled,Cash on Delivery,9.99,20
+10343,23,0000-00-00,Shipped,Bank Transfer,-3,0
+12172,512,2023-12-30,,PayPal,990,0
+11160,141,02-03-2023,shipped,paypal,9.99,
+11234,548,2022.08.19,Shipped,,9.99,0
+11845,337,2023-03-16,shipped,COD,free,
+10218,9315,2023-10-09,Pending,COD,990,0
+10640,281,16/02/2023,,credit card,0,0
+10385,347,2024-09-19,shipped,credit card,9.99,0
+11132,96,2022-12-17,Cancelled,credit card,0,0
+11599,9431,2022-05-22,Cancelled,Credit Card,9.99,0
+11473,538,2022-01-21,,credit card,990,0
+11837,526,08 Mar 2024,delivered ,COD,4.99,0
+11611,435,02/05/2022,canceled,PayPal,-3,0
+10598,40,2024-01-25,canceled,Bank Transfer,,0
+12670,174,27 Sep 2024,canceled,,990,0
+11061,415,01-19-2022,Shipped,PayPal,9.99,0
+12362,140,2023-11-02,shipped,Bank Transfer,0,0
+10966,445,,delivered ,Cash on Delivery,1490,0
+11973,270,2022-09-12,Cancelled,credit card,,5
+10693,,2023-04-03,Pending,Bank Transfer,-3,0
+12077,388,23/04/2024,Cancelled,paypal,1490,0
+10803,125,2022-12-26,,Credit Card,990,0
+11727,432,23/02/2024,Cancelled,credit card,-3,0
+12208,57,NULL,Pending,COD,free,0
+10346,639,2022-03-09,canceled,COD,9.99,0
+10649,389,2023-09-01,Pending,Bank Transfer,4.99,0
+12966,9125,2022-12-23,shipped,paypal,4.99,0
+11087,431,2023-05-18,canceled,credit card,-3,0
+12881,63,2022-10-16,canceled,COD,0,0
+12140,9178,21 Aug 2023,Cancelled,Bank Transfer,1490,0
+10702,468,2024-02-05,SHIPPED,credit card,990,0
+10136,67,2022-09-16,,PayPal,0,0
+10632,417,01 Jan 2022,Delivered,Bank Transfer,-3,0
+11588,508,2023-07-10,delivered ,Bank Transfer,free,0
+11166,587,2022-01-12,Returned,Cash on Delivery,990,0
+10758,97,12-27-2023,Delivered,,0,0
+11413,473,2023-05-25,Cancelled,PayPal,1490,0
+12816,198,2022-07-20,Pending,Credit Card,,0
+10431,94,2023-12-13,,credit card,990,0
+10199,24,2022-04-20,Pending,paypal,1490,15
+10203,397,2023-05-03,,PayPal,1490,0
+12273,8,2022.05.26,Delivered,,1490,
+10165,569,2023-06-15,Delivered,Credit Card,0,0
+12754,227,2023-09-07,Delivered,Cash on Delivery,0,20
+12309,441,2023-11-04,shipped,Cash on Delivery,0,0
+12652,600,2024-04-20,delivered ,PayPal,free,0
+10406,,20/04/2023,Returned,Bank Transfer,990,5
+11499,354,2022-09-12,canceled,Cash on Delivery,free,0
+12766,341,07-28-2022,Returned,Cash on Delivery,9.99,0
+12555,515,2022-04-02,Delivered,Bank Transfer,9.99,0
+12927,402,08/11/2022,SHIPPED,COD,free,10%
+12889,533,2022-01-30,canceled,PayPal,free,20
+11445,185,2023-06-09,Shipped,Credit Card,free,0
+10329,17,2024-02-08,,PayPal,990,0
+10957,546,2022-08-22,pending,Cash on Delivery,0,0
+11839,100,2023-07-09,Shipped,,1490,0
+12728,365,2022-12-18,Cancelled,Bank Transfer,0,
+10720,188,2022-08-07,Delivered,Cash on Delivery,9.99,0
+10780,319,2023-11-05,Cancelled,paypal,,
+10245,9849,05/07/2022,Cancelled,COD,9.99,-10
+12676,,2023-08-05,Shipped,Cash on Delivery,-3,20%
+10603,,2023.03.22,pending,Cash on Delivery,990,0
+10168,45,2022-12-16,Delivered,Credit Card,4.99,0
+12902,59,20/03/2022,pending,,free,0
+10314,67,2023-02-03,canceled,,9.99,0
+11866,594,2023-05-04,Shipped,,,0
+11766,402,2022-02-06,Cancelled,COD,0,0
+12212,68,2023-03-07,Delivered,Credit Card,1490,
+10442,389,2023-04-24,delivered ,paypal,0,5
+12187,42,2023.04.30,Cancelled,paypal,,0
+10016,9996,0000-00-00,Returned,PayPal,-3,0
+11672,534,2024-09-07,pending,Bank Transfer,0,0
+12155,80,2022-12-22,Delivered,Cash on Delivery,-3,0
+10770,163,2022-08-12,Delivered,Bank Transfer,0,0
+10732,328,2024-01-07,pending,Bank Transfer,990,0
+10877,148,2023-11-27,pending,COD,9.99,0
+10539,39,2023-02-08,Cancelled,Cash on Delivery,4.99,15
+11976,297,2022-09-26,shipped,credit card,0,
+12288,453,2023-03-01,Cancelled,Bank Transfer,1490,0
+11403,182,2023-02-18,shipped,Bank Transfer,9.99,0
+11846,38,2024-02-10,delivered ,Credit Card,1490,0
+12873,146,2023-06-14,Shipped,Bank Transfer,9.99,
+11649,269,0000-00-00,Pending,,9.99,0
+10699,130,18 Mar 2023,Returned,PayPal,9.99,0
+12954,14,2023.08.17,Cancelled,paypal,0,0
+10444,242,2023-06-08,Shipped,Cash on Delivery,1490,0
+11998,394,08 Aug 2022,Pending,,,0
+11698,461,2022-09-22,pending,Credit Card,free,5
+11714,551,20/07/2022,shipped,,1490,0
+10429,464,2023-06-30,Pending,,1490,0
+12184,573,2022-06-14,Shipped,,9.99,15
+11253,202,10-24-2022,Pending,Cash on Delivery,,0
+11642,242,10/04/2024,Returned,COD,0,0
+12445,345,2022-09-07,canceled,Cash on Delivery,0,0
+10182,530,25/01/2022,delivered ,PayPal,1490,0
+10996,88,2022-12-31,delivered ,credit card,free,0
+10397,,20/06/2023,Delivered,,4.99,0
+11468,189,09-14-2022,delivered ,credit card,990,150
+11169,233,25 Jun 2024,SHIPPED,credit card,9.99,0
+12276,276,30/08/2023,Cancelled,credit card,-3,0
+11142,214,2023-08-27,Pending,Credit Card,-3,0
+11937,9797,2022-01-01,Shipped,Bank Transfer,free,0
+12336,298,2024-05-30,Delivered,Bank Transfer,free,0
+10030,439,2024-05-17,shipped,PayPal,4.99,0
+11547,45,2024-07-20,Shipped,PayPal,990,0
+10881,74,14/07/2022,SHIPPED,COD,free,0
+12220,492,2023-02-07,Shipped,COD,1490,0
+10886,239,2024-01-08,Pending,Bank Transfer,990,0
+10581,43,03/04/2023,Returned,,990,0
+10006,433,04/02/2024,shipped,COD,4.99,0
+11674,111,02 Jul 2024,shipped,COD,1490,0
+12383,86,17/08/2023,Returned,Cash on Delivery,9.99,0
+10333,364,2022-02-11,Returned,PayPal,free,15
+10676,462,2022-01-16,SHIPPED,,9.99,
+11944,359,01-26-2023,Returned,PayPal,9.99,0
+12451,463,2022-10-06,delivered ,credit card,9.99,0
+11864,556,NULL,shipped,credit card,4.99,0
+12323,135,2024-07-27,Cancelled,credit card,0,0
+12654,271,2022-11-10,canceled,Credit Card,,
+12485,56,20/05/2024,Cancelled,COD,990,0
+10785,344,2022-09-03,delivered ,COD,,0
+12578,321,2024-02-15,Shipped,,4.99,20%
+12232,22,22/09/2022,shipped,COD,0,0
+11357,68,09-20-2023,Returned,paypal,9.99,0
+10284,600,2024-04-10,Cancelled,paypal,990,0
+11524,37,02-08-2022,pending,credit card,990,0
+10740,20,24/07/2024,Cancelled,Bank Transfer,-3,20
+10752,145,,,PayPal,0,
+11099,488,11/09/2023,Cancelled,Credit Card,990,-10
+12995,216,2023-01-06,pending,Bank Transfer,-3,0
+12275,547,2024.02.24,pending,Credit Card,0,20
+10306,24,08-14-2022,Delivered,Credit Card,990,0
+10669,502,02/05/2024,shipped,,-3,0
+12607,433,04-27-2023,Delivered,PayPal,-3,0
+12884,511,2023-04-11,Cancelled,COD,1490,0
+10393,42,2022-04-06,shipped,credit card,9.99,
+10794,146,2024.01.18,Returned,Bank Transfer,-3,0
+12854,145,26/09/2023,pending,,,0
+11162,433,09-15-2022,canceled,credit card,4.99,10%
+11720,477,2022-01-26,Cancelled,COD,4.99,0
+10462,336,09-10-2024,,Credit Card,-3,0
+10096,350,17/07/2023,Cancelled,Bank Transfer,free,0
+12441,210,06/02/2024,pending,Cash on Delivery,990,
+10257,329,N/A,SHIPPED,,,0
+12494,40,2022-03-25,pending,Bank Transfer,-3,
+12078,59,2022-04-11,pending,paypal,free,0
+10208,289,06/03/2022,Pending,COD,free,0
+11731,,2023-01-17,Pending,Cash on Delivery,990,0
+10872,49,2023-06-10,,COD,0,
+10831,601,2024-03-04,delivered ,,9.99,0
+12593,626,2022-10-14,Cancelled,Cash on Delivery,9.99,
+11157,289,2024-08-19,SHIPPED,paypal,9.99,15
+11396,29,2023-09-21,Delivered,Bank Transfer,0,0
+12381,158,2022-01-30,pending,credit card,,0
+10207,519,2022-09-14,pending,Bank Transfer,9.99,0
+12795,36,23 Dec 2022,shipped,,0,0
+11400,439,2023-08-21,SHIPPED,Credit Card,-3,0
+10813,109,07/06/2022,,PayPal,9.99,0
+10178,428,2024-09-02,pending,COD,,0
+11827,533,2024.02.26,pending,paypal,0,0
+11146,372,2024-03-09,Pending,COD,9.99,0
+11230,502,2022-03-17,Delivered,COD,free,0
+12611,114,2023-01-11,delivered ,PayPal,9.99,0
+10652,434,2023-03-30,Cancelled,Bank Transfer,9.99,0
+12980,208,2024-03-07,Pending,Cash on Delivery,-3,0
+10730,182,11-14-2023,Pending,Cash on Delivery,990,5 %
+11070,229,2022-05-03,Returned,,0,0
+12478,414,22/09/2023,Pending,Credit Card,4.99,10
+11188,239,07-25-2024,delivered ,Bank Transfer,0,0
+11798,396,23/08/2024,delivered ,Bank Transfer,9.99,0
+10979,298,09-21-2023,Delivered,,0,0
+10151,606,2023-11-11,,COD,9.99,0
+11643,145,12-29-2022,canceled,,,20
+11823,540,2022-03-01,shipped,paypal,free,10
+10368,9603,2023.10.05,Cancelled,paypal,0,0
+12733,615,24 Apr 2022,delivered ,,,20
+11354,39,2024-06-12,SHIPPED,paypal,free,0
+10701,143,,Cancelled,,9.99,0
+10325,69,2022-10-22,canceled,COD,free,0
+11475,90,2024-02-27,Delivered,PayPal,990,0
+11101,181,2023-01-15,Shipped,PayPal,1490,
+11357,68,09-20-2023,Returned,paypal,9.99,0
+12687,529,N/A,Pending,credit card,-3,0
+11331,562,10-14-2022,delivered ,paypal,990,0
+12688,311,2024-04-28,Pending,Bank Transfer,free,10%
+12210,407,2024-01-03,,,990,0
+12818,80,2023-11-16,Cancelled,COD,,
+11299,222,2024-09-25,shipped,PayPal,4.99,0
+11929,375,29/05/2024,,Credit Card,free,15
+11991,,15 Mar 2022,Delivered,,free,0
+12291,150,2024-08-20,pending,PayPal,1490,0
+10065,542,N/A,Returned,,0,0
+11636,491,2023-09-07,,Bank Transfer,0,0
+12711,298,2022-11-11,Cancelled,paypal,0,
+12962,441,2024-05-01,Cancelled,credit card,990,0
+10488,575,19 Oct 2022,pending,credit card,0,0
+11257,222,2022-02-19,Delivered,Credit Card,9.99,0
+12239,278,2024-03-12,SHIPPED,paypal,4.99,0
+10241,273,2022-06-13,Delivered,Cash on Delivery,1490,0
+12035,524,2024-05-08,Cancelled,paypal,990,0
+12064,,2023-06-11,,credit card,1490,
+10128,27,2022-08-13,Delivered,PayPal,1490,0
+12474,573,2022-06-20,Delivered,,free,0
+10054,235,2024-05-26,,Cash on Delivery,4.99,0
+11284,301,2023-05-22,Pending,Credit Card,0,0
+12879,358,2022-07-13,shipped,credit card,1490,0
+10109,158,21 Jul 2024,Shipped,COD,9.99,0
+10624,610,2023-11-16,Cancelled,Bank Transfer,0,0
+12465,48,15/09/2024,canceled,Credit Card,1490,0
+12133,325,2023-08-29,Shipped,Cash on Delivery,0,5
+10340,68,2024-01-15,SHIPPED,,free,0
+12377,203,0000-00-00,Pending,PayPal,9.99,0
+10736,9706,2024-07-07,Shipped,paypal,0,15
+12056,,2024-07-19,Returned,Credit Card,9.99,0
+10597,,02-15-2022,Returned,credit card,-3,5
+12689,403,2023-03-16,,PayPal,9.99,5
+12525,67,2024-05-31,Pending,paypal,0,0
+10078,,2024.04.02,Cancelled,Cash on Delivery,,0
+10887,185,2022-12-10,pending,Cash on Delivery,4.99,0
+12443,528,2022.10.09,shipped,Cash on Delivery,990,0
+11574,326,2022-11-28,SHIPPED,COD,9.99,0
+10570,335,2024-08-26,pending,credit card,-3,
+12759,58,2024-07-30,Cancelled,PayPal,free,0
+10670,363,2022-03-04,Delivered,Credit Card,0,0
+11436,122,2022-03-19,Shipped,COD,1490,15
+10270,433,2022-12-26,Cancelled,credit card,free,0
+10332,303,2024.07.20,shipped,Bank Transfer,,0
+10141,97,2024-08-29,Cancelled,PayPal,,0
+10262,233,05-16-2023,Cancelled,COD,0,0
+10032,76,2024-02-10,,,1490,0
+12585,595,08-13-2022,SHIPPED,paypal,-3,0
+11063,254,16/02/2023,Returned,COD,0,0
+11330,585,2024-02-24,pending,Cash on Delivery,1490,5 %
+11151,9940,2024-04-30,Pending,Cash on Delivery,9.99,0
+12529,87,2022.05.18,shipped,credit card,,0
+12999,289,20/03/2023,Delivered,Credit Card,1490,
+12472,139,2022-11-03,SHIPPED,COD,-3,0
+12703,342,2022-08-06,Delivered,Credit Card,,0
+11737,3,2022.10.16,Delivered,,0,10
+10956,386,21/09/2024,shipped,Credit Card,9.99,5
+11407,326,29/07/2023,SHIPPED,Bank Transfer,,15
+10322,184,2022-09-09,delivered ,Credit Card,0,0
+11999,468,10/08/2022,SHIPPED,Bank Transfer,4.99,0
+11747,589,21/02/2024,shipped,PayPal,0,0
+11503,113,06-06-2024,canceled,,,0
+11469,466,08 Jan 2024,canceled,credit card,9.99,0
+11289,408,2023-05-05,Delivered,Cash on Delivery,0,0
+10005,42,,Cancelled,Bank Transfer,0,0
+12484,409,2024-03-20,canceled,Credit Card,9.99,0
+11761,631,04 Apr 2024,SHIPPED,Cash on Delivery,1490,0
+11428,310,2022-03-03,Shipped,,1490,0
+10353,401,2022-10-01,Pending,Bank Transfer,4.99,0
+11947,9528,2022-08-17,canceled,,0,0
+11261,472,2023-12-14,pending,PayPal,9.99,
+11971,196,2023-04-18,Shipped,paypal,1490,0
+10619,151,2023-04-01,pending,Bank Transfer,0,0
+12294,6,2022-02-04,canceled,Credit Card,0,0
+11439,290,2024-08-14,Pending,Bank Transfer,free,0
+11440,534,2023-03-13,Pending,paypal,,0
+11404,500,2022.06.11,Returned,Credit Card,9.99,0
+11432,297,2023-07-01,SHIPPED,,free,0
+10509,526,2022.01.15,Pending,PayPal,990,0
+10074,28,2023-03-27,Cancelled,paypal,0,0
+12426,274,2023-04-11,,Bank Transfer,-3,-10
+11779,433,2023-05-23,Returned,paypal,-3,20
+10045,550,2024-03-19,Cancelled,paypal,0,10%
+12539,600,2022-09-02,Returned,,0,150
+10839,241,21/09/2023,Returned,Cash on Delivery,4.99,0
+11338,73,2023-05-24,shipped,Credit Card,9.99,0
+10745,109,20/08/2023,Pending,PayPal,0,0
+10080,,2024.09.14,Shipped,PayPal,4.99,0
+10942,633,2023-11-23,Pending,Bank Transfer,9.99,0
+11750,229,2022-11-11,pending,credit card,4.99,20
+11463,16,2023-02-02,Cancelled,Bank Transfer,9.99,0
+11409,487,03/06/2024,Returned,paypal,,0
+10064,204,2022-09-19,Cancelled,Credit Card,0,20
+10667,158,20/10/2022,Cancelled,credit card,-3,0
+11179,495,01-23-2022,shipped,PayPal,,0
+12375,124,2023.12.05,Returned,COD,-3,10
+11726,585,2024-01-24,pending,Cash on Delivery,1490,0
+10474,218,2022-08-12,canceled,PayPal,4.99,0
+11412,426,2023.11.21,Returned,paypal,-3,20
+12872,166,2023-05-24,Pending,Credit Card,4.99,0
+10855,517,2023-11-05,Shipped,Credit Card,,0
+12161,164,NULL,Cancelled,,,0
+10987,589,2023.02.16,pending,Credit Card,4.99,0
+10224,542,07-01-2024,delivered ,PayPal,4.99,20
+10481,640,10/03/2024,Pending,,4.99,0
+10552,103,2023-06-17,Pending,,-3,0
+10895,185,2024-08-10,Delivered,PayPal,,0
+10908,554,2022-08-18,Pending,credit card,9.99,0
+10145,5,30 Mar 2024,Delivered,,9.99,0
+12950,278,01 Nov 2023,,Credit Card,-3,0
+10411,279,2022-11-14,delivered ,Bank Transfer,,5
+11449,483,2022-07-17,delivered ,Credit Card,9.99,0
+12185,543,2024-03-04,shipped,PayPal,0,0
+10214,410,2024-04-17,Shipped,COD,990,10%
+10696,398,2023-06-25,Returned,credit card,1490,0
+12640,278,2022-10-05,canceled,,1490,0
+10909,542,2024.02.22,Cancelled,COD,0,0
+11493,345,10/02/2024,Delivered,credit card,-3,0
+11738,232,2023.07.05,Cancelled,,,0
+10844,132,15/08/2024,Returned,Bank Transfer,1490,0
+12499,295,2024-04-22,SHIPPED,Credit Card,free,20
+10377,79,2024-05-23,delivered ,PayPal,0,0
+12251,190,2023-11-17,,,free,0
+10477,199,2024-06-02,canceled,Credit Card,-3,0
+12743,610,2022-03-09,delivered ,Bank Transfer,4.99,0
+12657,298,2023.08.20,delivered ,Credit Card,0,5
+11703,9999,2024.08.06,pending,Cash on Delivery,4.99,0
+12103,171,05/03/2022,Returned,Credit Card,,10%
+11965,382,23/05/2024,Returned,Credit Card,0,10%
+11478,190,19/11/2023,Delivered,Cash on Delivery,0,10
+12159,546,2022-02-06,Delivered,PayPal,9.99,10%
+11447,9417,2022-06-22,Cancelled,PayPal,1490,0
+10754,186,22/06/2022,pending,PayPal,0,0
+10618,559,08-29-2022,Pending,,9.99,0
+12271,477,2024-05-25,Cancelled,paypal,1490,0
+12697,365,0000-00-00,Returned,Credit Card,4.99,0
+12770,,2022-06-13,shipped,Bank Transfer,990,0
+11853,197,2022-03-26,Cancelled,credit card,0,0
+11763,529,2022-02-14,SHIPPED,Bank Transfer,4.99,0
+11656,591,2023-09-22,SHIPPED,PayPal,free,0
+10305,292,2023-09-26,Delivered,PayPal,4.99,0
+10859,49,2023-09-17,Cancelled,Cash on Delivery,4.99,0
+10023,9615,2024.06.23,SHIPPED,,,0
+10286,150,,Pending,PayPal,0,0
+10938,175,2022-08-26,shipped,PayPal,-3,
+11484,340,10-22-2022,shipped,Bank Transfer,1490,0
+12463,31,2022-02-22,Cancelled,,4.99,-10
+12716,373,2022-04-24,Shipped,Bank Transfer,free,0
+11680,162,2024-05-06,Cancelled,credit card,9.99,15
+12261,181,22/05/2024,delivered ,Cash on Delivery,free,0
+10718,640,05-25-2022,shipped,paypal,free,-10
+12338,143,07/05/2022,canceled,Cash on Delivery,free,0
+12972,180,2024-06-20,canceled,,free,20
+10378,117,2023-05-28,pending,Bank Transfer,-3,0
+10293,481,25/09/2024,shipped,Bank Transfer,9.99,0
+12765,424,18/08/2024,,paypal,0,0
+10147,520,2022.02.01,shipped,Bank Transfer,0,0
+12663,584,06/08/2024,Cancelled,Cash on Delivery,4.99,0
+10958,168,2023-09-01,delivered ,PayPal,,0
+11251,,2022-08-20,delivered ,Cash on Delivery,free,0
+12028,405,2022-07-14,Shipped,PayPal,9.99,0
+11740,201,2023-03-05,Delivered,Cash on Delivery,9.99,0
+10190,452,04 Jul 2024,Pending,Cash on Delivery,0,0
+11084,324,2022-04-14,,Cash on Delivery,9.99,0
+12853,524,2022.04.26,delivered ,Bank Transfer,990,20
+10269,33,2022-09-19,Returned,credit card,free,0
+12221,234,2024-06-30,Shipped,credit card,990,0
+11307,401,12/06/2023,Pending,COD,,0
+10673,37,17/03/2024,canceled,,0,0
+11247,518,2023-05-10,pending,credit card,0,0
+12533,290,2023-09-17,Cancelled,credit card,990,0
+10608,120,2023-11-14,,Bank Transfer,free,15
+10582,255,2024-01-18,Cancelled,paypal,1490,10
+10272,36,2023-12-22,pending,PayPal,free,-10
+10878,197,2022-01-02,delivered ,Bank Transfer,-3,0
+10712,119,2023.09.18,shipped,credit card,990,0
+11961,504,2022-04-19,pending,COD,free,0
+12547,327,2024-08-05,Shipped,PayPal,0,15
+12415,140,2024-03-13,SHIPPED,Credit Card,free,
+11223,305,2024-08-20,Pending,PayPal,990,
+12408,341,2024.04.04,Shipped,,9.99,
+11757,365,2023-10-28,canceled,PayPal,,0
+10802,223,2023-10-05,Shipped,paypal,0,0
+11133,235,2024.01.10,delivered ,,,20
+12882,56,2023.10.08,Returned,Credit Card,1490,20
+10574,63,NULL,canceled,credit card,0,-10
+10478,218,2024-01-12,,Credit Card,0,15
+11239,635,2023-09-09,Cancelled,,0,0
+11869,275,16/02/2024,delivered ,COD,1490,0
+12664,468,27/06/2022,Cancelled,Bank Transfer,free,0
+11535,437,2024-04-03,Shipped,,-3,0
+11093,493,2022-08-24,shipped,,free,0
+11612,15,2023-03-11,Delivered,Cash on Delivery,1490,20
+10287,253,10-03-2023,canceled,Credit Card,9.99,0
+12805,170,2022-08-09,Shipped,credit card,990,0
+10317,50,2024-07-26,Returned,Bank Transfer,990,5
+12843,9475,,Returned,paypal,0,
+11401,598,2024-02-08,Delivered,Bank Transfer,free,0
+11951,87,02-16-2022,canceled,paypal,9.99,0
+10177,421,2022-08-21,canceled,COD,,15
+12705,129,2024.01.20,Pending,,-3,
+10464,563,2024-08-04,Cancelled,,0,
+12321,490,2024-08-09,Cancelled,COD,free,0
+12920,623,01-02-2022,,Credit Card,4.99,0
+10704,142,2022-05-25,Cancelled,Credit Card,free,0
+12530,577,2024-03-02,Cancelled,,,0
+11422,84,09-22-2024,pending,paypal,4.99,-10
+10432,574,2023-08-18,Delivered,PayPal,990,10
+10225,373,2022-09-10,Pending,,1490,0
+12371,220,2022-08-23,Cancelled,Credit Card,9.99,
+11419,186,2023-01-28,canceled,,4.99,0
+12945,564,2022-03-10,Cancelled,COD,990,20
+12769,459,2023-08-07,pending,PayPal,,0
+11227,419,2023-08-09,pending,Bank Transfer,9.99,0
+12339,597,12 Mar 2024,shipped,credit card,,20
+10158,47,2023-12-07,Delivered,Cash on Delivery,0,0
+11014,134,2023-04-22,pending,PayPal,4.99,0
+11165,274,08-13-2022,Delivered,COD,4.99,0
+10818,,2023-11-07,pending,Credit Card,0,-10
+12235,16,2023-05-14,,credit card,9.99,0
+10259,462,2022.06.18,pending,PayPal,0,0
+10391,597,2022-10-11,Returned,credit card,4.99,0
+12564,277,21/07/2022,Shipped,PayPal,,0
+10056,144,2022-01-20,Cancelled,Credit Card,1490,-10
+12096,411,2022.02.08,Shipped,credit card,,0
+11557,208,2023-12-14,canceled,paypal,1490,0
+10563,30,2023.08.14,shipped,COD,1490,0
+11516,25,03-06-2023,shipped,paypal,4.99,0
+12164,9186,2023-11-13,pending,Cash on Delivery,-3,
+10725,460,2023-01-08,Shipped,Credit Card,,20%
+10302,438,2022-04-21,SHIPPED,PayPal,free,0
+11666,303,2023-05-31,Delivered,credit card,1490,0
+11235,424,15/09/2023,,Cash on Delivery,0,0
+11966,269,2023-10-07,Shipped,Cash on Delivery,990,0
+12777,302,2023-12-05,delivered ,Bank Transfer,0,20
+10847,345,2024-05-29,delivered ,COD,990,5
+10575,587,23 Apr 2022,,credit card,free,10
+12301,354,2022.07.15,,,free,0
+12949,267,08/09/2023,Shipped,Cash on Delivery,1490,15
+12435,252,,Cancelled,credit card,4.99,0
+11655,55,25/11/2023,,Bank Transfer,free,0
+12951,363,2023-07-01,shipped,PayPal,0,10
+12015,430,2022.03.15,Shipped,COD,-3,0
+10510,105,2024-08-10,Cancelled,,,20%
+12627,109,09/02/2022,Shipped,Bank Transfer,free,0
+10216,234,2023.05.27,Cancelled,Credit Card,,0
+12177,94,2023-07-12,Pending,Credit Card,1490,
+11051,470,04-09-2023,,COD,0,0
+11811,244,2024-09-16,pending,Cash on Delivery,9.99,0
+12041,132,2023-12-08,Cancelled,PayPal,0,20
+12341,277,2023-07-16,canceled,Cash on Delivery,,0
+12621,371,2023-09-08,Cancelled,credit card,1490,0
+10113,430,2023-01-01,Cancelled,paypal,0,20
+12644,132,11-13-2022,Cancelled,paypal,4.99,5 %
+12503,143,2023-02-19,,Cash on Delivery,free,0
+10011,9332,15/08/2022,Pending,,0,0
+12013,575,21/07/2022,Returned,credit card,1490,15
+10107,600,03-31-2023,Shipped,credit card,990,0
+12719,444,2023-05-08,Returned,Cash on Delivery,,15
+12026,494,2022-02-23,,PayPal,990,0
+12540,571,2023-02-07,Delivered,Cash on Delivery,-3,20
+10428,273,24 Jun 2024,Pending,Cash on Delivery,-3,0
+12196,90,2024-04-19,SHIPPED,credit card,990,5
+12695,94,2023.10.31,Delivered,,free,0
+12606,70,2023-12-25,SHIPPED,Bank Transfer,4.99,5
+11809,513,17 Aug 2022,pending,,9.99,
+10761,173,02/01/2022,Returned,PayPal,0,10%
+12305,272,2024-06-14,Pending,Cash on Delivery,1490,0
+11385,446,2022-02-23,Shipped,credit card,-3,0
+12147,9156,2024-05-10,delivered ,,4.99,0
+11815,258,2024-09-26,,,free,0
+11876,9410,13 Apr 2024,canceled,Bank Transfer,0,0
+11885,553,2024-03-06,,credit card,free,20%
+12228,288,2022-12-29,Delivered,Credit Card,,0
+12880,493,2023-01-29,,paypal,0,0
+12706,9510,2024-03-31,delivered ,COD,0,0
+11426,40,2024.06.21,canceled,Credit Card,,0
+10417,79,2022-08-25,canceled,credit card,,0
+10628,342,2024.03.08,pending,COD,free,0
+11916,460,08-13-2023,pending,Cash on Delivery,-3,0
+11563,175,09/06/2023,canceled,credit card,0,10
+11641,146,2023-02-03,Cancelled,credit card,0,0
+10304,131,2023-12-05,Cancelled,Bank Transfer,,150
+11548,411,2022.08.02,Pending,,4.99,0
+12544,452,2022-12-10,delivered ,,0,0
+11619,9292,2023-10-06,,paypal,4.99,10%
+10227,193,04/05/2022,Delivered,Bank Transfer,4.99,0
+11456,523,2023-11-03,Cancelled,Bank Transfer,4.99,
+10040,366,10-16-2023,Returned,paypal,0,0
+10180,475,2023-02-23,SHIPPED,,9.99,0
+10100,539,05-30-2024,Cancelled,paypal,-3,0
+12628,23,05-22-2023,delivered ,COD,0,0
+11049,512,2022-07-29,Delivered,Cash on Delivery,4.99,0
+11388,562,2023-11-19,delivered ,PayPal,,0
+11100,417,27 Mar 2024,canceled,paypal,4.99,0
+12469,223,27/05/2023,Delivered,,0,10%
+12048,566,2023-11-03,Pending,COD,0,0
+10499,614,02/01/2024,canceled,PayPal,free,0
+11147,173,2024-06-09,Cancelled,COD,9.99,5
+12602,251,16/04/2024,Delivered,paypal,1490,15
+12176,49,2023-08-13,Returned,,-3,5
+11707,503,01-21-2023,pending,COD,4.99,0
+10751,172,05-13-2024,SHIPPED,Credit Card,1490,0
+12259,169,2024.03.24,Returned,paypal,0,0
+10231,292,2024-09-06,Cancelled,PayPal,0,15
+11414,5,21 Sep 2023,,Credit Card,,0
+11851,9178,2022.04.26,Shipped,,,0
+10666,293,2022-05-30,SHIPPED,paypal,1490,0
+12534,435,2024-04-09,Cancelled,credit card,-3,0
+11872,452,2023-01-19,canceled,PayPal,free,10
+10711,7,12-26-2022,Shipped,credit card,-3,0
+11489,490,03-29-2023,pending,COD,0,0
+10832,291,2022-01-02,canceled,Bank Transfer,990,0
+10639,508,2022-04-10,Delivered,Bank Transfer,,0
+12760,473,2023-06-04,Cancelled,credit card,free,0
+10622,520,2023-07-07,Shipped,COD,990,5
+11927,23,2022-07-15,Shipped,Cash on Delivery,free,10%
+12848,431,2022.04.27,pending,COD,0,0
+11092,367,2023-04-17,canceled,Bank Transfer,1490,20
+10039,67,08-18-2022,shipped,paypal,990,
+11790,447,2022-03-26,Delivered,paypal,-3,0
+12307,,2023-07-14,delivered ,COD,0,-10
+10726,554,29/11/2022,pending,credit card,0,15
+12931,463,12-17-2022,,paypal,0,0
+12197,209,2022.02.10,Returned,Credit Card,0,
+12057,608,03-19-2023,delivered ,PayPal,0,0
+10775,38,2022-07-21,Delivered,COD,4.99,0
+12826,633,2023-10-22,Returned,,990,0
+10602,370,2023-05-19,,paypal,4.99,5 %
+11843,151,2024-05-15,delivered ,credit card,-3,0
+12810,29,2022-01-03,Returned,Bank Transfer,-3,
+10929,,2024-09-18,delivered ,paypal,9.99,0
+10309,316,2024-05-19,shipped,COD,,0
+10566,475,2022-08-13,Shipped,Cash on Delivery,990,0
+11134,327,2023-10-07,SHIPPED,Credit Card,,
+11376,405,2022-11-11,Shipped,credit card,990,0
+10043,234,2022-02-11,Delivered,credit card,4.99,0
+10044,136,2022-08-22,Cancelled,credit card,1490,0
+10874,37,2023-09-05,Pending,Bank Transfer,990,0
+12520,388,2022-09-11,canceled,Bank Transfer,0,0
+11857,618,20/05/2023,Delivered,Credit Card,0,0
+12601,328,2022-05-03,Cancelled,COD,0,0
+12878,71,2023-05-23,pending,COD,1490,0
+10283,137,2023-01-16,Returned,Bank Transfer,0,0
+11908,531,2024-05-04,Delivered,Bank Transfer,990,0
+11874,367,2023-03-06,pending,PayPal,990,10%
+10664,173,2023-06-11,Returned,paypal,990,0
+11317,252,2023-09-30,Delivered,COD,4.99,0
+12645,375,2023-11-17,shipped,COD,990,0
+11339,464,2022-03-09,Pending,Credit Card,9.99,0
+12973,265,2024-02-02,SHIPPED,Cash on Delivery,4.99,0
+11975,323,05/11/2023,canceled,paypal,990,0
+12691,411,2023.01.31,Pending,paypal,4.99,0
+12137,41,2024-05-29,Cancelled,PayPal,,
+10352,339,03-26-2022,Delivered,PayPal,0,0
+10089,129,2024-08-22,shipped,COD,990,
+10118,9968,2022-12-03,Shipped,,0,
+12195,71,2023.12.04,canceled,COD,,0
+10439,552,N/A,canceled,credit card,0,0
+12797,475,2024-09-09,delivered ,Bank Transfer,1490,0
+12105,375,2024-01-29,Pending,COD,4.99,0
+10536,502,30/08/2024,Cancelled,Bank Transfer,-3,0
+12912,84,2023.03.16,Returned,COD,free,0
+11828,373,2023-01-09,Shipped,PayPal,-3,0
+10416,47,2024-02-17,canceled,Credit Card,1490,0
+10120,270,26/07/2023,Cancelled,PayPal,-3,0
+12482,55,2022-03-07,delivered ,Cash on Delivery,1490,0
+11224,57,0000-00-00,Pending,credit card,1490,20
+11517,150,06 Jun 2024,Cancelled,Credit Card,0,0
+10479,621,2023-08-02,SHIPPED,Credit Card,0,0
+10061,155,2023-07-30,Returned,Bank Transfer,0,0
+11066,83,08-18-2024,Delivered,credit card,0,-10
+11639,546,2022-07-04,shipped,credit card,1490,0
+12803,560,2024-02-12,Cancelled,PayPal,9.99,5 %
+10954,490,2023-01-26,canceled,PayPal,free,20
+10117,472,20/08/2024,canceled,Credit Card,,0
+10842,623,2024-05-28,Delivered,Bank Transfer,4.99,
+10157,469,2023-12-31,Pending,Credit Card,9.99,10
+11397,548,2022-04-14,SHIPPED,COD,1490,
+10540,208,2023-01-10,Returned,credit card,1490,0
+12447,525,2022-04-28,SHIPPED,Bank Transfer,9.99,0
+12475,609,04-06-2022,delivered ,Bank Transfer,-3,0
+12603,108,2023-05-31,canceled,Cash on Delivery,,10%
+11638,52,2023-04-13,Cancelled,Credit Card,0,0
+11584,394,2024-03-12,SHIPPED,Bank Transfer,free,0
+10299,402,2023-08-05,Pending,credit card,free,0
+12063,357,2022-07-05,,COD,0,0
+12608,66,05 May 2023,delivered ,paypal,0,150
+10351,137,2023-11-27,SHIPPED,Bank Transfer,9.99,0
+10217,362,2022-11-28,Returned,,free,0
+10155,322,2022-02-18,Returned,Credit Card,4.99,0
+11069,478,2023-01-09,Cancelled,Cash on Delivery,0,0
+10825,92,2022-07-26,Pending,COD,1490,0
+11038,611,2022-01-02,Shipped,Cash on Delivery,990,0
+10940,4,06 Nov 2023,shipped,,990,0
+12352,544,19/05/2023,Shipped,COD,-3,5
+10644,596,2023-03-27,delivered ,credit card,4.99,0
+10027,34,2023-06-17,canceled,Bank Transfer,free,0
+12314,189,2024.05.26,Returned,Credit Card,free,5
+11103,322,26/11/2022,Returned,,,0
+10515,374,2022-05-28,Delivered,Cash on Delivery,0,0
+10948,38,2023-07-02,Delivered,COD,0,
+10630,393,2024-08-16,SHIPPED,credit card,,20
+11816,605,2024-04-20,Cancelled,Cash on Delivery,1490,0
+10546,287,N/A,Returned,Cash on Delivery,9.99,0
+11918,9172,2022-06-20,delivered ,,,0
+12052,467,29/08/2022,,Bank Transfer,9.99,0
+10337,158,08/11/2023,SHIPPED,PayPal,free,0
+12370,468,2023-06-12,Shipped,paypal,990,0
+12579,486,18/05/2022,pending,,1490,0
+12326,201,2023-08-21,SHIPPED,Credit Card,-3,0
+10013,328,19/04/2023,delivered ,COD,free,150
+10363,8,2022-09-14,SHIPPED,paypal,,15
+10134,477,2023-04-17,SHIPPED,Credit Card,free,0
+12563,393,12-12-2022,Returned,Cash on Delivery,,
+11377,563,12/05/2022,pending,COD,,-10
+11264,293,03/04/2022,shipped,COD,0,0
+11381,493,2023-07-03,Delivered,paypal,1490,0
+11082,217,2023-09-27,delivered ,Bank Transfer,-3,0
+11464,381,2023-02-13,Delivered,COD,9.99,20
+10763,135,2024-02-05,,paypal,0,15
+10327,258,2023-05-31,Pending,Cash on Delivery,free,5
+11236,92,2023-11-05,shipped,Bank Transfer,990,0
+10589,553,2024-08-04,shipped,PayPal,990,150
+11424,73,2022.08.10,shipped,credit card,0,15
+12985,26,10-30-2023,,PayPal,4.99,0
+11231,89,07-03-2022,,credit card,0,15
+10753,2,2024-03-31,Returned,Credit Card,9.99,0
+10250,270,2024.03.30,Cancelled,PayPal,1490,5
+12978,624,2022-08-03,canceled,Cash on Delivery,0,0
+12023,556,2024-09-22,canceled,Bank Transfer,0,10
+12501,422,2022.06.29,Cancelled,Cash on Delivery,1490,150
+10359,126,2023-11-19,,paypal,-3,0
+12436,362,2022-03-03,SHIPPED,Credit Card,990,0
+12911,135,18/03/2022,shipped,PayPal,-3,20
+12591,580,2023-09-19,Returned,COD,,5 %
+10409,400,25/03/2023,canceled,paypal,990,10
+12739,586,12-27-2022,,Bank Transfer,,5 %
+12448,296,2022-09-01,Cancelled,Cash on Delivery,9.99,20
+12329,296,04-02-2022,canceled,Credit Card,0,5
+12671,494,2023-10-02,Delivered,,1490,0
+10814,189,02-19-2023,Pending,Cash on Delivery,0,0
+12076,373,2023-06-04,canceled,credit card,1490,0
+12605,250,01/09/2024,Shipped,PayPal,9.99,0
+10204,481,2024-06-04,shipped,PayPal,0,0
+11982,56,16 Aug 2022,delivered ,Bank Transfer,1490,0
+12916,138,2024-07-27,shipped,credit card,0,20
+11871,418,2024-08-11,Pending,,,0
+12148,619,2023.11.17,shipped,Cash on Delivery,9.99,0
+10529,468,2022-05-08,,Cash on Delivery,990,
+10782,374,2022-09-24,,paypal,1490,0
+10798,592,2023-02-21,Shipped,Credit Card,1490,10%
+10946,366,2024.06.13,delivered ,credit card,-3,0
+12625,274,2022.02.06,,COD,free,0
+11387,235,2022-06-24,Returned,credit card,0,0
+12940,9754,2024-09-06,shipped,Cash on Delivery,0,0
+11702,268,2022-07-05,Cancelled,COD,1490,
+10573,358,2024-01-10,Delivered,COD,9.99,0
+10418,106,2023-03-28,Cancelled,credit card,990,
+11575,331,2023.01.25,Cancelled,Credit Card,4.99,10
+12629,109,2023.05.19,delivered ,credit card,-3,0
+12400,521,06/12/2023,canceled,credit card,-3,0
+12983,476,22/06/2023,,COD,,0
+11527,395,2023-12-31,shipped,,-3,150
+11893,259,2022-08-24,Returned,paypal,,15
+10580,478,2022-04-28,SHIPPED,PayPal,0,20
+11959,139,2022-08-08,Delivered,Credit Card,0,-10
+11840,405,2023-05-10,canceled,,0,0
+10437,34,04/03/2024,shipped,Cash on Delivery,0,0
+12082,230,2022-05-22,Delivered,Cash on Delivery,,0
+10248,311,2024-09-11,Delivered,COD,990,15
+10491,,05-09-2023,Returned,Cash on Delivery,,10
+12118,231,2023-01-17,SHIPPED,Bank Transfer,free,0
+11988,232,2022-10-23,Returned,COD,0,20
+10229,30,2022.03.22,SHIPPED,,9.99,0
+12633,237,06/03/2024,Delivered,Credit Card,0,0
+11310,,2023-03-05,Cancelled,COD,9.99,0
+12477,625,09-24-2023,Cancelled,COD,9.99,
+12589,593,2023-10-29,Cancelled,Credit Card,1490,0
+12550,472,2023-07-04,delivered ,paypal,9.99,0
+11495,491,2022-09-22,pending,,0,0
+12368,374,31/12/2022,,credit card,-3,0
+10160,433,2024-07-12,Shipped,COD,4.99,-10
+12192,363,2023-08-05,Cancelled,Bank Transfer,0,0
+10571,138,2024-03-20,Shipped,Bank Transfer,0,0
+10834,92,N/A,Cancelled,Credit Card,9.99,0
+11687,172,2023-07-05,shipped,paypal,,15
+10858,477,2022-11-06,Delivered,Cash on Delivery,1490,0
+12994,550,2023-10-03,pending,PayPal,1490,
+10342,335,05-05-2024,Delivered,paypal,-3,0
+12304,332,06-08-2023,pending,PayPal,,
+12437,121,2023-09-16,delivered ,PayPal,9.99,-10
+12886,207,2022-04-24,Pending,paypal,0,0
+11319,624,2022-03-12,Pending,COD,1490,
+12747,133,2023-10-07,delivered ,,1490,0
+11614,129,03-05-2023,SHIPPED,paypal,free,
+11735,545,2023-05-12,Returned,credit card,4.99,0
+12165,378,2023-03-12,Cancelled,,990,20%
+10249,382,2022.01.23,delivered ,PayPal,4.99,0
+12735,141,2024-05-06,Delivered,COD,0,0
+11791,308,2024-05-24,Delivered,Cash on Delivery,9.99,0
+10326,538,2023-06-17,,COD,9.99,0
+10110,262,23/08/2023,Cancelled,Bank Transfer,990,0
+12642,211,2022-09-22,Shipped,PayPal,0,0
+11341,9159,2024-09-09,SHIPPED,paypal,0,0
+12293,292,2023-08-01,pending,COD,1490,0
+12217,25,2023-06-16,Cancelled,paypal,990,0
+12160,632,04-17-2023,SHIPPED,paypal,0,0
+12576,242,2024-08-14,,Bank Transfer,0,0
+11279,223,2023-12-08,canceled,Bank Transfer,free,150
+11067,509,04-23-2023,shipped,COD,-3,0
+12869,159,23/08/2024,delivered ,COD,9.99,0
+12694,89,2024-08-17,canceled,Bank Transfer,,0
+12417,611,2024.09.27,Cancelled,,-3,
+12922,456,2023-01-26,pending,paypal,1490,0
+11442,214,2022-10-31,pending,credit card,990,0
+10085,48,2024-01-10,Delivered,credit card,-3,10%
+12505,564,2022-01-03,shipped,PayPal,9.99,0
+11241,9779,09-12-2022,Shipped,paypal,-3,5
+10715,5,2023-12-19,delivered ,Cash on Delivery,0,0
+12955,532,06/02/2023,pending,Bank Transfer,free,0
+10465,271,2023.09.03,Shipped,paypal,0,0
+10788,634,2022-03-31,Cancelled,Cash on Delivery,9.99,5 %
+12683,215,28 Sep 2023,shipped,,-3,0
+12846,308,05-05-2023,canceled,PayPal,-3,0
+12457,270,2023.01.20,SHIPPED,,4.99,10
+11237,361,2022-02-07,Shipped,Cash on Delivery,0,0
+10535,105,2023-06-01,Cancelled,Credit Card,0,0
+11016,109,09-05-2024,SHIPPED,COD,-3,0
+10146,187,2022-04-10,Cancelled,PayPal,990,0
+11943,418,03 Jul 2023,Pending,Credit Card,9.99,15
+11531,97,2023-05-09,Cancelled,Bank Transfer,9.99,0
+12351,494,2023-12-07,shipped,COD,4.99,10
+10347,158,2022-12-08,Cancelled,COD,9.99,10
+12045,433,2023-09-19,pending,Bank Transfer,,0
+10760,177,11/09/2024,Returned,PayPal,4.99,0
+10201,339,2022-05-05,,credit card,0,0
+12262,405,2023-04-28,Pending,PayPal,,0
+11544,374,2022-07-25,delivered ,paypal,990,5
+11658,567,2024-08-21,pending,Cash on Delivery,0,0
+10564,335,2023-10-18,Delivered,PayPal,4.99,
+11594,258,17/01/2024,Returned,Credit Card,,0
+10206,192,08-22-2022,delivered ,COD,990,0
+10784,379,02-04-2023,canceled,Bank Transfer,4.99,0
+10323,513,05-19-2022,Delivered,Cash on Delivery,990,10
+12933,338,30/09/2023,Returned,Cash on Delivery,4.99,0
+12937,112,2023-11-04,Shipped,PayPal,4.99,0
+12634,475,2023-01-21,Pending,,,0
+11173,385,2024-05-13,canceled,,9.99,0
+12388,561,2022.07.03,Delivered,paypal,,0
+12975,619,2022-04-26,shipped,credit card,-3,0
+12207,121,2023-11-10,shipped,credit card,free,0
+12281,136,2023-10-13,Pending,,0,
+10036,29,01/06/2022,,COD,0,
+10950,438,06-03-2023,Returned,credit card,-3,0
+12956,509,11/02/2024,Shipped,Bank Transfer,1490,0
+10926,338,2023-07-08,Cancelled,Bank Transfer,-3,
+11604,472,03-21-2023,Cancelled,credit card,,0
+11942,40,2023-02-05,Returned,credit card,0,0
+11637,498,2022-02-13,,credit card,0,0
+12548,471,2023-06-12,Pending,Cash on Delivery,0,0
+10998,565,2023-05-10,delivered ,,4.99,10
+10734,454,20/04/2023,Pending,Cash on Delivery,-3,15
+12107,182,2023-07-18,Returned,Bank Transfer,free,0
+11206,229,2022-07-07,canceled,Credit Card,-3,0
+11108,302,01-16-2023,canceled,paypal,0,
+12363,270,2022-05-05,delivered ,Cash on Delivery,0,0
+12796,498,13/08/2023,pending,credit card,0,5
+11690,207,2023-07-06,Cancelled,Cash on Delivery,1490,0
+10169,401,02/06/2023,Cancelled,,0,
+11487,129,22/07/2023,Cancelled,Credit Card,0,0
+12101,57,2022-05-29,,Bank Transfer,-3,
+12807,9327,2022.04.09,SHIPPED,COD,9.99,5 %
+10790,246,02 May 2022,delivered ,Credit Card,4.99,10%
+10861,9022,2022-08-13,shipped,credit card,1490,
+10565,333,2022-09-08,shipped,,-3,-10
+12702,602,2023-12-24,Shipped,Credit Card,4.99,5 %
+12511,114,2022-02-05,delivered ,Credit Card,4.99,5
+11394,20,2023-03-11,SHIPPED,Bank Transfer,1490,150
+10971,125,2022.03.23,SHIPPED,,0,
+10470,134,05/02/2024,Cancelled,paypal,0,0
+11265,357,2022-10-18,canceled,PayPal,4.99,0
+12296,481,10-08-2023,Pending,Credit Card,4.99,20
+12875,482,13/12/2023,Delivered,,-3,0
+12245,368,2023-08-11,SHIPPED,COD,-3,10
+10360,485,2023-02-05,delivered ,COD,1490,0
+12162,559,2023-07-09,,COD,9.99,10%
+10081,9531,06-09-2022,Shipped,paypal,990,0
+11718,628,03/09/2022,SHIPPED,Cash on Delivery,4.99,0
+12997,397,2024-02-02,Shipped,paypal,,0
+10637,111,,delivered ,Cash on Delivery,0,0
+10341,117,0000-00-00,delivered ,Cash on Delivery,9.99,0
+12069,575,06-09-2023,Delivered,,0,0
+12976,323,2022-09-13,Cancelled,,1490,0
+12109,445,11 Jun 2023,SHIPPED,Bank Transfer,-3,0
+12205,441,2022-09-20,Shipped,,-3,0
+11325,93,2024-09-25,Shipped,,990,0
+11107,380,2023-09-14,SHIPPED,Credit Card,0,0
+10530,384,2023-06-21,SHIPPED,Cash on Delivery,,0
+10460,558,2022-09-04,Delivered,PayPal,0,0
+11935,528,10-12-2022,canceled,credit card,,
+11661,575,09/05/2024,Pending,Credit Card,1490,0
+11052,360,2024-09-02,shipped,,990,0
+12840,640,22/02/2023,SHIPPED,Bank Transfer,4.99,0
+11192,9264,2023-09-14,Returned,Bank Transfer,-3,5 %
+12904,500,2023-12-03,Cancelled,Cash on Delivery,0,0
+11161,471,2024-07-05,canceled,Credit Card,,0
+11177,576,2022.08.30,Shipped,Cash on Delivery,9.99,0
+12990,9911,2022-08-26,SHIPPED,PayPal,9.99,0
+12599,204,2022-06-26,SHIPPED,credit card,1490,0
+11589,382,2022-03-09,Returned,COD,4.99,0
+11175,305,2023-01-17,Shipped,PayPal,-3,0
+12836,291,2024.03.29,delivered ,paypal,0,0
+10995,137,2024-09-20,SHIPPED,paypal,0,0
+12740,428,2022-04-07,pending,paypal,,0
+12043,146,2022-07-22,shipped,COD,free,0
+11969,199,05-01-2023,delivered ,Bank Transfer,,0
+12409,,2022.08.24,Pending,paypal,-3,-10
+11571,471,2022-06-12,Returned,Credit Card,990,0
+10625,170,07-14-2024,Pending,,-3,20%
+12300,563,16/03/2024,canceled,COD,9.99,5
+11736,260,2022-12-14,delivered ,PayPal,990,
+12554,220,N/A,Delivered,Bank Transfer,1490,0
+12310,46,0000-00-00,,credit card,,0
+12265,222,11 Nov 2023,Cancelled,,4.99,0
+10722,459,05 Jan 2024,Returned,paypal,4.99,0
+12656,373,05-24-2023,Returned,Cash on Delivery,free,0
+11667,157,2024-01-21,Cancelled,Cash on Delivery,1490,0
+10678,614,2022-11-19,Cancelled,credit card,free,0
+10373,547,2022-04-29,,Cash on Delivery,1490,0
+12031,261,0000-00-00,Shipped,paypal,0,10
+12755,323,2024-08-29,,credit card,4.99,0
+12988,402,2023-08-17,Returned,Cash on Delivery,4.99,0
+12974,455,N/A,SHIPPED,COD,-3,0
+10057,330,07-26-2023,Pending,,-3,0
+10773,472,2022-02-11,SHIPPED,credit card,,
+10901,9646,2022-02-17,Returned,paypal,9.99,0
+11654,288,2022-01-21,Pending,COD,0,0
+12944,548,2022-05-20,Delivered,paypal,0,0
+10427,431,2022-08-05,,PayPal,0,10%
+10344,264,2022-08-17,SHIPPED,credit card,1490,0
+12071,631,2024-03-12,pending,Bank Transfer,4.99,0
+10334,12,2023-12-30,Delivered,Cash on Delivery,-3,
+11455,637,2024-08-23,Cancelled,PayPal,9.99,
+10516,336,2023-02-07,Cancelled,credit card,9.99,15
+10511,240,2022-08-26,Returned,PayPal,-3,
+10584,154,04-13-2022,pending,COD,0,
+10674,486,2022-03-10,delivered ,Bank Transfer,,0
+12373,483,2022-01-07,Cancelled,COD,free,20
+10008,384,15/08/2024,SHIPPED,Bank Transfer,,
+12763,339,2023-02-28,delivered ,,0,0
+12182,627,27/01/2022,,COD,9.99,0
+10395,163,2024-03-24,Pending,credit card,1490,10
+11701,79,2024-08-24,pending,Bank Transfer,0,0
+12095,,2024-08-27,Cancelled,Credit Card,990,20
+12721,295,0000-00-00,Cancelled,Bank Transfer,-3,20
+11940,518,02-08-2022,canceled,credit card,0,15
+12646,112,2024-02-22,,credit card,4.99,
+10528,276,2024-06-07,,Cash on Delivery,9.99,0
+11620,307,2023-01-17,Shipped,PayPal,1490,0
+10657,319,2023-09-20,SHIPPED,Bank Transfer,0,0
+11868,473,2023-04-12,delivered ,Cash on Delivery,990,20%
+12413,418,2023-06-30,Delivered,Bank Transfer,free,0
+11855,167,2024-07-18,shipped,Cash on Delivery,0,20%
+12822,412,14/03/2022,shipped,,9.99,20
+11189,176,2022-01-31,pending,paypal,1490,0
+11481,66,2024-09-20,Pending,PayPal,4.99,20
+10871,498,2023-08-11,shipped,credit card,0,0
+10953,495,2022.02.21,Cancelled,COD,0,0
+10390,372,2024-02-26,Pending,paypal,9.99,0
+11402,587,2022-07-01,shipped,Cash on Delivery,free,0
+10300,259,07-18-2023,delivered ,,,10
+11033,95,2023-01-14,Pending,Bank Transfer,4.99,0
+11882,9570,30/05/2024,Cancelled,COD,,0
+11365,166,2023-11-12,pending,Bank Transfer,0,0
+11819,41,02-06-2022,delivered ,Credit Card,,0
+11004,72,2024-09-08,Cancelled,,-3,0
+10001,472,2023-12-04,delivered ,Credit Card,9.99,
+12661,59,N/A,Delivered,Bank Transfer,1490,0
+12119,423,2024-09-24,Cancelled,Credit Card,0,5
+12672,199,28/03/2023,,PayPal,-3,0
+11032,122,2022-09-08,shipped,Cash on Delivery,free,5
+12335,586,26/05/2022,pending,Credit Card,4.99,10
+12572,413,17 Mar 2022,Pending,credit card,-3,10
+11673,372,2023.04.21,Shipped,PayPal,990,0
+12337,466,2022-03-29,delivered ,,9.99,10%
+10968,108,2023.01.15,Pending,paypal,9.99,20
+12837,278,2022-03-28,Pending,Bank Transfer,0,15
+12158,324,2023-02-04,Returned,PayPal,-3,0
+12292,360,04-18-2023,SHIPPED,paypal,1490,0
+10415,412,02/08/2023,Delivered,Cash on Delivery,9.99,20
+12462,425,2024-03-12,,credit card,9.99,0
+12070,406,2024-07-20,Cancelled,Bank Transfer,0,0
+12541,340,2022-02-24,Returned,,990,0
+11477,125,05-28-2023,Cancelled,Credit Card,0,0
+12396,230,2023-06-06,SHIPPED,Bank Transfer,,0
+11669,506,NULL,canceled,Credit Card,0,0
+11878,144,02/06/2023,Shipped,Credit Card,9.99,
+10276,79,01-06-2022,SHIPPED,COD,,0
+12136,54,13/12/2023,Returned,Credit Card,1490,0
+10962,552,2024-05-16,Returned,paypal,0,0
+12260,280,2023-11-20,Cancelled,COD,,0
+10838,184,26/06/2023,canceled,Bank Transfer,990,0
+12724,36,24 May 2022,Delivered,Credit Card,4.99,0
+10379,86,2022-06-30,delivered ,Credit Card,,0
+10621,165,20/06/2024,Delivered,,9.99,0
+12231,400,2023-01-12,pending,,0,0
+12914,230,2023-10-05,Pending,PayPal,0,
+10138,148,,,Cash on Delivery,9.99,0
+11558,391,2024-07-07,Shipped,Credit Card,1490,0
+10067,526,,pending,COD,free,0
+10583,,03/07/2022,delivered ,credit card,free,0
+12131,528,2024-03-27,,Credit Card,9.99,0
+11650,23,2024-03-09,Cancelled,paypal,1490,15
+11490,210,2022-07-23,shipped,PayPal,free,15
+11511,417,2024-05-19,shipped,PayPal,-3,0
+12726,248,2022-04-22,pending,Credit Card,0,0
+10233,290,2022-02-10,shipped,PayPal,-3,10
+11399,342,05-28-2023,Pending,,,
+10588,9099,2022-08-23,Cancelled,Cash on Delivery,free,15
+12918,355,2023-03-07,Cancelled,COD,990,10%
+12995,216,2023-01-06,pending,Bank Transfer,-3,0
+11844,514,15/02/2022,canceled,Bank Transfer,1490,0
+10123,208,2022.12.26,SHIPPED,PayPal,9.99,0
+12189,248,2024-03-15,delivered ,Credit Card,990,0
+12446,311,2023-02-01,,Bank Transfer,0,0
+12353,155,2023-02-23,Pending,COD,9.99,0
+12896,618,2023-11-26,,Bank Transfer,9.99,0
+12862,137,10 Oct 2023,canceled,Credit Card,,0
+12269,64,2024.05.08,canceled,paypal,1490,0
+12348,153,2024.01.06,Pending,Bank Transfer,0,5
+11712,222,2022-02-22,delivered ,Bank Transfer,1490,0
+11383,153,2023-12-15,Cancelled,paypal,free,0
+12121,579,10/08/2024,Shipped,credit card,1490,0
+12574,280,19/07/2024,Returned,Credit Card,9.99,10%
+12061,340,2023.03.29,shipped,credit card,4.99,0
+11785,343,12-31-2022,canceled,Bank Transfer,9.99,15
+12604,596,2022.01.27,shipped,Credit Card,0,
+12953,578,2022-01-15,Cancelled,,0,0
+10933,135,2023-02-07,canceled,COD,free,
+11056,388,04/06/2022,delivered ,Cash on Delivery,0,0
+12152,504,2023-10-27,Cancelled,COD,990,
+11040,422,2022-08-16,delivered ,credit card,9.99,0
+10456,232,07-24-2023,delivered ,Cash on Delivery,-3,0
+12037,153,01-07-2022,Returned,Bank Transfer,0,0
+12040,19,03/02/2022,delivered ,PayPal,-3,15
+12122,13,11/07/2024,Pending,,free,0
+11287,292,2022-06-08,pending,PayPal,990,0
+12068,217,2023.07.08,SHIPPED,Cash on Delivery,-3,0
+11957,329,2022-12-17,,Credit Card,4.99,0
+10990,127,22 Jan 2022,shipped,credit card,,0
+11859,5,09-17-2022,pending,Cash on Delivery,-3,0
+12757,9282,2024.05.04,canceled,Bank Transfer,4.99,5 %
+11565,4,2022.08.14,shipped,Credit Card,0,0
+12516,452,16/12/2022,Delivered,paypal,990,0
+11849,193,2023-08-17,delivered ,PayPal,,0
+10371,441,2024.04.02,canceled,Credit Card,4.99,0
+11520,293,2022-10-16,canceled,COD,0,
+10498,148,2023.10.15,Cancelled,,4.99,
+11279,223,2023-12-08,canceled,Bank Transfer,free,150
+11722,213,2024-03-18,delivered ,Credit Card,0,0
+10800,38,2024-05-26,SHIPPED,Cash on Delivery,990,0
+12665,148,23 Aug 2022,delivered ,Credit Card,990,0
+10538,116,2022-06-18,Delivered,Bank Transfer,0,20%
+12452,130,05-21-2024,Delivered,,4.99,0
+12179,224,2024-04-07,SHIPPED,,1490,0
+10232,323,2022-01-27,Cancelled,Credit Card,,0
+12382,9572,2023-12-29,Returned,credit card,1490,0
+10239,564,2022-02-06,Cancelled,credit card,1490,
+12387,498,08-22-2023,Returned,Credit Card,9.99,
+11852,376,2022-05-25,Returned,Bank Transfer,1490,5 %
+12274,12,27/06/2024,Returned,paypal,1490,0
+12811,423,2022-08-27,Pending,,free,0
+11552,160,08-23-2024,canceled,COD,free,0
+10923,122,2022-06-17,canceled,Bank Transfer,,20
+11074,497,2023-04-04,Shipped,PayPal,,0
+10717,423,2022-10-13,,credit card,free,0
+11538,517,2024-03-09,Shipped,PayPal,0,5
+11938,158,2023-11-07,pending,COD,,0
+11448,144,2022-07-05,Returned,Bank Transfer,990,0
+12256,585,03-06-2022,pending,PayPal,,0
+11395,39,2024-06-08,canceled,PayPal,990,10%
+11890,85,2022-11-01,delivered ,,9.99,0
+11631,305,2024-01-11,Returned,credit card,990,
+12312,557,2023-02-15,Cancelled,Credit Card,0,10
+11276,271,2023-02-10,Cancelled,Credit Card,-3,0
+11379,270,2022-02-16,SHIPPED,Cash on Delivery,0,-10
+10900,,2024-08-16,Delivered,COD,1490,0
+11838,138,2022-09-25,delivered ,Credit Card,-3,
+12898,,2022-09-22,SHIPPED,COD,0,0
+12318,,2022-11-15,SHIPPED,Cash on Delivery,990,0
+11981,400,27/08/2024,Cancelled,Bank Transfer,990,0
+12017,30,2024-02-22,Delivered,COD,0,0
+11810,317,15/06/2024,Cancelled,PayPal,9.99,0
+10774,585,2023-01-06,delivered ,Bank Transfer,0,0
+12392,538,2024.08.14,delivered ,,,0
+12027,17,2023-02-04,SHIPPED,COD,1490,0
+12493,132,02/01/2022,Cancelled,Credit Card,,5
+11806,306,,shipped,credit card,free,0
+12993,200,2023-01-11,Returned,COD,0,0
+10553,148,2024.08.17,Cancelled,Bank Transfer,1490,0
+12416,590,2022-02-24,Cancelled,credit card,0,20
+10336,530,2024-02-16,pending,credit card,free,0
+11219,614,2023-02-17,Shipped,,0,5
+11155,430,2022-05-28,canceled,Bank Transfer,free,0
+11749,91,06-22-2024,shipped,Cash on Delivery,9.99,0
+12812,51,14/01/2024,canceled,Bank Transfer,1490,0
+10854,188,21/04/2022,,COD,0,0
+12120,109,2022-01-29,pending,Bank Transfer,990,5
+12675,352,2023-01-05,Shipped,Cash on Delivery,9.99,0
+10518,336,2024-02-13,pending,Bank Transfer,0,0
+10008,384,15/08/2024,SHIPPED,Bank Transfer,,
+12432,25,2023.10.03,canceled,Credit Card,0,0
+12342,388,2023.05.18,Cancelled,PayPal,4.99,5
+12059,611,2024-01-25,Cancelled,,9.99,0
+10237,54,06 May 2023,SHIPPED,Cash on Delivery,0,10
+12641,304,2024-09-17,pending,PayPal,9.99,150
+11304,66,2023-06-23,Cancelled,,990,0
+12808,9175,2022-02-11,Shipped,Bank Transfer,4.99,15
+12700,481,2024-03-05,Cancelled,PayPal,free,15
+12092,7,2023-07-06,pending,PayPal,4.99,0
+11505,276,2023.08.13,pending,Cash on Delivery,0,0
+11271,56,2022-03-05,Delivered,paypal,9.99,15
+11126,232,2024-04-12,Delivered,paypal,-3,0
+12073,139,2022-12-18,Cancelled,Cash on Delivery,4.99,0
+10595,378,2023-09-30,Cancelled,Cash on Delivery,0,0
+10994,358,2024-06-13,SHIPPED,COD,,0
+10448,570,25/09/2022,Returned,,4.99,0
+12532,153,2024-07-12,Delivered,,0,0
+12125,393,2024-02-21,delivered ,credit card,4.99,0
+10707,9751,2022-02-20,,Cash on Delivery,0,0
+10153,414,25/01/2022,delivered ,,free,20
+12104,82,2024-09-26,,COD,-3,15
+12682,185,12-18-2023,SHIPPED,paypal,9.99,0
+11513,260,2022-07-28,Cancelled,COD,1490,0
+10882,438,2024-08-28,Cancelled,,9.99,0
+10320,296,07-05-2024,Delivered,credit card,990,
+12285,469,03-04-2023,Pending,COD,free,15
+11183,410,03-28-2024,pending,Bank Transfer,9.99,0
+12319,18,2022-04-14,SHIPPED,credit card,,10
+12001,338,29/09/2023,canceled,,990,0
+10469,463,2022-03-20,,Bank Transfer,0,
+12369,488,2023-12-29,delivered ,paypal,990,10
+11909,547,2022.05.09,Shipped,Credit Card,4.99,0
+10567,268,02/09/2024,SHIPPED,,free,0
+12167,129,10-14-2023,Cancelled,Credit Card,990,5 %
+11567,634,2022-04-07,delivered ,PayPal,-3,0
+11277,191,12-12-2023,shipped,Bank Transfer,free,0
+12738,193,2022-06-12,Cancelled,credit card,0,0
+10450,410,09/03/2022,delivered ,PayPal,990,0
+10497,330,01 Jul 2022,pending,COD,-3,20%
+10677,515,2023-07-06,canceled,PayPal,,0
+10796,266,2024-06-30,SHIPPED,Credit Card,free,20
+12473,446,01-16-2024,delivered ,,,0
+12905,182,03/07/2022,Delivered,PayPal,-3,0
+11324,144,22/06/2022,Shipped,paypal,4.99,
+10772,,2022.02.27,canceled,COD,9.99,0
+12565,531,2024-03-30,Cancelled,credit card,0,0
+11123,287,2022-02-05,Delivered,paypal,1490,10%
+11089,101,2024-02-23,delivered ,PayPal,free,0
+10915,142,2023.09.24,SHIPPED,Cash on Delivery,-3,0
+11352,319,31/08/2024,SHIPPED,paypal,0,0
+12407,573,2024-02-05,Delivered,Bank Transfer,-3,0
+11910,9067,2023-03-06,SHIPPED,Bank Transfer,9.99,0
+12075,626,15/10/2023,Pending,COD,0,0
+11333,89,2023-06-27,delivered ,PayPal,0,0
+10520,339,2023-12-10,,Bank Transfer,1490,0
+10533,192,2024-08-12,Pending,PayPal,free,5 %
+11008,9843,17/09/2022,delivered ,COD,9.99,0
+11218,51,15/09/2022,,paypal,1490,10
+11923,637,2023-12-02,Delivered,PayPal,,0
+11344,28,07-26-2024,Pending,Credit Card,,0
+12616,630,2022-06-14,Shipped,Bank Transfer,0,
+11152,441,2024-05-06,Delivered,credit card,4.99,0
+11748,65,N/A,,COD,1490,
+10223,9523,2024-06-20,Cancelled,credit card,0,0
+11486,431,19/12/2022,canceled,credit card,990,0
+11085,564,2023.02.18,Pending,Cash on Delivery,1490,
+11487,129,22/07/2023,Cancelled,Credit Card,0,0
+10025,592,09-10-2023,Cancelled,credit card,free,0
+12350,32,2024-03-19,Delivered,,free,0
+12058,183,01-12-2023,pending,Cash on Delivery,9.99,0
+10694,634,01-16-2022,canceled,COD,9.99,0
+12007,370,2022-08-25,,credit card,1490,
+12639,523,2023-01-12,Shipped,paypal,0,0
+11767,138,2023-06-28,canceled,Cash on Delivery,-3,0
+10826,474,2023-02-20,Delivered,credit card,0,0
+10648,213,2024-09-26,Pending,Credit Card,990,15
+10984,39,2022-01-02,delivered ,PayPal,990,0
+11106,212,2022-06-29,shipped,,990,0
+11679,318,2024-02-19,pending,Credit Card,-3,0
+11889,347,22/01/2022,pending,Credit Card,990,0
+11949,422,2023-02-01,canceled,COD,free,
+10101,544,2023.11.28,Delivered,PayPal,990,0
+12651,345,20/11/2022,Returned,credit card,0,0
+11128,9577,2024-02-04,SHIPPED,Bank Transfer,-3,0
+12237,301,30/01/2024,Cancelled,COD,free,0
+12775,621,2023-01-14,SHIPPED,Bank Transfer,0,15
+12722,9078,2023-12-05,Pending,PayPal,-3,0
+10503,411,23/03/2022,shipped,PayPal,free,10
+12800,12,09-17-2024,Shipped,Credit Card,990,0
+11297,264,14/03/2023,Cancelled,Cash on Delivery,0,0
+11963,103,2022-06-10,Cancelled,COD,990,0
+10070,9230,2022-11-27,Cancelled,,,10%
+10658,103,2024-05-22,Returned,COD,-3,0
+11863,463,2023-05-27,Shipped,Bank Transfer,4.99,0
+10568,619,2023-03-26,SHIPPED,Credit Card,0,10%
+11523,529,04-04-2023,Returned,Bank Transfer,0,0
+12778,409,2023-09-15,pending,Credit Card,4.99,0
+11022,623,N/A,Returned,Bank Transfer,1490,0
+10635,92,04-29-2024,,paypal,0,0
+12454,561,2024-01-25,,credit card,,0
+10841,315,2024-03-21,Pending,paypal,4.99,0
+11924,356,2023-12-12,Returned,credit card,1490,0
+10993,415,15/01/2022,Pending,credit card,4.99,5
+11802,530,2023-08-08,Cancelled,COD,free,
+10840,627,N/A,delivered ,paypal,,
+11226,9485,06 Nov 2023,Cancelled,COD,9.99,
+10719,73,07/06/2022,canceled,paypal,9.99,0
+10398,561,2023-09-20,SHIPPED,COD,,20%
+10768,471,04-09-2022,pending,Credit Card,-3,
+12813,302,07/06/2023,Shipped,credit card,1490,0
+11568,433,02-22-2023,shipped,COD,9.99,0
+11255,255,NULL,,COD,0,0
+12132,365,2022-01-28,Cancelled,paypal,-3,0
+12159,546,2022-02-06,Delivered,PayPal,9.99,10%
+11113,598,2024-05-05,Delivered,credit card,free,5 %
+12390,230,2023-06-23,Delivered,COD,0,0
+12489,378,2022-03-26,pending,Credit Card,0,0
+12823,40,2023-04-06,Cancelled,,,0
+11695,291,2022-04-09,Cancelled,credit card,free,0
+11246,270,06-04-2023,Cancelled,Credit Card,0,0
+12870,469,02-22-2022,SHIPPED,PayPal,0,0
+11121,373,23/01/2022,shipped,PayPal,990,5
+10303,126,2022-02-25,Returned,Bank Transfer,0,0
+12324,440,2022-06-22,pending,credit card,0,20
+10012,603,2023-07-09,Cancelled,Cash on Delivery,,0
+11347,623,2022-09-06,Returned,COD,9.99,20
+10896,18,2022-10-19,shipped,Bank Transfer,990,0
+10053,162,06/09/2024,canceled,Bank Transfer,-3,0
+11005,620,2023-05-22,Cancelled,paypal,1490,5
+12545,383,2022-02-26,pending,,9.99,0
+12612,49,2022-05-31,Cancelled,COD,990,0
+11120,9879,2023-07-14,,,,0
+12543,298,2022-08-25,Delivered,credit card,990,0
+12679,53,,Returned,PayPal,free,0
+12537,382,04-26-2023,shipped,paypal,0,10%
+12588,468,2023-06-18,shipped,COD,9.99,0
+10318,464,2023-03-23,canceled,Bank Transfer,4.99,0
+12903,248,2022-02-13,delivered ,Credit Card,1490,5
+11229,75,2023-09-26,Shipped,,9.99,0
+11896,609,13/05/2023,Cancelled,credit card,0,
+10689,603,2022-04-11,canceled,PayPal,0,5
+10747,9782,2024-09-09,delivered ,paypal,-3,0
+12034,256,2023-12-18,delivered ,PayPal,990,0
+10969,227,2023-10-06,Shipped,,9.99,0
+11936,421,2023.11.19,,COD,-3,0
+10848,312,01-11-2024,SHIPPED,Cash on Delivery,1490,0
+11621,600,2023-10-20,pending,credit card,0,0
+12893,256,02-24-2022,SHIPPED,Cash on Delivery,,0
+12614,568,2023-05-18,Cancelled,credit card,,0
+12938,577,08-18-2023,,Cash on Delivery,4.99,20%
+11281,386,2022.07.11,Pending,PayPal,4.99,5 %
+10354,142,24/09/2022,shipped,,990,0
+10545,60,08-21-2023,Returned,,-3,0
+12050,631,12/04/2022,Cancelled,PayPal,1490,10
+10139,602,21/09/2023,,paypal,0,0
+11822,456,2022-07-22,pending,Cash on Delivery,,0
+12320,200,2024-09-11,Shipped,paypal,990,15
+12181,474,2024-07-08,Pending,Cash on Delivery,4.99,0
+12717,324,2022-08-25,,Bank Transfer,0,0
+11024,327,2024-01-02,,,0,10%
+12930,111,14 Sep 2022,Cancelled,COD,9.99,20
+12209,211,2023-04-18,Pending,COD,0,15
+12573,254,16 Nov 2023,canceled,Bank Transfer,9.99,0
+11098,148,2024-05-04,Returned,COD,1490,0
+12203,562,2022-04-28,Shipped,Cash on Delivery,-3,0
+11741,172,09/09/2023,Pending,Credit Card,9.99,0
+12753,295,09/08/2022,Pending,Credit Card,0,0
+12536,462,2023-09-21,Returned,paypal,9.99,0
+11615,288,2023-06-28,Returned,Cash on Delivery,-3,0
+12798,543,2024-03-13,Cancelled,credit card,-3,0
+12731,254,2024-05-11,,COD,-3,0
+10537,268,2023.10.06,Pending,credit card,0,0
+10965,536,18/04/2022,Delivered,Cash on Delivery,0,10%
+10400,262,28/04/2022,,PayPal,,0
+11172,301,2024-07-17,Shipped,COD,-3,
+12791,94,2022-06-13,Cancelled,PayPal,0,10
+10801,475,2022-05-03,Pending,credit card,,15
+11600,136,04 Nov 2022,shipped,Bank Transfer,9.99,10
+10435,503,2024-04-02,SHIPPED,,1490,0
+10215,484,2022-01-23,Returned,Bank Transfer,free,0
+11582,520,2023-05-21,pending,Cash on Delivery,4.99,10%
+10507,302,NULL,Cancelled,paypal,,
+11123,287,2022-02-05,Delivered,paypal,1490,10%
+10261,84,2023-05-29,delivered ,PayPal,-3,5
+12732,257,03/08/2024,Shipped,credit card,990,0
+10102,554,28 May 2024,canceled,Bank Transfer,1490,
+12522,364,2022-12-09,Shipped,,1490,0
+10980,9162,12/07/2023,canceled,Credit Card,,0
+10375,133,2022-06-23,canceled,paypal,4.99,0
+11125,353,2023-09-26,,Credit Card,1490,0
+11691,105,2023-01-26,Shipped,COD,,0
+11897,9373,2022-02-15,Cancelled,PayPal,0,0
+10197,525,21/02/2023,Returned,paypal,9.99,15
+11232,605,04/08/2022,delivered ,Bank Transfer,free,15
+12666,166,2023-02-08,canceled,Bank Transfer,990,0
+10787,130,2023.01.14,Pending,Cash on Delivery,0,0
+12055,457,N/A,Returned,Credit Card,,5
+12347,528,01-18-2022,Delivered,Bank Transfer,9.99,0
+11537,496,2024-07-30,SHIPPED,,0,15
+10183,412,2022-06-04,,PayPal,,0
+11485,362,23/07/2024,Cancelled,COD,0,0
+10076,180,2023-06-13,Cancelled,Cash on Delivery,0,10%
+11198,466,19/06/2022,delivered ,Bank Transfer,,0
+11568,433,02-22-2023,shipped,COD,9.99,0
+11743,532,04-24-2022,SHIPPED,paypal,,0
+11444,488,2022-10-29,canceled,COD,4.99,10
+10739,581,02 Feb 2023,Pending,Credit Card,0,20
+11561,67,2023-09-07,,paypal,990,0
+11907,169,01-06-2023,delivered ,paypal,free,20
+11887,592,03-14-2023,Returned,Credit Card,0,
+12542,260,2022.07.10,Pending,paypal,-3,20%
+10903,579,2023-04-07,Cancelled,COD,,0
+10804,616,2023-10-09,,Cash on Delivery,free,0
+11115,577,2024-08-09,Cancelled,Cash on Delivery,9.99,
+11190,90,01/12/2022,,Credit Card,4.99,0
+12223,450,2022.11.16,shipped,COD,1490,0
+11474,454,09-01-2024,Shipped,Bank Transfer,990,0
+12032,541,2023-02-07,SHIPPED,Cash on Delivery,free,0
+11288,132,2022-08-12,,Credit Card,1490,0
+10989,360,2024.05.01,SHIPPED,,9.99,0
+10328,306,2023-01-27,Cancelled,paypal,,
+11960,29,17/08/2022,Delivered,Credit Card,9.99,5 %
+10852,407,2022-08-17,Delivered,Bank Transfer,-3,0
+11587,95,09 Nov 2022,Cancelled,COD,,0
+12531,208,2023-01-06,shipped,PayPal,,0
+11792,540,2023-05-13,delivered ,COD,0,0
+12730,514,04 Nov 2023,canceled,COD,1490,0
+11678,252,2022-11-17,Returned,credit card,4.99,0
+10976,582,28/03/2024,Returned,Cash on Delivery,0,0
+10401,591,2022-05-03,Delivered,Credit Card,1490,5
+10746,225,2024-05-26,pending,COD,0,5
+11340,572,2023-09-16,delivered ,,,20%
+10419,38,23/02/2023,Cancelled,paypal,0,0
+10186,155,2022-03-09,Cancelled,,9.99,0
+12376,551,25/09/2022,Delivered,paypal,free,15
+12883,163,2023-08-18,,COD,1490,0
+10616,442,2022-05-23,Returned,PayPal,0,150
+11482,,NULL,,paypal,9.99,0
+11328,526,2024-07-19,Returned,PayPal,-3,0
+11804,314,2023-07-04,canceled,PayPal,free,0
+12528,353,11-14-2023,Cancelled,Credit Card,-3,0
+11491,388,2022-10-19,Cancelled,credit card,-3,0
+10116,595,2023-03-08,pending,,,0
+10531,627,12/10/2023,delivered ,COD,990,0
+10797,542,2024-01-30,Cancelled,PayPal,990,
+10159,182,2023-01-16,Pending,Bank Transfer,,10
+12845,267,2022-03-20,delivered ,COD,0,0
+10735,29,2024-04-29,pending,paypal,0,20
+10111,231,01-20-2024,Cancelled,COD,9.99,
+12440,305,08-11-2022,Cancelled,,-3,0
+10011,9332,15/08/2022,Pending,,0,0
+11509,249,2024.06.20,,Bank Transfer,990,0
+12098,469,17/06/2022,Returned,paypal,0,0
+10807,363,0000-00-00,canceled,credit card,0,0
+11336,156,2023-11-27,delivered ,,0,20
+10127,629,2022-08-19,SHIPPED,Bank Transfer,free,0
+12190,178,03-23-2023,Shipped,Bank Transfer,1490,
+10446,417,2024-05-26,Shipped,PayPal,-3,0
+11781,237,2024-08-18,,Cash on Delivery,free,0
+10806,233,2023.06.19,,paypal,990,15
+12885,319,25/09/2023,,Bank Transfer,0,150
+11240,9251,2024-07-02,delivered ,credit card,0,0
+11540,458,26/09/2023,Pending,,,0
+11585,177,03-10-2023,Cancelled,Cash on Delivery,990,
+10653,327,2023-06-03,Cancelled,Bank Transfer,0,0
+11824,237,2024-02-11,Delivered,Credit Card,1490,0
+12856,9487,08-17-2022,canceled,credit card,free,20%
+12674,264,2022.09.15,pending,COD,-3,0
+10457,138,N/A,Delivered,paypal,9.99,5
+12095,,2024-08-27,Cancelled,Credit Card,990,20
+12141,486,2022-03-24,Cancelled,Cash on Delivery,4.99,0
+11430,102,03-20-2024,shipped,Bank Transfer,free,10
+11922,614,2022-03-04,delivered ,paypal,,0
+10684,,2023-12-10,shipped,Credit Card,-3,0
+10904,250,2023-07-24,canceled,paypal,1490,0
+11479,634,2022-03-28,Pending,Cash on Delivery,0,5
+12233,370,07-13-2022,Shipped,paypal,,0
+12322,159,2022-01-08,SHIPPED,COD,,0
+10220,579,2023-04-03,Cancelled,paypal,9.99,0
+10485,578,2023-02-22,canceled,credit card,0,0
+11373,449,01/07/2024,Shipped,credit card,,0
+10830,317,2023-11-20,SHIPPED,credit card,9.99,10%
+11506,5,,delivered ,Cash on Delivery,free,0
+10420,96,05-02-2022,Returned,paypal,0,0
+11245,209,04/03/2023,Cancelled,Bank Transfer,990,150
+11771,220,2022-05-05,Cancelled,paypal,4.99,0
+11632,46,2023-07-17,Cancelled,credit card,990,0
+11249,400,2023-07-05,Cancelled,PayPal,4.99,0
+12089,106,03/06/2022,pending,Credit Card,-3,0
+11986,570,28/08/2024,Shipped,credit card,,
+11829,351,2023-03-02,Pending,Bank Transfer,1490,0
+12049,175,2022-10-30,Shipped,COD,0,5
+11617,376,2023-07-21,Delivered,Bank Transfer,990,0
+12308,,2022-11-03,delivered ,,0,-10
+11390,251,2023-01-17,canceled,Credit Card,4.99,20%
+10851,588,2022-09-25,,Cash on Delivery,9.99,0
+10549,27,2024-06-22,Delivered,paypal,0,15
+12758,298,2024-02-06,SHIPPED,Credit Card,,0
+10945,614,11-11-2022,pending,paypal,4.99,0
+12146,617,2022-12-07,delivered ,COD,0,0
+11220,409,2024-02-04,pending,paypal,0,0
+11583,153,2024-05-21,shipped,Credit Card,1490,0
+12234,282,30 Jul 2023,Cancelled,Credit Card,4.99,20%
+11411,592,2023-02-07,Delivered,credit card,-3,20
+11071,536,2024-03-09,Delivered,,free,0
+10361,192,2024.09.16,Cancelled,PayPal,,0
+12191,93,2024-04-22,pending,PayPal,-3,0
+11355,310,2023-01-01,Cancelled,Bank Transfer,,0
+12825,517,2023-11-04,SHIPPED,Credit Card,990,0
+12439,57,2024.03.11,Shipped,Cash on Delivery,0,0
+11954,481,2022-09-05,Cancelled,,0,0
+11518,1,10-26-2022,Returned,Credit Card,,15
+10022,614,2022-01-24,pending,,9.99,0
+10656,165,2022-06-05,Cancelled,,4.99,5 %
+11859,5,09-17-2022,pending,Cash on Delivery,-3,0
+12124,610,02-06-2024,Cancelled,PayPal,4.99,
+10778,352,2022-11-25,Returned,Credit Card,4.99,0
+10913,359,11-23-2023,SHIPPED,COD,0,0
+11745,561,20 Jan 2024,shipped,Bank Transfer,0,0
+10668,462,2024-02-22,pending,PayPal,1490,
+10743,470,2022-06-10,pending,Cash on Delivery,9.99,0
+12926,478,2024-04-08,canceled,paypal,1490,0
+11465,574,20/07/2023,Returned,Bank Transfer,0,10
+10762,235,2022-03-02,delivered ,paypal,4.99,15
+11930,280,2024-04-17,shipped,credit card,4.99,0
+10793,19,2024-01-19,Cancelled,PayPal,0,0
+10404,378,2023-11-07,Delivered,PayPal,-3,0
+10714,584,2023-04-19,pending,Credit Card,0,0
+11677,176,08-25-2024,Shipped,COD,4.99,10
+10447,129,2022-02-18,Returned,credit card,0,0
+12174,166,2024-08-20,delivered ,PayPal,9.99,0
+10502,208,16 May 2022,Delivered,Cash on Delivery,9.99,0
+11345,122,2022-08-13,SHIPPED,COD,free,0
+11025,152,12-03-2022,Shipped,Credit Card,0,0
+12989,282,2024-05-13,Returned,paypal,-3,0
+12779,579,23/02/2023,,Credit Card,-3,20%
+11795,110,28/06/2023,pending,PayPal,9.99,0
+11826,231,01-15-2024,shipped,Bank Transfer,,0
+11756,127,2024-04-24,shipped,,-3,0
+10349,613,2022-03-26,canceled,,0,5
+12467,35,2023-07-20,Cancelled,paypal,1490,0
+10941,243,2023-10-11,delivered ,paypal,free,0
+12515,462,2023-10-25,,Bank Transfer,990,20
+10311,448,26/11/2022,Cancelled,paypal,0,0
+11758,32,2023-05-24,Pending,paypal,0,0
+10560,496,08/08/2023,Returned,,0,0
+12241,527,2023-12-05,Returned,credit card,0,20
+11983,634,19/09/2024,Delivered,paypal,-3,0
+12198,167,2022-02-21,shipped,COD,-3,0
+12492,434,10/07/2022,Shipped,Bank Transfer,free,0
+12667,32,2022-02-11,pending,Cash on Delivery,4.99,0
+12718,380,2024-07-31,Cancelled,,free,0
+11995,459,2023-11-13,canceled,Cash on Delivery,-3,0
+10542,291,06/02/2022,shipped,,9.99,5 %
+10986,465,2022.08.24,Pending,COD,9.99,0
+11749,91,06-22-2024,shipped,Cash on Delivery,9.99,0
+11222,330,11/07/2023,pending,COD,free,20
+12346,9,07-07-2024,Delivered,credit card,1490,0
+12428,444,2022.10.19,Pending,PayPal,0,0
+10175,491,2023-07-04,,PayPal,9.99,
+10846,491,16/06/2023,canceled,Cash on Delivery,9.99,20%
+11665,593,14/11/2022,Pending,Cash on Delivery,0,
+11045,206,2024-01-23,pending,Bank Transfer,,5
+12535,565,2024-01-15,delivered ,,free,
+12619,254,2022-12-23,Pending,paypal,free,0
+11405,635,NULL,Delivered,COD,4.99,0
+11290,54,12-10-2022,SHIPPED,Bank Transfer,9.99,20%
+10154,295,2023-06-25,Pending,PayPal,0,10%
+12892,576,2022.09.19,Pending,,990,0
+12421,414,20/03/2023,,credit card,free,5
+12427,525,08-22-2022,Cancelled,paypal,4.99,0
+10526,158,13/06/2023,pending,Cash on Delivery,1490,0
+10189,456,2024-06-20,Shipped,Cash on Delivery,,0
+11228,7,11/11/2022,Cancelled,paypal,free,
+10897,498,2023-08-05,canceled,Bank Transfer,0,20
+11209,377,01-17-2022,delivered ,PayPal,1490,0
+12748,408,2023-01-01,delivered ,credit card,free,0
+12112,35,02-12-2023,shipped,COD,-3,0
+10614,585,2022-06-28,,Bank Transfer,9.99,0
+12127,96,NULL,Cancelled,COD,free,0
+10143,412,10-25-2023,Returned,Bank Transfer,0,0
+12334,135,2022-12-15,pending,Cash on Delivery,,0
+10424,47,2022-08-03,Cancelled,paypal,1490,20
+11848,611,2023-07-20,Pending,credit card,0,0
+12500,291,2023-03-31,canceled,COD,4.99,
+11919,9736,2022-07-27,Shipped,Credit Card,990,0
+12861,,N/A,canceled,Credit Card,1490,0
+10686,,03-27-2022,delivered ,Credit Card,4.99,5 %
+10795,326,2024-09-19,Returned,,4.99,0
+11978,238,2023-04-01,Returned,Cash on Delivery,0,0
+11782,615,18/12/2023,delivered ,credit card,free,
+12821,128,2024-05-14,canceled,,4.99,0
+10436,74,24/03/2022,Cancelled,Credit Card,9.99,0
+10910,98,2023-10-07,pending,credit card,9.99,0
+11020,449,2022-04-01,Pending,PayPal,0,0
+10992,520,2023-03-30,Delivered,paypal,9.99,0
+12173,291,2023-07-02,Shipped,COD,free,0
+12330,532,2024.03.05,Shipped,Bank Transfer,0,0
+11384,66,2022-10-24,Cancelled,,0,0
+10765,225,26 Mar 2023,,credit card,free,0
+12596,317,09-27-2024,,Credit Card,,
+12199,423,2022-07-12,Pending,Credit Card,0,0
+10476,538,2024.09.13,Shipped,,0,15
+10671,262,02-03-2022,Delivered,Cash on Delivery,,0
+12571,44,2023-06-03,Returned,COD,4.99,0
+11555,22,2022-03-30,Shipped,Cash on Delivery,4.99,0
+12016,219,2023-02-12,pending,paypal,4.99,20
+12842,331,2023-09-26,pending,credit card,-3,0
+12252,,2023-04-26,SHIPPED,Cash on Delivery,-3,0
+11337,57,2024-04-09,,Bank Transfer,free,0
+10369,323,2022.09.29,Delivered,Bank Transfer,4.99,0
+10131,442,2024-08-17,,PayPal,1490,0
+12936,87,28 Feb 2023,,COD,9.99,10
+11946,568,04/06/2024,Cancelled,paypal,4.99,0
+10319,171,04-05-2022,,PayPal,0,0
+11685,205,2022-10-01,SHIPPED,Credit Card,990,0
+11647,114,2024-03-08,pending,credit card,0,0
+10255,2,31/07/2023,Delivered,Credit Card,,0
+10936,128,2022-08-09,Cancelled,Bank Transfer,4.99,0
+11721,479,2023-04-01,Cancelled,paypal,9.99,10%
+12246,334,2024-08-31,Returned,PayPal,free,5
+10092,149,02-05-2022,SHIPPED,Credit Card,,0
+10407,209,2022-05-25,Shipped,,4.99,
+12145,5,2022.05.20,Shipped,Cash on Delivery,1490,0
+12206,465,01-02-2023,,paypal,free,10%
+11269,135,2022-03-06,Cancelled,paypal,9.99,0
+10264,465,2024.02.11,Returned,credit card,1490,0
+12183,138,2023-03-30,delivered ,credit card,0,0
+11760,51,01/02/2022,delivered ,Cash on Delivery,0,0
+10716,301,2024-03-27,Pending,paypal,-3,0
+10868,271,2023.07.09,SHIPPED,,1490,0
+11894,,2024-09-17,Delivered,paypal,9.99,0
+11207,256,2023-04-05,Cancelled,PayPal,0,15
+11800,622,2023-01-19,delivered ,PayPal,9.99,15
+11476,416,N/A,Shipped,paypal,0,0
+10601,201,2022-04-15,Shipped,Bank Transfer,1490,10
+11313,537,2024.04.08,delivered ,Credit Card,,0
+11380,352,2022.08.02,delivered ,COD,4.99,0
+11618,136,29/03/2023,shipped,credit card,,0
+12258,533,09/06/2023,canceled,paypal,,0
+12919,482,18/05/2023,delivered ,PayPal,free,0
+10321,69,03-12-2024,Returned,Cash on Delivery,990,0
+10559,467,2022-12-25,Cancelled,Bank Transfer,free,0
+10376,168,23/10/2022,pending,credit card,4.99,0
+10991,393,2024-03-05,Returned,credit card,0,150
+11423,281,2022-02-16,,Credit Card,-3,0
+12357,478,2024-02-15,Delivered,Bank Transfer,990,0
+11692,371,13 Sep 2022,Returned,Cash on Delivery,-3,20%
+11293,9948,2023-03-17,canceled,paypal,990,5
+12832,485,2024.06.06,Shipped,COD,1490,0
+12794,82,2022.09.08,Cancelled,PayPal,0,0
+12431,268,2023.07.19,,paypal,-3,0
+10017,388,2022-04-10,SHIPPED,PayPal,,150
+11048,225,2024-04-25,Shipped,Cash on Delivery,0,5
+12587,529,26/01/2024,Delivered,Cash on Delivery,0,
+10029,300,13/01/2024,Returned,,0,0
+12222,267,2023-06-10,shipped,Cash on Delivery,0,15
+11607,599,2023-05-04,pending,paypal,4.99,0
+11429,580,2024-05-07,Cancelled,,0,-10
+12154,504,07-14-2024,canceled,COD,free,0
+10202,191,2022-01-04,Shipped,credit card,,0
+11753,572,2023-08-29,Shipped,COD,0,15
+10815,217,03/02/2023,,,1490,0
+11433,77,2024-09-20,Cancelled,COD,,0
+12175,432,2022-01-25,shipped,PayPal,-3,0
+12367,95,2022-07-30,Pending,,4.99,
+11559,39,2023-09-02,,Credit Card,1490,20
+11546,343,2022-04-28,,credit card,0,0
+11572,584,N/A,SHIPPED,PayPal,,20
+11194,9649,21/01/2023,Cancelled,Credit Card,4.99,0
+12279,475,24/10/2022,pending,,0,0
+10221,321,2023-05-03,Cancelled,paypal,4.99,0
+10697,484,2023-10-19,Shipped,Cash on Delivery,free,0
+11201,615,2022-04-23,SHIPPED,Credit Card,990,0
+10663,234,2024-01-18,Cancelled,Cash on Delivery,,0
+11001,220,2023-07-01,canceled,credit card,0,15
+10660,507,2024.06.14,Cancelled,,0,20%
+12851,9110,2024-07-11,Delivered,credit card,990,0
+12577,405,NULL,Shipped,PayPal,0,0
+10374,182,03 Dec 2023,Shipped,credit card,,10
+10810,572,2022-07-07,pending,COD,0,0
+10119,260,12-27-2022,Cancelled,,1490,
+11221,35,2023-08-01,Returned,,0,150
+12783,485,04/10/2022,delivered ,Bank Transfer,free,20%
+11368,549,2022-09-05,SHIPPED,COD,1490,0
+10836,279,2024-09-12,pending,Cash on Delivery,free,0
+11034,154,2022-09-24,Delivered,Bank Transfer,0,10
+12044,587,31/01/2022,Delivered,credit card,0,0
+10524,27,2023-01-25,pending,,0,0
+11521,522,03/05/2024,delivered ,paypal,9.99,20%
+12325,556,18/01/2024,Delivered,paypal,990,0
+10062,571,2022-01-23,,Cash on Delivery,990,0
+12793,200,2023-10-15,Shipped,PayPal,1490,0
+10048,505,10/05/2023,delivered ,paypal,-3,
+12546,495,15/04/2023,Delivered,Bank Transfer,4.99,150
+11752,468,2023-03-19,delivered ,credit card,1490,0
+11471,16,04-09-2023,Delivered,PayPal,0,
+11127,252,2024-05-20,canceled,PayPal,1490,0
+12153,193,2022-04-18,,Credit Card,990,0
+10042,58,2022-09-08,pending,paypal,4.99,0
+11724,251,2022-12-08,SHIPPED,paypal,,0
+12272,105,05/01/2024,,Credit Card,free,0
+12038,142,21/11/2023,Cancelled,COD,0,0
+10315,435,0000-00-00,SHIPPED,PayPal,4.99,0
+11294,521,05-17-2024,canceled,credit card,,0
+12708,500,2022-10-18,pending,COD,1490,0
+12789,104,2022-05-05,Cancelled,COD,,0
+10981,352,2023-06-18,shipped,COD,0,0
+12756,432,01/07/2022,pending,Cash on Delivery,0,0
+10176,398,2023-01-12,Shipped,,0,0
+11168,203,,Pending,Cash on Delivery,0,0
+10952,321,10/11/2022,Cancelled,paypal,,0
+11391,55,2024-09-08,pending,Cash on Delivery,-3,0
+11011,189,2023-02-11,Pending,Bank Transfer,0,10
+11275,415,2023-02-02,Cancelled,,0,0
+11153,52,2022-08-13,Pending,PayPal,1490,0
+12507,374,2024.04.02,Shipped,Cash on Delivery,1490,0
+10599,93,02-13-2022,pending,Cash on Delivery,-3,5
+10724,554,02/04/2023,canceled,Cash on Delivery,free,0
+10777,138,2022-04-01,canceled,PayPal,4.99,0
+11195,106,22/06/2024,shipped,Cash on Delivery,990,0
+11602,230,02/05/2024,shipped,credit card,9.99,20%
+12957,108,2022-11-22,SHIPPED,credit card,,0
+10403,9109,2022-12-16,pending,credit card,1490,0
+11850,121,2022-03-10,SHIPPED,Cash on Delivery,1490,0
+12635,263,2022-03-03,Delivered,credit card,1490,0
+10282,490,2022-07-09,SHIPPED,Bank Transfer,,5
+12820,316,24/03/2022,shipped,Credit Card,1490,0
+12106,20,31/08/2024,delivered ,Cash on Delivery,4.99,0
+12968,416,08-31-2023,pending,PayPal,990,0
+12594,345,24/04/2024,Pending,credit card,1490,0
+11958,578,2022-08-02,Returned,,free,0
+12877,172,2022-12-29,canceled,credit card,990,10
+10576,24,2022-06-21,Delivered,,9.99,0
+11268,32,2024.06.03,canceled,Credit Card,990,0
+12202,308,2023-12-14,pending,paypal,0,0
+11914,187,2022-09-22,Pending,Credit Card,free,0
+12712,66,2023-09-11,Delivered,Bank Transfer,-3,0
+12570,330,2024-04-28,Cancelled,Bank Transfer,990,0
+11296,602,05-12-2023,Pending,credit card,-3,0
+12852,426,2024-02-19,Pending,COD,0,5 %
+10355,622,07/02/2023,Cancelled,Cash on Delivery,9.99,0
+12772,236,07 Oct 2022,delivered ,paypal,0,
+11808,74,2023-12-12,Cancelled,,-3,0
+10687,241,2022-11-23,Returned,Credit Card,1490,0
+12583,149,2024-09-25,Cancelled,Bank Transfer,990,0
+11459,476,2023-11-15,Delivered,COD,990,20
+10236,562,2023-04-05,Shipped,Credit Card,990,15
+10133,549,11/09/2023,pending,paypal,1490,0
+12430,400,28/01/2024,Cancelled,Bank Transfer,0,0
+10277,45,2024-06-05,,credit card,free,
+11200,579,2023-10-09,canceled,credit card,4.99,20
+11609,467,2023-01-30,shipped,Cash on Delivery,0,0
+10672,559,2023-10-02,delivered ,Credit Card,1490,0
+11306,262,2022-11-10,Returned,Bank Transfer,free,0
+11598,502,08-28-2023,Cancelled,Credit Card,9.99,
+12581,138,12-13-2022,Shipped,Credit Card,990,0
+11472,636,10-26-2022,Cancelled,PayPal,9.99,10%
+11267,,09-19-2024,delivered ,COD,,20
+10667,158,20/10/2022,Cancelled,credit card,-3,0
+11176,464,2023-08-14,,,0,15
+12240,321,12-30-2023,canceled,Bank Transfer,1490,0
+12215,191,2022-11-29,Cancelled,Cash on Delivery,-3,0
+11754,315,2024.07.28,,COD,0,5
+12029,638,2023-08-27,Cancelled,paypal,free,0
+11470,336,10-16-2022,Pending,COD,0,0
+12365,219,20/05/2024,Cancelled,paypal,free,5
+10890,524,2023.12.30,Returned,COD,9.99,0
+12771,347,2023-10-12,pending,PayPal,9.99,0
+11059,475,2023-03-16,Pending,Bank Transfer,1490,0
+11167,231,2023-03-05,Cancelled,PayPal,-3,0
+11560,318,NULL,Cancelled,Bank Transfer,990,0
+11065,55,2022-03-05,Pending,Credit Card,1490,20
+10140,255,03/07/2022,Cancelled,credit card,990,20
+12684,370,2022-07-22,Shipped,COD,990,20%
+12042,133,03/02/2024,Delivered,Bank Transfer,-3,
+11076,16,2024-06-07,canceled,PayPal,4.99,10%
+12087,482,2022-06-13,pending,credit card,0,0
+11321,113,2022.10.04,Cancelled,paypal,-3,15
+10912,516,2023-08-31,Delivered,Bank Transfer,,0
+11529,603,2023-12-24,Delivered,paypal,990,0
+12630,24,2023-07-20,canceled,Bank Transfer,,0
+10594,9371,2024-07-18,pending,,,0
+11213,139,2022-07-10,canceled,PayPal,-3,0
+10972,315,2022-12-24,Pending,Credit Card,0,
+11772,574,2022-10-24,Pending,Credit Card,4.99,5
+12194,117,2024-09-13,Cancelled,,1490,
+12835,411,2023-07-24,Cancelled,Credit Card,,10%
+11913,103,2022-09-05,Cancelled,PayPal,0,0
+10860,164,2022-06-06,canceled,credit card,1490,5
+11746,395,2023-09-14,,Cash on Delivery,990,0
+10167,453,2024-08-14,Delivered,Cash on Delivery,-3,0
+10835,24,2023-12-17,,COD,1490,0
+10636,367,2023.10.18,,COD,990,0
+10650,184,20/01/2023,Returned,COD,4.99,0
+12151,36,2023-10-13,Cancelled,PayPal,4.99,
+10112,432,28/02/2024,delivered ,Cash on Delivery,4.99,0
+10733,451,02 Feb 2022,Cancelled,credit card,free,
+12466,537,15/06/2023,Shipped,credit card,-3,0
+10268,214,2024-07-30,pending,,free,0
+12180,503,2022-03-14,canceled,Cash on Delivery,9.99,0
+12022,190,2022-09-21,Delivered,COD,4.99,0
+12423,131,08 Jan 2023,shipped,paypal,-3,0
+10364,526,2024-07-18,Shipped,Cash on Delivery,1490,0
+11208,316,12-17-2023,,,,
+12166,38,2022-12-14,Delivered,Credit Card,-3,0
+10501,165,2022-03-10,Delivered,paypal,4.99,15
+11699,444,2022-09-25,Delivered,Bank Transfer,free,0
+11480,441,11/05/2024,delivered ,,9.99,0
+11437,612,07-09-2022,Cancelled,PayPal,,15
+11181,525,18/03/2023,Shipped,COD,9.99,-10
+10786,396,2023-05-30,Delivered,Bank Transfer,,0
+10115,44,2024-03-23,Delivered,Cash on Delivery,0,0
+10973,544,2022-04-14,Cancelled,Credit Card,-3,0
+12011,259,2023.10.04,Shipped,Credit Card,-3,5
+12981,142,24/02/2022,Returned,PayPal,9.99,15
+12424,255,02/04/2023,Shipped,,0,0
+11217,626,2023-03-21,Returned,PayPal,0,0
+12734,432,20/07/2022,Returned,Bank Transfer,,0
+11031,492,11/02/2022,Delivered,COD,0,15
+11359,450,2024-09-11,Shipped,PayPal,-3,0
+10755,70,2024.03.15,,Credit Card,0,0
+11900,489,31 Aug 2023,pending,Cash on Delivery,0,0
+11148,173,2023-04-03,delivered ,PayPal,990,0
+11581,18,2022-01-19,Shipped,credit card,0,10
+12781,580,06/04/2024,SHIPPED,,990,0
+12964,547,2023-12-18,canceled,paypal,1490,5
+11282,230,30/10/2023,Shipped,credit card,990,10
+12033,569,2022-07-30,Cancelled,COD,1490,5
+10679,281,09-17-2022,,COD,,
+10947,473,12-21-2023,Pending,paypal,free,5 %
+10585,538,2022-01-09,delivered ,COD,9.99,0
+11367,576,2023-04-06,,PayPal,4.99,10
+12464,573,2023-10-03,Returned,COD,free,0
+11934,510,2023-05-24,Delivered,PayPal,0,0
+11553,374,2022-11-14,Pending,PayPal,,0
+10033,339,08-05-2023,SHIPPED,Bank Transfer,4.99,0
+11606,351,02-14-2024,pending,credit card,,0
+11662,402,16/12/2023,Shipped,,0,10
+10362,335,11-06-2023,,PayPal,9.99,0
+12224,552,2023.01.31,shipped,credit card,0,0
+11789,555,2024-03-01,Shipped,Bank Transfer,990,0
+11036,443,2022-04-08,pending,Credit Card,0,0
+11705,183,2023.04.28,Cancelled,credit card,-3,0
+12083,339,07/04/2023,Delivered,PayPal,990,
+11002,391,02/06/2022,SHIPPED,Credit Card,-3,0
+12527,479,20/05/2022,Returned,Credit Card,free,0
+12264,315,2022-06-02,Delivered,Credit Card,0,10%
+11886,258,2023-08-05,shipped,,9.99,0
+10812,215,2023.12.09,Returned,Credit Card,990,10
+11939,610,10/11/2022,canceled,Credit Card,1490,0
+11193,252,2024-03-12,canceled,,0,0
+11903,318,2024-04-10,SHIPPED,COD,free,0
+11088,328,2022.11.25,Cancelled,Cash on Delivery,0,5
+12213,416,18/05/2023,,paypal,4.99,
+10776,,2023-10-25,SHIPPED,COD,,10%
+12750,595,2024-02-02,,Credit Card,990,0
+10466,402,05-18-2022,Returned,Bank Transfer,0,5
+10072,27,10 Feb 2022,Cancelled,Cash on Delivery,990,0
+12742,331,04/09/2024,Cancelled,Cash on Delivery,4.99,5
+12860,9319,08/01/2024,,credit card,0,10
+11078,565,12/02/2023,Cancelled,credit card,free,20
+11952,311,31/05/2023,Delivered,PayPal,0,0
+10205,203,13/08/2023,shipped,paypal,1490,0
+10191,348,12/03/2022,SHIPPED,credit card,990,15
+10383,233,2024-03-10,Cancelled,Cash on Delivery,free,0
+12569,526,2023-02-11,SHIPPED,COD,1490,0
+11797,9509,2023-04-10,shipped,PayPal,9.99,0
+11077,167,2023-08-23,pending,COD,0,0
+11068,160,2023-12-02,Pending,Bank Transfer,0,0
+12737,622,28/09/2023,SHIPPED,Credit Card,9.99,0
+11349,453,2022-06-24,Shipped,Cash on Delivery,1490,15
+10219,627,10-16-2022,SHIPPED,Cash on Delivery,9.99,0
+10338,202,2023-02-08,SHIPPED,paypal,1490,15
+12970,35,07-18-2024,Delivered,COD,990,
+12143,439,2023-10-27,Cancelled,,free,0
+11382,68,2023-01-23,Pending,paypal,0,0
+10914,386,2023-02-13,Cancelled,credit card,-3,0
+12597,344,2023.05.19,SHIPPED,PayPal,1490,0
+12379,187,2022-09-28,,Bank Transfer,1490,0
+10935,626,05-21-2022,SHIPPED,PayPal,9.99,0
+12900,614,08 May 2022,,paypal,4.99,0
+10372,514,25/02/2024,Cancelled,paypal,4.99,0
+12939,470,2023.02.24,Returned,COD,,10
+10924,567,05-10-2024,Cancelled,credit card,-3,20%
+12513,427,2022-11-20,delivered ,paypal,free,0
+12200,526,2022-07-16,,paypal,9.99,0
+11566,358,2023-11-22,Delivered,,1490,20
+12774,,03-08-2024,delivered ,paypal,1490,0
+10738,345,06-28-2022,Delivered,Cash on Delivery,-3,0
+12559,86,2022-10-30,Shipped,Cash on Delivery,1490,
+10541,244,21 Nov 2022,SHIPPED,credit card,0,15
+11990,,2023-10-28,Shipped,,1490,0
+10266,196,2022-05-04,delivered ,,1490,20%
+11262,402,2023-07-01,Cancelled,Bank Transfer,,20
+10463,11,2022-01-28,canceled,credit card,0,0
+12874,92,2024-08-21,,Cash on Delivery,990,
+12828,348,2023-10-05,Pending,paypal,0,5 %
+10665,516,2024-03-27,pending,Cash on Delivery,4.99,20
+10273,608,2024-08-15,Cancelled,Bank Transfer,-3,0
+10292,549,2024-05-25,,PayPal,free,0
+12219,242,2023.06.16,delivered ,COD,4.99,0
+12486,268,2022.09.28,SHIPPED,,1490,0
+11775,,07-24-2023,canceled,COD,4.99,0
+12079,324,2022-01-03,Pending,PayPal,free,0
+10455,87,2024-03-22,Returned,Credit Card,4.99,0
+11320,68,2023-05-12,SHIPPED,Bank Transfer,free,15
+10709,516,2022-12-02,pending,PayPal,4.99,5
+12168,320,2022-02-12,canceled,paypal,990,0
+11272,605,29 Sep 2022,,Cash on Delivery,0,0
+12360,307,2023-05-28,Cancelled,Cash on Delivery,free,10
+10975,211,2024-07-25,Pending,COD,free,15
+11458,395,23 Jul 2024,pending,paypal,-3,0
+10961,533,2022-04-24,Pending,,0,10%
+12311,577,2024-03-17,Cancelled,PayPal,4.99,10
+11119,171,2024-09-27,,Cash on Delivery,1490,0
+11953,17,06-26-2023,Delivered,paypal,9.99,0
+10174,290,21/07/2024,Cancelled,,1490,0
+12100,,2022-12-12,canceled,Credit Card,1490,5
+11972,76,2024-07-24,canceled,credit card,-3,10
+10808,51,2023-06-08,shipped,PayPal,990,0
+10356,522,14 Apr 2024,delivered ,Cash on Delivery,,0
+11143,170,2023-11-13,Returned,Cash on Delivery,4.99,0
+11733,589,2024-07-19,Cancelled,paypal,4.99,0
+12802,184,2023-01-25,,credit card,0,10
+11519,554,06-21-2023,,Credit Card,-3,0
+12752,584,26/09/2023,Cancelled,PayPal,-3,0
+10513,505,2024.01.07,shipped,,,0
+12929,616,2024-05-02,pending,paypal,1490,0
+10472,9043,2024-08-24,Delivered,Cash on Delivery,1490,0
+12476,625,2023-06-24,delivered ,COD,free,0
+10004,506,2024-09-22,,,free,0
+12429,491,2022-01-11,Returned,paypal,1490,20
+10126,270,2022-12-29,,Bank Transfer,,20
+11787,360,2022-03-04,Shipped,credit card,0,0
+11356,26,2024-04-19,delivered ,Credit Card,,0
+10163,188,28/01/2024,,COD,4.99,0
+10200,9013,25/01/2024,SHIPPED,,9.99,0
+12659,445,2023-09-22,Cancelled,PayPal,1490,15
+12858,468,16/12/2023,Pending,PayPal,,-10
+12952,604,,pending,Credit Card,,15
+11539,286,2022-10-25,pending,,free,150
+10279,22,2023-01-13,canceled,COD,-3,20
+11300,562,2023.07.01,Cancelled,Bank Transfer,0,0
+12067,592,10/05/2022,Shipped,paypal,free,15
+10988,584,2024-02-21,delivered ,Cash on Delivery,4.99,0
+12006,310,02/07/2023,pending,Cash on Delivery,free,15
+10527,,10-21-2023,Cancelled,Credit Card,990,0
+11526,375,2024-03-29,Pending,,-3,0
+12470,532,01/09/2024,Returned,Bank Transfer,0,0
+12225,529,2024-02-06,,Bank Transfer,0,0
+12108,15,2023-12-17,Cancelled,Credit Card,4.99,0
+10870,395,31/12/2023,SHIPPED,paypal,4.99,0
+11820,501,02/07/2022,canceled,PayPal,-3,0
+12266,229,2024-01-03,delivered ,Credit Card,0,0
+12385,420,2022-12-11,Returned,,free,5 %
+12343,212,27 Nov 2022,Cancelled,PayPal,990,
+11755,390,2022-03-02,delivered ,PayPal,-3,0
+12340,400,07-08-2023,delivered ,PayPal,,0
+10875,364,2024-06-26,SHIPPED,,0,0
+12002,95,2024-08-05,shipped,,1490,
+11358,122,2023-01-10,,PayPal,free,0
+11717,43,2023-07-22,Cancelled,Cash on Delivery,free,0
+10884,358,2023-09-12,SHIPPED,PayPal,990,15
+11083,9308,23/07/2024,shipped,Credit Card,0,0
+11694,624,2023-05-07,Pending,COD,0,
+10254,491,2023-11-19,,,4.99,0
+12864,84,2022-04-01,pending,PayPal,-3,
+11508,470,2023-09-18,pending,PayPal,-3,15
+12725,252,2022-09-21,Delivered,paypal,1490,5
+10382,525,2022-06-21,Pending,credit card,1490,0
+10445,318,2023-01-20,Cancelled,Credit Card,0,0
+11522,489,02/06/2023,shipped,COD,0,20%
+12328,21,2023-10-11,Returned,Credit Card,0,0
+10150,347,2024-09-10,Shipped,,free,5 %
+11273,219,2023-12-13,Cancelled,credit card,free,0
+10506,315,2024-09-11,SHIPPED,COD,990,0
+11427,75,2022-09-10,,Cash on Delivery,4.99,10
+10578,482,2023-05-27,canceled,Credit Card,0,0
+11316,18,22/11/2022,Cancelled,Credit Card,free,0
+12114,127,2022-09-26,Cancelled,Bank Transfer,990,0
+11803,327,20/01/2022,delivered ,paypal,9.99,0
+10196,310,25/01/2023,Cancelled,Cash on Delivery,,15
+12917,585,07/09/2022,Returned,Cash on Delivery,free,0
+12450,64,11-11-2023,delivered ,,990,0
+11366,102,2024-05-07,Shipped,Bank Transfer,4.99,0
+10748,15,2022-04-01,SHIPPED,Credit Card,,0
+11592,402,2022-09-04,Returned,,990,20
+10458,222,2022-12-30,Cancelled,credit card,1490,0
+10932,209,2022.05.06,delivered ,Bank Transfer,0,
+10548,515,07-21-2024,canceled,Cash on Delivery,0,0
+10587,68,2022-01-02,Cancelled,PayPal,1490,0
+11171,547,21/02/2022,canceled,credit card,4.99,0
+11554,511,10/02/2022,pending,PayPal,0,0
+12496,360,2024-09-07,Returned,paypal,0,0
+12549,462,2022-07-10,Returned,COD,4.99,20%
+11534,262,2024.04.10,Cancelled,Bank Transfer,0,10%
+12963,207,01-18-2022,Cancelled,paypal,1490,0
+11987,28,10-22-2023,SHIPPED,Cash on Delivery,9.99,
+12566,450,2023-01-18,,Cash on Delivery,free,0
+12960,592,2022-10-17,Cancelled,Credit Card,0,0
+10744,12,2023.01.24,SHIPPED,Bank Transfer,9.99,
+12764,29,08/03/2023,canceled,Cash on Delivery,1490,
+12745,253,2024-05-25,delivered ,paypal,free,15
+10267,122,2023-02-17,canceled,Cash on Delivery,0,0
+10862,439,2024-04-15,Cancelled,Cash on Delivery,0,0
+12066,288,2022-04-30,pending,,1490,0
+12169,593,2023-04-15,Cancelled,credit card,0,
+12508,280,2023.12.19,canceled,Cash on Delivery,9.99,0
+11019,61,2022-10-03,,paypal,4.99,0
+10931,20,06-15-2022,Shipped,credit card,,0
+12727,411,2022-11-28,SHIPPED,Bank Transfer,9.99,0
+10181,112,2024-07-15,SHIPPED,COD,,10
+10037,489,2022-12-19,Returned,Cash on Delivery,990,0
+12866,354,2022-12-24,Cancelled,PayPal,1490,0
+11831,130,2024-03-26,SHIPPED,COD,990,10
+12247,67,10/09/2024,Returned,Bank Transfer,free,0
+11730,9737,18/04/2023,canceled,PayPal,,0
+11742,592,0000-00-00,Cancelled,Cash on Delivery,0,0
+12157,347,2024-07-25,Pending,Credit Card,-3,0
+11902,9806,2023-04-23,,credit card,9.99,0
+11605,53,26/06/2023,Cancelled,Bank Transfer,1490,0
+11970,311,2024-03-29,Returned,COD,4.99,0
+11854,492,22/01/2023,shipped,Credit Card,1490,0
+10330,310,2024-07-11,canceled,,1490,0
+10068,284,2024-01-27,pending,Cash on Delivery,990,0
+12449,361,2024-08-14,Returned,credit card,1490,0
+11699,444,2022-09-25,Delivered,Bank Transfer,free,0
+11533,210,2022-07-03,Returned,paypal,free,0
+12414,405,30/09/2022,Delivered,paypal,,0
+11149,14,2024-03-22,delivered ,PayPal,990,
+11711,151,2023-05-17,Cancelled,Credit Card,free,0
+12102,187,20/10/2022,Returned,,-3,0
+11301,576,2022-01-17,Cancelled,COD,0,0
+10695,562,2023-01-22,canceled,PayPal,-3,0
+12257,9014,2022-07-13,Delivered,,free,5
+12129,5,2023-05-24,Pending,Credit Card,0,0
+11542,304,2023-11-29,delivered ,Bank Transfer,,0
+11442,214,2022-10-31,pending,credit card,990,0
+11244,162,2024-09-21,Pending,paypal,,
+11515,212,2023-10-18,canceled,PayPal,4.99,0
+12046,10,2022-09-18,Shipped,COD,9.99,
+10422,339,23 Aug 2022,Cancelled,PayPal,4.99,15
+11091,300,2023-01-14,SHIPPED,Credit Card,4.99,0
+10252,65,2022-03-08,Cancelled,COD,,0
+12088,152,2024-03-15,Cancelled,COD,0,0
+12315,395,04-03-2022,shipped,paypal,4.99,0
+10473,400,17/04/2024,shipped,Cash on Delivery,0,0
+12817,373,15/02/2023,delivered ,,9.99,20
+10963,624,03-25-2022,Returned,Bank Transfer,free,15
+10357,216,2022-06-08,Cancelled,PayPal,0,5
+11652,172,2022-12-04,delivered ,Credit Card,1490,
+10170,26,2022-09-09,Returned,Cash on Delivery,-3,
+10484,195,2024-04-06,canceled,COD,1490,
+11104,512,2022-06-12,Shipped,paypal,,0
+10849,110,2024-01-22,Cancelled,COD,free,0
+12115,86,2022-03-28,delivered ,Credit Card,0,0
+12714,126,2022-01-15,SHIPPED,Credit Card,free,0
+10335,25,2023-09-20,Cancelled,Credit Card,free,0
+11410,332,2022-10-21,canceled,paypal,,0
+12248,75,2023-05-15,delivered ,COD,0,20
+10939,295,2022.04.15,Pending,Credit Card,990,0
+11950,540,2023-01-17,Cancelled,credit card,0,0
+10291,150,12/10/2022,Cancelled,Bank Transfer,,
+11660,361,06/06/2024,Delivered,,,15
+10850,195,2023-11-25,canceled,credit card,free,0
+11225,638,28/09/2023,Cancelled,COD,,5
+11875,295,2023-12-02,Pending,paypal,1490,10
+12568,164,2022-10-04,shipped,paypal,-3,5
+10759,548,28/05/2024,SHIPPED,,1490,20
+10365,352,01-03-2022,Returned,paypal,0,0
+10402,74,2022-08-12,pending,paypal,4.99,0
+11256,76,2022-05-13,Cancelled,Credit Card,9.99,0
+10781,138,2022-10-16,Cancelled,Credit Card,free,0
+11528,43,2022-12-07,pending,credit card,-3,150
+11570,419,2023.06.23,pending,PayPal,9.99,20
+11776,340,31/08/2023,pending,PayPal,990,0
+12977,439,02-07-2022,Returned,Credit Card,9.99,20
+10705,271,27/07/2024,Cancelled,,990,15
+12801,639,2024-01-07,,credit card,-3,10
+11446,422,11-20-2023,shipped,,4.99,0
+12613,476,01-22-2023,Pending,,0,0
+10577,284,2022-07-17,Shipped,COD,0,0
+11144,516,2023-06-24,Cancelled,COD,-3,20%
+11112,83,27/06/2024,Shipped,Bank Transfer,0,0
+11512,156,2022.02.20,SHIPPED,COD,-3,
+10899,59,24/02/2023,,Credit Card,0,0
+12519,32,2022.02.28,Pending,credit card,9.99,0
+12597,344,2023.05.19,SHIPPED,PayPal,1490,0
+11006,631,2024-03-08,shipped,credit card,0,0
+10820,488,06 Aug 2023,pending,credit card,0,0
+12384,587,09-30-2023,shipped,paypal,1490,0
+10055,323,2023-02-07,canceled,Cash on Delivery,,20
+12790,600,2024-05-02,Delivered,Credit Card,1490,0
+10486,469,2022-02-01,,paypal,free,10%
+12433,351,2024-03-10,pending,Credit Card,0,15
+11314,366,2022.09.19,delivered ,Bank Transfer,9.99,10
+12992,369,2024-03-23,SHIPPED,credit card,-3,0
+12008,554,2024-02-05,pending,Credit Card,990,0
+12255,9554,03-17-2023,Returned,paypal,9.99,0
+12289,8,2022-11-25,pending,Cash on Delivery,4.99,0
+10892,399,2022-05-17,Returned,,0,20
+12720,144,2024-06-20,Cancelled,Credit Card,9.99,0
+11693,352,2022-12-15,Returned,Cash on Delivery,0,0
+10764,11,N/A,,PayPal,0,10
+12637,588,2022-10-17,Returned,COD,-3,10
+12849,249,2023-09-14,shipped,,0,0
+12093,500,08-14-2023,Shipped,Credit Card,0,
+12004,235,2022-05-09,SHIPPED,Cash on Delivery,0,0
+11111,508,2023-07-14,Shipped,paypal,0,0
+10606,153,22/06/2023,Cancelled,Credit Card,1490,0
+11933,318,2024.02.20,shipped,Cash on Delivery,0,0
+10095,559,2023-11-03,SHIPPED,Bank Transfer,-3,0
+10927,109,06-05-2024,Shipped,Credit Card,1490,20
+10521,520,02/11/2022,Returned,credit card,9.99,0
+10534,414,13/12/2023,pending,Cash on Delivery,1490,0
+12139,625,16/02/2024,Pending,Bank Transfer,4.99,0
+12987,586,24/03/2024,SHIPPED,Credit Card,990,0
+12715,297,2022.09.22,Cancelled,credit card,9.99,0
+11580,536,2024-06-29,Shipped,paypal,free,0
+10162,43,2023-11-10,Cancelled,credit card,1490,5
+11441,60,2023-10-06,pending,COD,9.99,0
+11109,34,2024-05-05,Pending,PayPal,,0
+11630,,10/03/2024,Cancelled,Cash on Delivery,1490,
+10412,251,24/07/2023,Returned,Credit Card,-3,0
+12857,363,23/12/2023,Pending,Bank Transfer,9.99,0
+12787,252,28/10/2023,Cancelled,COD,9.99,20
+12054,119,16/04/2024,SHIPPED,,9.99,0
+10964,269,2024-03-19,Cancelled,PayPal,4.99,0
+11242,603,2024-02-25,Returned,COD,0,
+12834,137,NULL,canceled,paypal,4.99,0
+11415,570,0000-00-00,Delivered,Bank Transfer,1490,5
+11170,401,2024-03-09,Delivered,,0,0
+10093,147,2022-09-01,Cancelled,,990,0
+10865,48,11 Mar 2022,pending,PayPal,0,10
+12626,467,06-14-2024,SHIPPED,PayPal,-3,0
+12934,164,2023.06.02,Shipped,credit card,1490,0
+12012,570,17/07/2022,canceled,Credit Card,-3,0
+11452,327,2024-08-07,SHIPPED,Credit Card,990,20%
+12746,89,2023-04-25,Cancelled,paypal,free,10
+12584,67,2023-06-29,canceled,paypal,1490,0
+10492,586,05-04-2022,canceled,PayPal,4.99,0
+12924,440,NULL,pending,credit card,9.99,0
+11450,2,09/02/2024,shipped,paypal,-3,
+11710,563,28/03/2022,Returned,Cash on Delivery,1490,15
+12814,510,11/04/2023,Returned,PayPal,free,
+11773,371,2023.07.29,,COD,1490,0
+11064,5,26/05/2022,Returned,COD,0,0
+10324,588,11/04/2023,SHIPPED,Credit Card,990,0
+10918,588,2023-07-30,delivered ,,0,0
+11003,156,12-10-2022,,PayPal,1490,0
+10002,556,2023-03-04,Shipped,credit card,0,0
+10609,600,2023-07-20,,Bank Transfer,0,0
+10019,326,2022-08-19,Cancelled,PayPal,,0
+11254,250,NULL,canceled,PayPal,free,0
+10706,47,2022-05-10,Cancelled,,0,0
+10307,165,2024-09-24,Delivered,COD,4.99,0
+12669,140,29/06/2023,Cancelled,Cash on Delivery,990,15
+11080,330,2023-02-21,Shipped,,4.99,0
+12086,117,05 Mar 2023,Cancelled,Bank Transfer,4.99,
+12491,557,12/07/2022,Returned,,990,0
+11873,386,2022-07-08,Cancelled,paypal,free,5
+10212,420,2024.08.03,Cancelled,PayPal,,0
+12504,,06-29-2024,pending,COD,9.99,0
+12229,89,21 Oct 2023,Returned,COD,990,10%
+10779,547,01 Sep 2023,SHIPPED,paypal,0,0
+11421,399,2024-03-02,delivered ,Credit Card,0,10
+12514,477,2023-08-15,delivered ,paypal,-3,0
+12483,508,2022-09-29,Cancelled,,9.99,0
+12876,385,2023-09-22,,COD,4.99,0
+10591,285,04 Mar 2022,canceled,COD,free,0
+12562,9174,2022-06-19,canceled,credit card,4.99,0
+11729,437,2023-04-27,pending,COD,free,0
+11836,212,2023-07-07,,COD,0,0
+12894,172,2024-01-29,Cancelled,credit card,9.99,0
+11191,116,NULL,shipped,Cash on Delivery,,0
+10659,,2024-07-15,canceled,,-3,20
+10308,227,2024-07-02,Shipped,paypal,990,0
+10562,124,14/04/2023,Pending,PayPal,1490,20%
+10091,605,2024-06-23,canceled,Cash on Delivery,4.99,0
+11713,217,05/06/2023,Delivered,credit card,,0
+11243,286,2022-01-22,canceled,Cash on Delivery,free,0
+11700,459,29/04/2024,Shipped,Cash on Delivery,9.99,0
+12479,569,02/10/2022,Returned,credit card,,0
+10399,605,2022.10.03,,COD,1490,0
+10281,124,N/A,Returned,Bank Transfer,1490,0
+10967,,20/04/2024,,PayPal,0,0
+12761,58,2023-07-08,Shipped,Credit Card,9.99,150
+10756,375,2024-03-02,Cancelled,Cash on Delivery,0,0
+10156,445,02/07/2022,Delivered,credit card,-3,0
+12349,265,22/04/2022,shipped,Bank Transfer,4.99,0
+12123,276,2023.11.01,canceled,Cash on Delivery,9.99,0
+11398,120,2024.01.21,pending,Bank Transfer,4.99,0
+12332,105,2023-07-20,delivered ,Bank Transfer,1490,
+12227,238,2022-10-01,pending,Cash on Delivery,0,20%
+11389,339,2023-02-21,canceled,paypal,-3,0
+10198,501,2023.04.06,Returned,credit card,0,0
+10461,415,10/02/2022,shipped,,,0
+10137,406,2023-07-06,Returned,COD,4.99,0
+11393,28,16/04/2022,Pending,PayPal,9.99,15
+10104,77,16/11/2022,shipped,Credit Card,1490,0
+11158,278,12/03/2023,Delivered,paypal,990,0
+10888,100,2022-08-17,delivered ,paypal,-3,0
+10789,590,2023-04-03,delivered ,PayPal,990,10
+10066,290,,Returned,PayPal,0,0
+12701,75,2022-01-28,Returned,Cash on Delivery,-3,0
+10495,57,01/02/2023,Pending,Cash on Delivery,-3,150
+12844,285,07-28-2024,Returned,PayPal,1490,20
+12081,596,09-03-2024,,PayPal,-3,0
+11351,529,NULL,shipped,credit card,0,0
+10049,350,2022-11-13,Cancelled,,free,10
+12110,159,0000-00-00,pending,credit card,990,0
+11326,196,2022-08-21,Cancelled,,0,0
+12736,493,2024-06-26,Cancelled,credit card,0,5
+12135,611,2022-09-06,Returned,paypal,9.99,0
+10059,499,24/08/2023,delivered ,Cash on Delivery,,5
+10034,27,07/01/2023,Pending,Bank Transfer,4.99,0
+11023,523,2024-08-31,Pending,COD,0,0
+12703,342,2022-08-06,Delivered,Credit Card,,0
+10451,535,2024-01-19,Delivered,COD,4.99,0
+12698,277,2023-05-10,Returned,,1490,0
+11646,305,30/06/2022,Shipped,Bank Transfer,free,0
+12899,508,2023-05-21,Cancelled,,0,0
+10490,445,2023-07-18,pending,credit card,,0
+11238,355,01-25-2024,delivered ,Bank Transfer,0,0
+11833,404,2023-04-08,Cancelled,paypal,4.99,0
+11009,115,21 Jun 2022,Cancelled,Credit Card,-3,0
+12242,129,14 Oct 2023,,paypal,9.99,0
+10179,137,11 Aug 2022,,Cash on Delivery,1490,0
+11117,164,2023-02-01,Pending,COD,1490,0
+12193,91,2022-08-31,shipped,credit card,990,0
+10297,210,2022.06.27,pending,paypal,0,0
+11814,172,2023-11-02,Cancelled,credit card,4.99,0
+12397,372,12/11/2023,Pending,paypal,9.99,0
+10443,387,2023-01-06,canceled,credit card,-3,
+12792,,2022-06-06,Delivered,credit card,1490,0
+11105,540,04/05/2023,SHIPPED,,1490,0
+12804,44,2022-04-25,,Bank Transfer,0,0
+12655,396,2024-08-04,SHIPPED,,990,0
+10389,316,27/01/2022,SHIPPED,credit card,4.99,0
+12090,374,2023-07-25,delivered ,Cash on Delivery,9.99,
+10161,424,2022-07-14,,COD,free,
+12660,407,2024-08-18,shipped,COD,0,0
+12710,309,2022-09-19,shipped,PayPal,9.99,0
+10523,94,2024-07-05,Delivered,PayPal,-3,0
+10579,155,2022.06.11,Cancelled,COD,0,0
+10620,521,2022.03.14,delivered ,PayPal,-3,0
+11017,554,12-21-2023,canceled,Bank Transfer,4.99,0
+11374,486,2022-12-02,canceled,credit card,990,0
+11768,436,21/09/2023,Shipped,COD,1490,20
+10610,,2022-09-13,delivered ,Credit Card,0,0
+11311,285,06-20-2023,Cancelled,,,0
+10316,225,09-06-2023,canceled,Cash on Delivery,-3,0
+11543,,01 Jan 2024,pending,COD,9.99,5 %
+11136,323,2022-07-15,,paypal,990,0
+11625,224,2023-05-11,Pending,,0,0
+10366,217,2024-05-28,Returned,paypal,-3,
+11708,256,2022.09.08,pending,COD,,0
+11102,486,2022-03-27,delivered ,Credit Card,9.99,0
+10809,205,2023-05-19,Returned,paypal,0,10%
+10459,405,2024-04-05,,credit card,0,20
+10654,415,2024-05-24,delivered ,Credit Card,990,0
+11734,639,2022-06-09,Delivered,credit card,0,
+12018,519,2023-09-17,delivered ,Credit Card,0,0
+12941,609,2023-03-31,pending,Cash on Delivery,-3,10%
+10082,301,11 Jun 2022,,PayPal,,20%
+11304,66,2023-06-23,Cancelled,,990,0
+11370,426,2023-09-07,shipped,Credit Card,,0
+11029,582,2024-04-20,Cancelled,,1490,20
+11095,516,2023-11-19,SHIPPED,Cash on Delivery,990,0
+10811,269,02-17-2023,SHIPPED,PayPal,free,-10
+11861,476,2022-03-04,Cancelled,,0,0
+10708,420,2022-06-25,Cancelled,PayPal,1490,0
+12668,102,25 Aug 2022,Cancelled,Credit Card,-3,5
+10893,453,05-01-2024,canceled,COD,9.99,0
+12827,242,28/06/2022,Delivered,paypal,free,0
+11026,,2023-06-16,,COD,,
+12134,73,25/11/2023,pending,Cash on Delivery,,0
+11945,390,13/01/2022,SHIPPED,Credit Card,free,0
+10823,561,03-03-2022,Shipped,Bank Transfer,free,0
+10310,455,2023-01-29,pending,,,15
+11488,417,2023-10-02,shipped,COD,0,10%
+11830,70,21 Feb 2024,shipped,credit card,-3,0
+12741,617,07/02/2022,canceled,PayPal,-3,10%
+10358,153,07/12/2022,canceled,COD,9.99,0
+11500,396,2022-09-24,canceled,PayPal,-3,0
+10258,556,2022-03-30,Cancelled,,4.99,0
+12681,88,05-05-2022,delivered ,Cash on Delivery,-3,0
+12331,262,09/05/2024,,,0,0
+10767,9844,2022-02-28,Cancelled,,9.99,0
+11569,498,2022-04-11,SHIPPED,paypal,-3,0
+10144,21,2023-07-25,Shipped,Credit Card,0,0
+10103,400,2024-07-04,delivered ,Credit Card,free,0
+11765,9891,2022-03-27,Cancelled,COD,-3,0
+11285,495,28/03/2022,SHIPPED,COD,9.99,0
+12391,258,18/03/2022,shipped,Credit Card,4.99,0
+11635,397,10-15-2023,Delivered,credit card,,
+10617,109,12/06/2022,delivered ,credit card,0,0
+12686,125,2022-02-18,Cancelled,Cash on Delivery,free,0
+11303,177,2022-06-15,Returned,,9.99,0
+10710,165,2022-09-04,Returned,Cash on Delivery,0,20
+11778,252,2024-07-08,,Bank Transfer,-3,0
+12238,134,08/01/2022,Cancelled,paypal,0,5
+11408,208,2023-02-02,shipped,Cash on Delivery,free,0
+12855,518,2024-08-11,delivered ,Bank Transfer,0,0
+10519,241,23 Oct 2022,SHIPPED,Credit Card,-3,0
+10380,636,2022-03-30,,paypal,0,5 %
+11185,454,2022-07-11,SHIPPED,Credit Card,0,0
+11094,326,2022-01-17,shipped,Bank Transfer,990,0
+12019,250,14/11/2023,pending,PayPal,0,0
+12178,329,2022-03-19,shipped,Cash on Delivery,0,0
+11633,250,2022-04-13,shipped,paypal,-3,0
+10148,299,2023-08-28,Pending,PayPal,-3,10%
+12729,355,05 Aug 2022,Returned,paypal,9.99,20
+10641,529,2023-07-06,,Credit Card,-3,0
+11492,86,16 Nov 2022,Delivered,,1490,5
+10035,487,2022.06.08,delivered ,paypal,990,15
+12039,215,2022-06-10,,Credit Card,9.99,0
+12887,588,22/04/2024,SHIPPED,paypal,0,0
+12863,633,2023-11-24,Cancelled,Cash on Delivery,free,0
+10046,103,2023-05-14,shipped,,4.99,0
+12915,185,2024-01-20,Shipped,credit card,0,0
+12673,82,2022-02-12,SHIPPED,credit card,0,5
+10489,146,2023-03-21,Cancelled,PayPal,9.99,10
+11292,19,2023-04-30,canceled,PayPal,9.99,0
+10452,134,26 Jun 2023,delivered ,credit card,,-10
+11675,411,2022-07-31,canceled,,1490,0
+10547,603,06-06-2024,delivered ,PayPal,9.99,0
+11525,415,2023-07-27,shipped,credit card,1490,0
+11361,308,25/01/2024,delivered ,paypal,9.99,15
+12943,32,2024-03-04,,,9.99,0
+11215,194,28/08/2023,,paypal,990,0
+12638,296,13/04/2024,Cancelled,credit card,4.99,0
+12648,412,2023-10-02,Pending,Bank Transfer,9.99,5
+12286,253,2024-01-12,Returned,Cash on Delivery,0,0
+11817,586,2023-12-31,,COD,1490,0
+11549,570,23/11/2022,Cancelled,,4.99,0
+10916,334,22/03/2023,SHIPPED,Credit Card,0,0
+10475,447,2024-05-17,SHIPPED,paypal,free,0
+10766,250,2024-07-09,Shipped,COD,990,0
+10919,262,2024-05-21,Returned,paypal,4.99,0
+11856,377,2023-12-25,Delivered,Cash on Delivery,free,0
+11364,275,2023-09-17,Cancelled,Credit Card,0,0
+12590,,2023-04-26,,Bank Transfer,0,0
+12128,405,2023-12-05,pending,COD,free,0
+10983,549,2022-11-03,Cancelled,credit card,,0
+12649,33,2022-07-19,Cancelled,Credit Card,9.99,0
+12270,199,11/08/2022,SHIPPED,paypal,4.99,15
+11498,456,2024-06-11,delivered ,Cash on Delivery,9.99,10
+10050,508,2023-03-19,pending,PayPal,4.99,20
+12254,564,2023-02-20,Pending,COD,free,0
+11911,172,2024-09-19,Shipped,paypal,990,15
+10301,466,2024-04-20,delivered ,Credit Card,4.99,0
+11780,492,2023-08-12,SHIPPED,credit card,9.99,0
+12051,251,2024-03-23,Returned,paypal,-3,0
+10683,592,2022-05-30,Delivered,PayPal,0,5
+10917,456,N/A,shipped,,,0
+12551,594,2024-04-01,SHIPPED,,0,5
+10907,195,10/06/2022,SHIPPED,credit card,1490,0
+12185,543,2024-03-04,shipped,PayPal,0,0
+12316,411,2022-02-07,pending,paypal,9.99,0
+11688,624,2024-03-23,delivered ,PayPal,1490,0
+10467,112,02-11-2023,Pending,PayPal,-3,0
+10643,335,2023-10-04,Pending,paypal,,0
+11138,307,2023-06-14,pending,PayPal,free,0
+10733,451,02 Feb 2022,Cancelled,credit card,free,
+10960,597,2024.07.21,Cancelled,Cash on Delivery,9.99,0
+11329,621,06-13-2024,delivered ,credit card,,0
+10018,411,2022-08-11,Cancelled,credit card,,0
+11174,135,08-28-2022,shipped,Cash on Delivery,,0
+11323,511,2023.08.10,Pending,Credit Card,4.99,0
+11663,79,07-13-2022,,paypal,990,10
+11784,331,30/10/2023,canceled,Bank Transfer,0,0
+12419,458,2023-12-24,Cancelled,Credit Card,free,0
+12374,,17/09/2024,SHIPPED,PayPal,free,0
+11770,10,2023-08-27,shipped,Credit Card,4.99,0
+10228,255,2024-04-18,delivered ,Credit Card,0,
+10634,492,2023-06-24,Shipped,credit card,free,0
+12773,59,2022-02-17,Pending,PayPal,-3,20
+10384,204,2022-07-12,pending,Cash on Delivery,0,0
+10928,1,2024-01-08,Pending,Cash on Delivery,,0
+11931,608,2023-01-17,Shipped,,0,10
+10121,512,09-24-2023,Delivered,Cash on Delivery,-3,0
+11055,309,2022-11-17,delivered ,COD,4.99,0
+10974,139,31 Jul 2022,Returned,,,15
+10265,508,2024-08-30,Delivered,credit card,4.99,
+12868,331,15/06/2024,,Cash on Delivery,4.99,0
+10757,564,2024-06-20,Cancelled,PayPal,9.99,0
+10135,574,06/07/2024,shipped,Cash on Delivery,9.99,0
+11438,331,2024-01-28,pending,Cash on Delivery,4.99,0
+12600,452,2023.06.23,pending,,1490,0
+10441,295,2022-03-20,Shipped,Cash on Delivery,990,5 %
+11601,215,05-23-2022,pending,paypal,free,0
+10088,331,21/09/2023,Pending,paypal,0,0
+11786,115,06/09/2023,Shipped,paypal,,
+10837,141,2022-11-25,,Credit Card,1490,15
+10184,499,2023.09.20,pending,credit card,-3,0
+10646,60,2023-01-05,,Credit Card,1490,0
+12099,244,2023-08-26,canceled,PayPal,0,0
+11915,12,09/05/2022,,Bank Transfer,1490,-10
+11573,564,2024-07-02,delivered ,paypal,-3,0
+11159,421,2024-03-22,canceled,Bank Transfer,4.99,
+12891,314,2022.06.10,canceled,Bank Transfer,0,0
+11715,49,2022.05.08,Cancelled,,free,0
+10312,382,2024-05-07,Cancelled,Cash on Delivery,,5 %
+10517,272,16 Mar 2022,shipped,PayPal,-3,0
+11977,114,30 Jul 2023,Cancelled,credit card,0,0
+11118,61,2023-03-06,SHIPPED,,free,0
+11725,134,2022-02-02,Cancelled,Credit Card,0,0
+11266,172,2022-06-02,Cancelled,COD,0,0
+12091,379,2023-08-18,Cancelled,COD,9.99,20
+11305,60,2024-05-18,shipped,paypal,4.99,5
+12575,98,2022-11-19,Returned,PayPal,990,-10
+12354,223,04-30-2023,Cancelled,PayPal,free,0
+12871,492,06-29-2022,canceled,Cash on Delivery,4.99,0
+11624,634,2023.07.18,Cancelled,,1490,0
+10295,580,2022-07-16,delivered ,COD,9.99,0
+11010,466,02-25-2022,delivered ,PayPal,990,0
+11278,251,2022-04-13,Cancelled,paypal,990,20%
+12553,538,17 Jun 2024,pending,credit card,,0
+10590,27,2022-02-25,Returned,,,10
+10142,352,2022-07-01,SHIPPED,Bank Transfer,,0
+11796,514,29/03/2022,pending,paypal,9.99,0
+10688,495,2024-02-24,delivered ,COD,-3,0
+10555,215,08-12-2022,shipped,PayPal,990,0
+11629,57,2023-02-14,pending,Credit Card,free,0
+11892,478,2024-03-09,pending,,0,0
+11668,109,2024.05.03,shipped,Bank Transfer,990,0
+11996,384,2022-04-22,Delivered,paypal,free,0
+10413,153,2023-12-08,Cancelled,paypal,-3,0
+12244,252,2022-06-03,pending,,-3,150
+12097,349,2022-02-27,delivered ,Credit Card,1490,0
+12865,389,2024.07.25,SHIPPED,Bank Transfer,0,0
+11205,147,2023-01-18,shipped,PayPal,1490,0
+10097,65,,shipped,Bank Transfer,-3,10
+12333,9413,2022.01.12,Shipped,COD,9.99,0
+10645,336,18/11/2022,pending,PayPal,0,10
+11879,392,2023-06-28,Cancelled,paypal,-3,0
+10731,,30/05/2024,Shipped,credit card,,0
+11211,421,2022-05-11,Cancelled,COD,1490,0
+11682,628,13/11/2022,Pending,credit card,free,0
+10038,388,2022-06-23,canceled,Credit Card,-3,0
+11335,157,2022-05-28,Pending,Credit Card,1490,0
+10873,629,2024-09-26,Cancelled,Bank Transfer,0,0
+12897,322,10-28-2022,SHIPPED,paypal,4.99,0
+11799,,07-29-2023,shipped,credit card,0,0
+10421,46,2022-06-21,Delivered,COD,0,0
+11920,443,2022-03-11,Cancelled,paypal,4.99,0
+12358,345,2023-06-24,Shipped,Bank Transfer,990,0
+11835,88,12/07/2022,SHIPPED,Credit Card,-3,0
+10638,570,2024-03-09,delivered ,Bank Transfer,0,0
+12582,247,2024-06-22,pending,,9.99,0
+11794,142,07/12/2022,delivered ,credit card,1490,0
+10003,366,2023-02-10,,PayPal,1490,20%
+12481,273,2022-07-10,Cancelled,Bank Transfer,0,
+12998,213,09-16-2023,pending,,0,0
+11443,467,2024-02-18,canceled,Credit Card,9.99,0
+11905,461,2023.03.21,delivered ,Bank Transfer,free,0
+12025,357,2023.12.12,,PayPal,0,0
+11626,,2023-10-21,Pending,credit card,4.99,0
+11676,30,NULL,delivered ,PayPal,1490,0
+10408,543,07/11/2022,delivered ,,1490,0
+10824,173,16/01/2022,shipped,PayPal,0,0
+10496,27,2023-06-25,delivered ,credit card,0,0
+11203,432,2022-09-28,Pending,COD,4.99,
+12839,184,2023.01.23,shipped,PayPal,1490,0
+10242,267,08 Apr 2023,pending,COD,0,0
+12776,27,2023.10.24,Cancelled,paypal,9.99,10%
+11435,309,NULL,Delivered,PayPal,0,0
+12910,123,2024-07-17,Delivered,PayPal,0,-10
+10251,15,2023-04-12,Pending,,-3,
+12809,13,2023-09-15,pending,Cash on Delivery,-3,
+12623,144,2024-09-13,Returned,Bank Transfer,0,0
+10920,623,2022-04-26,Cancelled,Cash on Delivery,,0
+11186,486,2023-08-19,Pending,credit card,990,0
+11948,533,2023-08-07,delivered ,paypal,9.99,15
+10438,169,2023-08-23,shipped,,0,10
+10009,514,2024-07-20,canceled,paypal,990,0
+11644,9372,2023-05-22,Returned,,1490,0
+12480,125,05-09-2024,Delivered,PayPal,990,0
+11327,293,2023-09-17,delivered ,credit card,9.99,0
+12785,90,2024-06-09,Returned,COD,-3,0
+10494,9683,2024-05-22,canceled,credit card,-3,0
+11883,29,2024.01.10,Cancelled,Credit Card,990,10%
+12830,273,23/08/2023,canceled,Cash on Delivery,-3,
+12907,434,15/08/2024,shipped,Cash on Delivery,-3,15
+10226,576,24/11/2022,Returned,paypal,free,0
+12418,208,2024-06-02,Delivered,Cash on Delivery,0,0
+11453,448,2024-08-16,Shipped,,9.99,0
+10586,,2024-04-22,Cancelled,COD,1490,0
+12405,454,2024-05-12,delivered ,Cash on Delivery,1490,
+10769,166,2023-12-01,Pending,Credit Card,0,0
+11322,363,2023-12-09,Shipped,Cash on Delivery,free,
+10246,617,05-07-2023,pending,paypal,-3,0
+12829,590,2022-07-20,Returned,Bank Transfer,-3,0
+11984,624,05 Feb 2024,shipped,Credit Card,4.99,20
+10997,21,2023-12-08,Cancelled,paypal,4.99,10
+12552,608,2022-12-24,Shipped,credit card,4.99,0
+11891,635,2022-03-11,canceled,PayPal,0,0
+12084,132,18/03/2022,Shipped,paypal,4.99,0
+11501,169,2022-10-22,canceled,PayPal,9.99,0
+11825,619,NULL,canceled,COD,free,0
+11130,627,2022-02-27,shipped,,0,20
+11318,63,07/12/2022,Delivered,Credit Card,0,0
+11671,326,2022-08-11,Cancelled,COD,0,0
+12502,523,2022-09-14,canceled,,free,0
+12986,424,06-07-2024,SHIPPED,PayPal,1490,0
+11968,500,2022-10-10,Returned,COD,free,0
+12444,190,04-24-2023,pending,credit card,,0
+10471,505,2024-09-16,,PayPal,0,0
+12971,14,09/05/2023,delivered ,,0,0
+10612,230,08-28-2023,canceled,Bank Transfer,free,0
+12455,447,01/08/2023,Cancelled,credit card,9.99,0
+12967,229,2024-04-12,Cancelled,,free,0
+11989,476,2023-01-23,Returned,credit card,-3,0
+12412,181,2024-05-08,,PayPal,0,0
+11060,513,2022-07-03,canceled,Credit Card,0,0
+11096,266,2023.06.25,SHIPPED,Bank Transfer,,0
+10845,103,2022-01-09,Cancelled,Credit Card,free,10
+11858,354,2022.02.28,,COD,4.99,15
+12928,335,11/01/2022,,PayPal,1490,-10
+12524,436,2022-07-06,SHIPPED,COD,free,10
+11353,331,07-03-2023,Returned,credit card,free,20
+12062,,2023-08-07,Shipped,credit card,9.99,0
+12302,454,N/A,Delivered,Bank Transfer,-3,0
+10723,561,N/A,canceled,PayPal,1490,0
+10661,14,2022.05.19,pending,COD,,0
+12147,9156,2024-05-10,delivered ,,4.99,0
+11684,521,05-30-2024,shipped,Credit Card,0,0
+12394,391,2023-01-26,SHIPPED,Credit Card,free,0
+10651,442,2024-03-19,delivered ,Cash on Delivery,,
+11992,321,22 Jul 2022,Cancelled,credit card,1490,0
+12908,374,N/A,Shipped,paypal,,0
+12518,620,11/09/2023,,paypal,0,0
+10166,398,05/04/2024,Cancelled,PayPal,0,
+12604,596,2022.01.27,shipped,Credit Card,0,
+11732,18,10/10/2022,Shipped,PayPal,990,0
+10209,82,02/04/2023,Cancelled,Cash on Delivery,0,0
+10504,1,N/A,SHIPPED,,1490,0
+10977,441,2022-10-26,Cancelled,COD,free,0
+10611,604,2024-04-21,Pending,,free,0
+10185,9882,2024-06-09,Cancelled,paypal,0,0
+12595,360,2022-08-02,canceled,,9.99,5
+11514,24,2024-08-19,,credit card,-3,0
+12959,368,16/09/2024,,Credit Card,0,5 %
+10149,628,08-08-2024,shipped,credit card,-3,0
+11114,452,2023.03.31,Shipped,paypal,,0
+10243,210,2024.04.03,Delivered,Bank Transfer,0,0
+12744,195,05-15-2023,,paypal,4.99,0
+10010,20,10-09-2022,pending,Cash on Delivery,4.99,0
+11252,286,08/09/2024,pending,PayPal,0,0
+11110,192,2023-02-28,canceled,Bank Transfer,-3,15
+10392,563,14/07/2023,shipped,COD,4.99,0
+12913,594,NULL,shipped,COD,-3,0
+11046,9753,2023-03-16,,Bank Transfer,,0
+12942,606,2022-01-16,SHIPPED,,0,0
+11783,66,NULL,canceled,,,0
+10505,508,2023-01-21,pending,Bank Transfer,0,5 %
+12020,352,2022.06.02,SHIPPED,COD,,0
+10090,290,2022-08-20,,,4.99,20%
+12024,25,2022-11-25,Cancelled,Cash on Delivery,-3,0
+11653,387,2023-08-16,Returned,PayPal,0,20
+12317,591,2023-05-29,Cancelled,Credit Card,,0
+11510,325,2023-05-15,canceled,paypal,,0
+11315,71,2023-04-29,canceled,COD,4.99,10
+12170,369,14/03/2024,Delivered,COD,4.99,0
+10508,257,2023.07.02,,,0,0
+10833,317,2023-05-24,Cancelled,Bank Transfer,,
+10297,210,2022.06.27,pending,paypal,0,0
+11867,590,06/04/2023,canceled,Cash on Delivery,9.99,
+12615,223,20/03/2022,shipped,paypal,990,0
+12780,543,12-09-2022,canceled,COD,,5 %
+10253,477,14 Aug 2023,delivered ,Bank Transfer,0,0
+10930,449,2024-07-07,Returned,,4.99,0
+11906,196,23/06/2024,Cancelled,,9.99,0
+10792,317,04-09-2023,Delivered,credit card,,
+11507,505,2024.06.17,delivered ,Credit Card,990,0
+11372,132,2022-08-14,shipped,paypal,4.99,0
+12295,453,2022.06.07,Cancelled,paypal,,0
+11425,,2022-10-17,delivered ,PayPal,0,0
+10410,565,2022-04-23,,credit card,4.99,0
+12768,594,13/01/2022,Delivered,paypal,0,0
+12788,89,2022-02-18,pending,paypal,-3,0
+10106,606,2022-03-14,canceled,credit card,1490,0
+11657,110,N/A,Returned,credit card,,0
+10263,536,14/08/2023,shipped,paypal,9.99,0
+12386,488,2023-01-05,delivered ,credit card,-3,0
+12366,233,03-15-2024,Cancelled,Credit Card,free,5 %
+11058,91,2023-12-29,shipped,PayPal,free,0
+10675,369,25/04/2024,Cancelled,paypal,-3,-10
+11504,184,2022-11-24,Delivered,Bank Transfer,0,0
+12921,223,2022-07-28,Returned,PayPal,0,150
+12650,212,2023-10-06,Returned,Credit Card,9.99,0
+12556,470,05 Apr 2022,pending,PayPal,,
+12859,608,26/05/2023,Pending,paypal,free,0
+12010,86,2023-03-02,Returned,Bank Transfer,0,0
+12906,576,2024-07-09,Cancelled,Credit Card,-3,0
+10482,92,03/07/2023,Pending,paypal,9.99,0
+12404,271,2023-11-03,Pending,Bank Transfer,,0
+10589,553,2024-08-04,shipped,PayPal,990,150
+12267,391,2023-06-12,canceled,,9.99,10
+10274,579,2023-11-01,Returned,,0,
+12250,591,2022-06-26,,Cash on Delivery,4.99,0
+10655,112,2023-09-15,,COD,9.99,
+12901,434,02/09/2024,Returned,Credit Card,9.99,0
+11343,159,07-07-2023,shipped,PayPal,-3,0
+11578,360,03-28-2023,delivered ,COD,0,0
+10596,292,2022-09-10,delivered ,,4.99,0
+10453,474,10-26-2022,Shipped,PayPal,,5 %
+11841,446,05/03/2024,Cancelled,Credit Card,free,0
+11719,195,09-17-2022,Cancelled,COD,0,0
+12278,315,28/05/2022,Returned,paypal,0,0
+11801,348,2024-07-28,pending,paypal,4.99,0
+11360,579,NULL,Delivered,PayPal,4.99,0
+12204,31,2024-03-11,delivered ,Cash on Delivery,990,10
+11081,10,2024.08.21,SHIPPED,Bank Transfer,-3,0
+10132,330,2022-09-10,Returned,,-3,0
+10487,533,2023.11.10,Returned,PayPal,9.99,0
+10288,443,09 Feb 2023,canceled,,0,20%
+11263,330,08/10/2023,Pending,Bank Transfer,990,15
+11013,9690,2022-07-07,shipped,paypal,,0
+11681,121,2023-11-05,delivered ,Credit Card,0,0
+12806,86,2022-04-26,,COD,,0
+12923,350,2023-07-25,Delivered,Credit Card,-3,0
+11895,408,2023.03.13,Cancelled,,0,0
+12609,319,2024-01-12,Shipped,COD,1490,0
+11312,361,2022-09-18,Shipped,COD,free,0
+11586,245,13/10/2023,Cancelled,,4.99,0
+10414,192,02-22-2024,Pending,paypal,,
+12410,192,21/02/2023,Shipped,Bank Transfer,,0
+12361,213,09/08/2022,shipped,Cash on Delivery,,0
+11739,310,2022-07-28,Cancelled,Cash on Delivery,9.99,10
+10280,69,2024-08-29,Delivered,PayPal,9.99,0
+11860,214,2022-09-23,canceled,,0,0
+11870,542,2022-01-12,Pending,PayPal,,0
+12074,582,2024-08-17,Returned,paypal,4.99,
+12060,614,NULL,Shipped,Bank Transfer,1490,0
+10427,431,2022-08-05,,PayPal,0,10%
+10662,78,2022-06-18,Cancelled,Cash on Delivery,0,-10
+11941,52,2023-05-13,Returned,paypal,-3,0
+10130,423,14/02/2023,Cancelled,Bank Transfer,,0
+10879,310,2022-01-19,Returned,Cash on Delivery,4.99,0
+11139,268,2023-01-19,shipped,paypal,4.99,0
+12560,266,11-09-2023,Delivered,credit card,0,0
+11759,143,08-02-2024,Returned,,9.99,0
+11286,59,2023-03-23,Shipped,COD,0,150
+12036,86,01-04-2024,delivered ,Cash on Delivery,,0
+10449,511,2022-07-18,pending,credit card,,0
+11202,571,2022-01-18,pending,PayPal,1490,0
+10083,374,2022-06-16,pending,Cash on Delivery,0,0
+12126,415,2024-01-07,pending,Cash on Delivery,1490,0
+10210,621,26/09/2022,Cancelled,Cash on Delivery,9.99,0
+10396,18,05-10-2022,pending,paypal,990,0
+12378,38,2024-09-16,Delivered,credit card,,15
+12218,561,2024-06-18,Shipped,Bank Transfer,1490,10
+11645,294,17/01/2024,shipped,Bank Transfer,990,-10
+10843,420,2023-11-24,Cancelled,COD,-3,10%
+11926,52,2022-11-14,Cancelled,Bank Transfer,0,0
+11406,596,18 Jun 2024,canceled,COD,free,0
+10087,138,2022.01.01,delivered ,PayPal,4.99,0
+11028,125,2022.01.03,shipped,COD,0,0
+10822,584,2024-01-09,Cancelled,,,0
+10129,13,2024-05-28,Returned,paypal,free,0
+10386,608,07-19-2023,pending,Cash on Delivery,9.99,5
+11577,495,13 Mar 2022,Cancelled,COD,990,0
+12497,46,2023.10.05,,Cash on Delivery,free,0
+10955,607,03-08-2022,SHIPPED,Bank Transfer,4.99,
+11847,579,2023-10-23,pending,credit card,0,
+11964,,2022.05.11,delivered ,Credit Card,1490,10
+12356,153,2022-07-10,shipped,credit card,990,0
+11378,628,2024-02-16,Cancelled,COD,990,0
+11595,365,2022-11-09,,Credit Card,9.99,0
+11494,213,2023-09-06,Delivered,PayPal,-3,0
+11270,5,01-14-2024,Cancelled,COD,0,0
+12471,291,2022-04-12,Delivered,Bank Transfer,,0
+12979,62,06/06/2023,Cancelled,COD,,15
+12188,27,2022-05-25,,Cash on Delivery,4.99,0
+11880,110,2024-02-11,Cancelled,Cash on Delivery,-3,0
+12909,431,2022-09-14,Cancelled,Cash on Delivery,,0
+12359,452,2024-07-26,Returned,,,0
+10164,292,2023-08-07,Delivered,credit card,4.99,5
+12523,9267,2023-02-06,pending,Cash on Delivery,990,0
+12411,30,26/02/2022,canceled,paypal,4.99,5
+11129,277,02-28-2022,canceled,Cash on Delivery,free,0
+10152,560,2022-05-19,pending,COD,free,0
+11898,29,2023-08-09,,Cash on Delivery,990,10
+11842,495,2024-05-08,shipped,,0,0
+10827,169,NULL,SHIPPED,,0,0
+12005,26,2023-07-25,delivered ,COD,1490,0
+12833,162,03-11-2023,shipped,Bank Transfer,1490,
+11348,532,24/09/2024,Shipped,,1490,0
+12521,512,2024-04-16,Cancelled,Bank Transfer,4.99,0
+11248,614,2024-05-09,Delivered,PayPal,4.99,0
+12003,624,2023-03-17,shipped,,0,0
+12468,178,2022-02-19,pending,paypal,0,0
+12538,64,2023-03-13,shipped,COD,0,20
+11041,164,2023-07-28,Returned,credit card,990,0
+10345,556,2023-02-14,Delivered,PayPal,,0
+10381,491,2022-12-26,canceled,credit card,0,0
+10124,,14/07/2022,Returned,Bank Transfer,4.99,0
+11189,176,2022-01-31,pending,paypal,1490,0
+10970,13,2022-07-19,,credit card,990,0
+11917,632,12-12-2023,shipped,Cash on Delivery,free,0
+12723,610,2023-11-27,pending,Bank Transfer,1490,0
+12458,152,07-22-2022,shipped,paypal,0,0
+10741,46,06/05/2023,,paypal,-3,
+10771,69,2022-06-04,shipped,COD,0,0
+11417,353,2024-04-15,,Bank Transfer,1490,0
+12201,97,18/02/2024,Cancelled,Credit Card,,0
+12677,53,08-27-2022,Delivered,credit card,free,0
+12138,9,2023-07-14,Cancelled,credit card,990,0
+10172,40,2022-08-28,canceled,credit card,0,0
+11627,383,2022-10-08,pending,COD,9.99,10
+10556,195,14/09/2023,pending,Bank Transfer,990,0
+11502,,2023-02-28,canceled,Cash on Delivery,990,0
+12456,158,12-18-2022,canceled,,0,0
+10985,499,2024-08-14,delivered ,Bank Transfer,-3,0
+11466,200,09-21-2023,delivered ,Bank Transfer,990,0
+10624,610,2023-11-16,Cancelled,Bank Transfer,0,0
+10857,391,0000-00-00,delivered ,credit card,0,0
+10047,200,2024-02-13,canceled,Bank Transfer,free,0
+10902,564,07-21-2023,Pending,PayPal,990,0
+12512,324,2022-07-14,Delivered,paypal,4.99,0
+10943,175,N/A,Cancelled,Cash on Delivery,9.99,5
+12838,301,19/10/2023,Returned,Bank Transfer,4.99,10%
+12498,127,,canceled,,990,0
+12932,56,2023-07-23,,COD,0,0
+11097,47,2022.05.20,pending,paypal,0,0
+11579,41,2024-03-03,Pending,PayPal,0,10
+11997,9959,15/02/2024,Pending,PayPal,0,0
+11000,182,2024-05-12,Shipped,Bank Transfer,4.99,0
+11386,549,2022-11-16,shipped,Bank Transfer,1490,0
+11018,491,2024-07-19,Cancelled,COD,-3,0
+10275,179,2022-06-16,shipped,PayPal,0,
+12268,377,26/07/2023,Pending,Credit Card,1490,0
+12653,367,2023-04-30,delivered ,COD,free,0
+11072,115,2022-01-29,Pending,,-3,0
+10613,105,12 Apr 2022,Cancelled,,990,-10
+12824,42,30 Jul 2022,delivered ,,-3,15
+11884,96,2022-11-30,Delivered,PayPal,-3,0
+10285,194,08/08/2022,Returned,credit card,0,20%
+12144,339,22 Sep 2022,Delivered,Bank Transfer,free,0
+12767,111,2023-05-27,,Cash on Delivery,,0
+11640,599,28 Mar 2024,canceled,,4.99,0
+10805,631,2023-11-07,SHIPPED,,1490,0
+11751,49,2023-02-22,Cancelled,Cash on Delivery,9.99,0
+10405,212,13 Nov 2023,canceled,Credit Card,1490,0
+10889,161,07-01-2022,Cancelled,Bank Transfer,990,10
+10211,512,2023-07-14,,Cash on Delivery,1490,
+12290,204,18/05/2023,shipped,Credit Card,1490,10
+11187,581,2023-05-18,Cancelled,paypal,0,0
+12297,614,03-01-2023,pending,Cash on Delivery,4.99,0
+10150,347,2024-09-10,Shipped,,free,5 %
+12996,405,2022-08-07,Shipped,Bank Transfer,,-10
+10543,575,2022-05-15,Returned,Cash on Delivery,free,15
+11530,593,2023-06-06,pending,PayPal,990,
+11807,342,29/05/2024,delivered ,paypal,1490,0
+11979,,02-02-2024,canceled,,4.99,0
+11346,567,10-09-2022,pending,Bank Transfer,-3,0
+12490,349,2022.08.30,Cancelled,Credit Card,1490,0
+11622,479,2024.03.12,Delivered,PayPal,9.99,0
+10561,392,2024-01-18,SHIPPED,,0,0
+10075,390,2022-07-23,shipped,credit card,1490,0
+11648,384,26/04/2022,Delivered,COD,,0
+10480,464,19/06/2022,Pending,COD,,0
+11496,423,2022-12-16,shipped,credit card,1490,0
+12890,,2023-03-27,shipped,Bank Transfer,4.99,0
+12380,593,0000-00-00,Cancelled,credit card,-3,0
+10885,607,2024-08-04,Cancelled,COD,,150
+11254,250,NULL,canceled,PayPal,free,0
+10020,9849,09/12/2022,shipped,COD,free,0
+11156,410,2023-03-05,SHIPPED,COD,0,0
+12561,53,2023-01-02,shipped,Bank Transfer,0,0
+12399,478,2024.04.07,Shipped,COD,990,0
+12186,95,2023-05-19,Shipped,paypal,4.99,0
+10544,412,12-05-2022,canceled,COD,-3,0
+11457,132,2023.10.19,Delivered,Credit Card,-3,0
+10631,,2023-07-29,Cancelled,paypal,9.99,10
+12620,583,2023-10-15,SHIPPED,Credit Card,9.99,
+12053,509,2022-12-15,shipped,credit card,1490,0
+10864,237,2022-09-22,,PayPal,free,10%
+12434,134,2023-09-30,Pending,PayPal,,0
+12117,175,2022-04-16,delivered ,paypal,0,0
+11788,336,2022-06-08,Returned,Bank Transfer,990,0
+10791,272,09-11-2022,delivered ,Cash on Delivery,990,0
+10007,120,11-07-2022,,Credit Card,-3,0
+12226,389,2022-06-29,Returned,Bank Transfer,,0
+10433,247,2023-09-14,Returned,credit card,-3,0
+12287,190,2023-01-26,canceled,paypal,990,5 %
+10028,551,2023-10-25,,Credit Card,-3,0
+10607,33,01/03/2023,Shipped,credit card,,15
+10425,634,07-23-2024,delivered ,COD,1490,0
+11079,448,15 Aug 2023,SHIPPED,credit card,9.99,0
+11925,227,27/08/2022,pending,paypal,4.99,0
+11197,306,2022-07-28,Returned,credit card,0,0
+10238,331,2023-02-10,Shipped,COD,0,0
+11551,249,2024-08-04,delivered ,paypal,,0
+11613,76,02/03/2022,,PayPal,4.99,0
+10898,590,2022-06-14,Returned,Credit Card,-3,0
+10554,9375,16/05/2024,Cancelled,Bank Transfer,-3,0
+11813,46,2023-06-28,Delivered,COD,4.99,0
+10021,595,25/02/2023,SHIPPED,credit card,1490,0
+11545,639,2023-01-06,Shipped,credit card,4.99,0
+11659,417,2023-02-22,Cancelled,Cash on Delivery,1490,0
+11550,92,2023-08-08,delivered ,COD,,0
+12453,611,2023.05.21,Cancelled,Bank Transfer,0,0
+11140,261,2023-12-19,,Credit Card,-3,0
+11204,189,2023-06-19,Shipped,Bank Transfer,free,0
+11962,322,2023-02-01,Delivered,Cash on Delivery,990,0
+10853,188,2024-08-13,Cancelled,Bank Transfer,990,10
+11994,175,10-28-2022,Cancelled,COD,0,0
+12762,434,2022-12-17,Cancelled,,-3,0
+11350,451,11/05/2022,pending,paypal,0,0
+11623,522,03/12/2023,Cancelled,paypal,0,0
+12171,9987,2024.09.15,delivered ,COD,4.99,0
+11135,636,24/02/2024,Returned,Bank Transfer,1490,10
+12065,134,28/06/2024,Shipped,,-3,0
+12784,441,2022-12-28,,COD,0,0
+12163,30,2023-06-02,delivered ,,free,0
+11616,93,02-28-2022,canceled,Bank Transfer,990,0
+12925,576,2024-09-17,SHIPPED,credit card,0,0
+11050,572,02-24-2023,,PayPal,-3,5 %
+10821,378,2022-10-02,delivered ,Credit Card,0,15
+10122,314,2023-10-17,SHIPPED,COD,,0
+10041,208,2023-10-04,delivered ,credit card,0,0
+11030,9814,,Returned,COD,9.99,0
+11985,,2022-06-21,Delivered,credit card,,0
+10512,557,01-30-2022,,Credit Card,9.99,
+11932,530,2022-09-13,,paypal,9.99,0
+10294,275,2023.09.01,Cancelled,paypal,-3,
+10440,517,25/09/2022,Pending,,990,10
+12327,440,2024-03-20,canceled,credit card,4.99,0
+12895,165,2022-09-28,shipped,Bank Transfer,-3,0
+12345,615,07-04-2022,Cancelled,PayPal,0,0
+13000,235,2024-08-31,canceled,COD,0,0
+11054,164,01-06-2023,delivered ,,0,5
+11184,585,12-13-2023,shipped,COD,free,20
+11037,143,04/04/2022,Returned,,-3,10%
+11980,103,2023-04-15,delivered ,Cash on Delivery,-3,150
+10213,146,08-30-2024,canceled,PayPal,0,0
+12517,579,2023-10-20,Cancelled,COD,-3,0
+10244,220,2023-01-05,delivered ,paypal,free,10
+10430,286,2024-08-06,Returned,,0,5 %
+10698,606,2024.05.14,Shipped,paypal,0,0
+12000,519,08-09-2024,Cancelled,COD,1490,0
+11912,423,2023-09-02,pending,Credit Card,0,0
+10866,300,2023-03-26,Returned,,,0
+10514,490,2024-08-18,SHIPPED,Credit Card,free,
+12282,531,2022-03-24,Returned,Cash on Delivery,9.99,10
+10483,151,2022-01-22,Delivered,PayPal,-3,0
+11291,87,2023-04-30,Cancelled,Bank Transfer,4.99,0
+10114,606,03-10-2024,canceled,COD,free,0
+12395,599,2024-03-31,canceled,Bank Transfer,990,0
+11371,143,07-26-2024,Shipped,PayPal,1490,
+11550,92,2023-08-08,delivered ,COD,,0
+12707,102,09-11-2022,,credit card,free,5
+12030,617,2024-05-23,pending,PayPal,9.99,0
+12355,428,2023-05-30,,,-3,0
+12749,296,2024-07-19,pending,paypal,,0
+11116,112,0000-00-00,SHIPPED,credit card,1490,10
+10235,352,13/07/2023,canceled,PayPal,0,0
+11363,261,20/12/2022,pending,,9.99,0
+10084,9026,2022-12-06,SHIPPED,COD,0,0
+11308,198,2024.09.21,Cancelled,PayPal,0,0
+12111,387,2022-01-02,Returned,COD,9.99,5 %
+10192,202,0000-00-00,Shipped,COD,0,0
+12658,480,09/04/2024,Shipped,credit card,9.99,0
+12420,353,2023-12-04,Cancelled,Credit Card,990,0
+10525,507,2023-07-09,canceled,,990,0
+11007,210,2022-02-12,canceled,,-3,0
+12685,4,2022-03-10,,Bank Transfer,free,0
+11686,179,26 Jan 2023,canceled,PayPal,,0
+12280,203,2023-09-09,Delivered,Bank Transfer,,0
+11178,38,2022-10-01,Shipped,COD,,0
+10394,,2024-07-01,shipped,Bank Transfer,free,15
+12947,385,17/04/2023,Cancelled,COD,0,0
+12624,191,01-03-2023,pending,Cash on Delivery,9.99,0
+11683,198,2024-04-30,shipped,Credit Card,990,0
+12142,549,2024.03.30,canceled,,990,0
+10108,534,2023-10-06,shipped,,free,
+10921,212,2024-04-07,Pending,Credit Card,-3,20
+10783,80,2024-05-18,,Bank Transfer,-3,0
+10079,318,18/05/2024,pending,COD,4.99,
+12149,420,2023-12-24,Shipped,,990,0
+11460,611,2022-12-06,Cancelled,Cash on Delivery,-3,0
+12303,364,2023-06-05,canceled,PayPal,9.99,0
+10633,548,2022-08-22,delivered ,COD,0,0
+12984,594,09-14-2022,Delivered,,free,0
+12425,593,2024-04-01,Shipped,COD,,0
+12393,,2024.05.09,Delivered,Credit Card,0,0
+12442,243,2024-05-28,pending,paypal,0,0
+10863,323,2022-06-27,shipped,PayPal,4.99,0
+11053,419,2024-05-26,Cancelled,credit card,4.99,0
+11454,537,2023-07-08,delivered ,credit card,0,0
+11610,488,2024-01-10,shipped,PayPal,990,0
+12632,265,0000-00-00,Cancelled,Credit Card,0,0
+11974,514,04-30-2024,Pending,PayPal,0,0
+10951,362,2023-05-02,pending,credit card,1490,20
+12782,251,04-27-2024,Pending,PayPal,,0
+10194,327,N/A,Shipped,Bank Transfer,4.99,
+11212,291,2023-08-19,pending,PayPal,4.99,0
+11154,138,2022-04-06,Shipped,Credit Card,0,0
+12072,318,2022.02.14,SHIPPED,COD,free,0
+10944,630,11/12/2022,Cancelled,Bank Transfer,0,0
+12299,589,21 May 2023,Returned,,1490,0
+10982,79,2023-12-15,Delivered,Cash on Delivery,free,0
+10623,486,2024-04-28,shipped,Bank Transfer,990,0
+11628,534,20/09/2023,delivered ,Cash on Delivery,0,0
+12460,297,12-11-2022,shipped,COD,9.99,0
+11027,465,2022-01-05,Pending,credit card,0,0
+11993,114,N/A,Pending,Credit Card,,0
+10690,4,2024-08-24,Cancelled,credit card,9.99,0
+10188,163,2023.12.18,shipped,PayPal,4.99,0
+11497,282,2023-02-02,SHIPPED,COD,9.99,5 %
+12969,35,N/A,Cancelled,Bank Transfer,-3,0
+12819,523,10-08-2023,Cancelled,Credit Card,0,5 %
+11012,85,2024-08-16,Cancelled,,0,0
+10222,131,10/08/2023,Delivered,,1490,0
+10978,385,2022.07.10,shipped,COD,9.99,0
+11210,122,2023-04-08,,COD,free,
+12461,572,2022.07.28,Cancelled,COD,9.99,0
+10949,86,2022-07-25,Pending,PayPal,1490,0
+10260,614,2024-02-02,Delivered,COD,990,0
+12459,283,15 Oct 2023,Cancelled,paypal,0,15
+11141,310,2022-02-12,Pending,paypal,,0
+10557,640,2022-01-09,Cancelled,PayPal,0,0
+10934,384,2023-01-22,Cancelled,Cash on Delivery,990,0
+11955,111,2023-03-02,pending,PayPal,0,0
+10234,156,N/A,shipped,COD,1490,15
+11342,608,2022-04-28,shipped,credit card,0,0
+10187,347,2022-04-14,shipped,COD,-3,10%
+11369,357,2023-08-12,Returned,paypal,,0
+10681,244,26/09/2024,Cancelled,Credit Card,0,0
+11762,91,,,PayPal,0,0
+12488,44,2023-12-03,,credit card,-3,0
+11709,201,2022.01.20,SHIPPED,,0,5
+10647,360,2023-03-09,Returned,COD,0,
+10493,247,2024.05.20,Shipped,PayPal,-3,
+10015,312,22/11/2023,Pending,COD,free,10
+12243,42,2024-03-07,delivered ,PayPal,4.99,0
+11608,465,2023-03-04,shipped,COD,990,0
+11805,145,30 Sep 2022,,paypal,0,0
+10454,413,2023-01-13,Delivered,Credit Card,9.99,0
+10569,340,25/04/2023,Delivered,,-3,0
+11451,382,2022-04-29,Cancelled,paypal,1490,0
+12786,533,2024-08-23,delivered ,Credit Card,990,
+12403,392,2024.05.09,Cancelled,COD,free,0
+12085,366,2023-04-08,Shipped,COD,0,0
+10195,470,2022.02.02,Shipped,Credit Card,990,0
+10742,199,2023-08-18,canceled,,9.99,0
+12678,134,29/06/2024,Returned,Cash on Delivery,4.99,0
+11461,607,2022-01-22,,Credit Card,-3,0
+10296,193,2022-05-23,Returned,Cash on Delivery,4.99,20%
+12249,264,2022.03.25,Delivered,Credit Card,0,0
+12751,143,08-14-2024,Delivered,paypal,0,-10
+12080,153,2023-05-29,Delivered,COD,9.99,
+10737,439,22/09/2024,shipped,paypal,4.99,15
+10024,378,2023-04-29,Shipped,paypal,1490,0
+10642,411,2022-04-10,shipped,paypal,4.99,15
+10729,173,2023-09-28,delivered ,credit card,9.99,0
+12372,297,2022-11-16,delivered ,,-3,-10
+11199,540,2023-11-08,pending,Cash on Delivery,0,0
+10680,259,2022-07-28,SHIPPED,paypal,-3,0
+12847,316,17/04/2024,Shipped,COD,0,0
+12263,515,2022-10-05,Shipped,paypal,free,0
+12306,182,04-15-2022,Returned,,9.99,0
+10700,,03-22-2022,Pending,Cash on Delivery,-3,0
+10271,487,09/09/2022,Delivered,,0,0
+11047,320,2024.06.15,Cancelled,COD,4.99,0
+11462,430,2023-10-15,SHIPPED,COD,0,0
+11298,15,03-30-2024,canceled,Bank Transfer,1490,20
+12355,428,2023-05-30,,,-3,0
+11865,353,2024-05-15,Pending,Cash on Delivery,4.99,10%
+11044,88,27/05/2022,,PayPal,free,5
+10331,477,2022-05-14,SHIPPED,credit card,,0
+12047,102,2023-04-21,,Cash on Delivery,0,15
+10500,9817,04-05-2022,canceled,Credit Card,free,0
+10816,251,29/06/2023,Cancelled,Bank Transfer,0,
+12692,588,13 Mar 2024,Cancelled,COD,,0
+10911,273,11 May 2022,shipped,,free,0
+10959,302,06-11-2023,pending,,-3,
+11392,20,2022-05-22,delivered ,PayPal,990,
+12216,281,2022-04-26,Pending,COD,1490,0
+11035,423,2023.01.20,delivered ,COD,4.99,
+10387,252,2022-10-28,delivered ,PayPal,0,0
+11821,113,04-09-2024,Pending,COD,1490,0
+11777,163,2023-07-04,Delivered,PayPal,0,0
+11744,551,08-25-2023,Pending,credit card,1490,0
+10125,574,14/12/2023,pending,COD,0,10%
+12617,370,2022-12-16,shipped,,-3,0
+11418,12,2022-09-26,pending,credit card,-3,0
+10105,421,2022-06-14,canceled,COD,1490,0
+12699,383,03-19-2023,Delivered,PayPal,990,0
+12709,245,2023.03.24,Cancelled,,990,0
+10999,29,0000-00-00,Delivered,PayPal,990,0
+10692,95,2023-02-07,shipped,paypal,9.99,
+10099,408,06-08-2023,Delivered,Cash on Delivery,1490,10
+11536,129,2023-10-17,,PayPal,free,0
+12113,388,2024-06-09,Pending,paypal,9.99,0
+12526,447,2022-03-11,Returned,credit card,4.99,0
+10703,99,23/10/2023,Pending,COD,-3,5
+11901,331,12/05/2024,shipped,Bank Transfer,1490,0
+12815,579,2023-07-15,SHIPPED,credit card,1490,15
+10063,370,2024-06-24,Cancelled,Cash on Delivery,1490,5 %
+12631,280,28 Feb 2024,Cancelled,Credit Card,4.99,0
+10278,104,2024-08-27,,COD,0,0
+10313,415,2024.07.09,Shipped,paypal,1490,0
+11888,,2022-11-28,Cancelled,Bank Transfer,0,0
+10058,281,2022-11-30,Shipped,COD,free,0
+11042,429,2024-03-16,pending,COD,9.99,0
+11090,386,2024-02-20,SHIPPED,Bank Transfer,free,20%
+11420,27,18/08/2022,Shipped,credit card,1490,0
+10799,366,2024-08-12,Returned,Credit Card,-3,15
+12344,350,04/02/2022,Returned,Bank Transfer,0,0
+12150,29,16 Sep 2022,shipped,COD,-3,15
+10867,105,2023-10-14,shipped,PayPal,free,0
+10627,116,2024-07-10,delivered ,paypal,-3,0
+11122,610,21 Mar 2022,Delivered,Credit Card,9.99,0
+12799,321,2023.03.22,,,0,5
+10728,146,2024-08-23,,PayPal,free,0
+10230,392,2024-02-16,Delivered,,9.99,15
+11431,17,2023-04-21,pending,credit card,0,20%
+11764,14,04 Nov 2022,canceled,Cash on Delivery,free,
+10312,382,2024-05-07,Cancelled,Cash on Delivery,,5 %
+10605,206,04-09-2024,canceled,COD,free,0
+10905,220,04/02/2024,pending,COD,0,0
+11928,75,04-21-2024,Cancelled,credit card,990,0
+11309,207,2024-05-09,canceled,COD,-3,10
+11180,188,28/06/2024,shipped,Credit Card,free,0
+12230,602,09/05/2022,Cancelled,paypal,0,0
+12236,313,30/12/2022,canceled,Cash on Delivery,4.99,
+12014,506,2023-04-23,Cancelled,Cash on Delivery,1490,0
+12567,182,02/07/2022,shipped,Bank Transfer,990,5
+11593,5,2022-10-25,Pending,paypal,1490,20%
+11706,308,05/12/2022,Delivered,Cash on Delivery,0,0
+10098,130,2023-03-23,Returned,PayPal,-3,0
+10298,211,12-12-2022,Cancelled,paypal,990,0
+11137,340,2022-10-05,Pending,credit card,1490,0
+11280,266,08-01-2024,canceled,,990,0
+10550,75,2024.06.17,shipped,paypal,0,0
+11556,89,2022-12-13,shipped,COD,4.99,150
+12946,226,07-24-2022,Returned,paypal,free,
+10434,348,09-25-2022,Shipped,COD,9.99,0
+12557,394,,SHIPPED,credit card,9.99,
+12598,243,12-20-2023,Cancelled,Credit Card,free,0
+12094,533,08/09/2022,SHIPPED,COD,,0
+10817,9685,19 Nov 2022,shipped,Cash on Delivery,1490,0
+11375,281,2022-08-05,Cancelled,Bank Transfer,1490,0
+12704,208,2024-04-20,pending,paypal,1490,0
+12509,485,19/08/2023,Delivered,Credit Card,4.99,10%
+11073,159,2023-09-03,shipped,paypal,,
+11812,498,2023-05-15,canceled,COD,9.99,0
+10426,158,2022-06-12,Shipped,PayPal,free,0
+12610,370,2022-01-22,Shipped,Bank Transfer,4.99,0
+10073,236,2022-06-17,Delivered,Cash on Delivery,,0
+12422,164,2024.01.07,Pending,credit card,,0
+11716,439,2022-05-20,Returned,Cash on Delivery,,
+11214,12,2024-09-16,canceled,PayPal,free,0
+10026,619,19/07/2024,shipped,Credit Card,990,
+11596,611,2023-04-20,Cancelled,paypal,990,0
+10749,289,2024.09.25,Pending,,free,0
+10247,80,2024.05.23,delivered ,Credit Card,0,0

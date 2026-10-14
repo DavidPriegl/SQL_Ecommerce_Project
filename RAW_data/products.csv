@@ -1,0 +1,43 @@
+product_id,product_name,category,price,stock,supplier
+1,Wireless Mouse,Elektronika,$70.72,292,
+2,USB-C CABLE,Electronics,0,447,Initech
+3,Bluetooth Speaker,Electronics,$177.29,435,Acme Ltd
+4,Webcam HD,electronics ,112.51,,Acme Ltd
+5,Mechanical Keyboard,ELECTRONICS,85.17,162,Acme Ltd
+6,POWER BANK,electronics ,235.31,428,Wayne Supplies
+7,Smartwatch,Elektronika,,311,Initech
+8,  Garden Hose ,home & garden,159.92,,Globex
+9,LED LAMP,Home & Garden,87.34,-5,Initech
+10,Plant Pot,Home & Garden,$183.2,302,Umbrella Kft.
+11,Coffee Maker  ,Home and Garden,,370,Umbrella Kft.
+12,Throw Pillow,Home & Garden,187.61,-5,Wayne Supplies
+13,  Storage Box ,Home & Garden,"37,69 EUR",427,Initech
+14,Door Mat,Home and Garden,"244,88 EUR",225,acme ltd
+15,COTTON T-SHIRT,Apparel,89.17,424,Initech
+16,Winter Jacket,CLOTHING ,"135,87 EUR",,Umbrella Kft.
+17,RUNNING SOCKS,clothing,87.52,,Wayne Supplies
+18,Denim Jeans,Apparel,"56,91 EUR",59,acme ltd
+19,Wool Scarf  ,Clothing,94.95,301,acme ltd
+20,Baseball Cap,Clothing,$217.72,,Initech
+21,Hoodie,Apparel,"228,55 EUR",279,
+22,Yoga Mat,sports,149.61,-5,acme ltd
+23,Dumbbell Set,Sports,0,205,Globex
+24,Jump Rope,Sports,106.98,-5,Initech
+25,Water Bottle,Sport,230.82,357,Initech
+26,Resistance Bands  ,Sports,"35,08 EUR",491,acme ltd
+27,  Football ,Sports,$116.3,337,Wayne Supplies
+28,GYM GLOVES,Sports,$78.96,-5,Initech
+29,sql for beginners,Books,172.12,-5,
+30,Python Crash Course,books,138.81,-5,Umbrella Kft.
+31,Data Stories,books,$191.47,162,Wayne Supplies
+32,Clean Code,books,205.49,-5,
+33,Mystery Novel,books,168.46,113,acme ltd
+34,Cookbook,BOOKS,86.94,-5,Umbrella Kft.
+35,ATLAS,books,$37.11,-5,Initech
+36,PUZZLE 1000PC,toys ,"108,15 EUR",-5,Initech
+37,Building Blocks,toys ,43.4,-5,Globex
+38,RC Car  ,Toy,165.00,6,GLOBEX
+39,Board Game,Toys,$172.52,-5,Wayne Supplies
+40,Plush Bear,toys ,107.97,-5,acme ltd
+41,Doll House,Toy,211.51,402,GLOBEX
+42,card game,Toy,$217.97,,
